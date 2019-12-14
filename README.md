@@ -17,4 +17,4 @@ The UI was designed solely for iPhone, targeting iOS7, and uses AutoLayout, whic
 
 All the phrase data and file info is stored in XML files, a legacy from the Flash days. 
 I had planned to convert it to use CoreData, among other things.
-I instead moved on to other work tasks, got married, moved to 4 different states, and began pursuing a 2nd BS in Computer Science, which I intend to complete by ~Sept 2021.
+I instead moved on to other work tasks, got married, moved to 4 different states, took another job doing mobile apps and fullstack web for the Idaho Dept of Fish & Game (where I still currently work), and began pursuing a 2nd BS in Computer Science, which I intend to complete by ~Sept 2021.
