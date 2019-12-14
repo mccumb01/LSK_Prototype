@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T15:03:10">
+
+<dbo_langKit>
+<phraseID>474</phraseID>
+<catID>1</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>We have a malfunction.</englishPhrase>
+<romanized>kosho shteymaas</romanized>
+<unicode>故障しています。</unicode>
+</dbo_langKit>
+
+<dbo_langKit>
+<phraseID>475</phraseID>
+<catID>1</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>We have a problem.</englishPhrase>
+<romanized>mondaa-ee gaa aareemaas</romanized>
+<unicode>問題があります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>476</phraseID>
+<catID>1</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>We have an in-flight emergency.</englishPhrase>
+<romanized>heekoh choo heedjoh jeetaa-ee gaa haas-sey sheemaashtaa</romanized>
+<unicode>飛行中、非常事態が発生しました。</unicode>
+</dbo_langKit>
+
+<dbo_langKit>
+<phraseID>477</phraseID>
+<catID>1</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Go around.</englishPhrase>
+<romanized>sengkaa-ee shteh koodaa saa-ee</romanized>
+<unicode>旋回してください。</unicode>
+</dbo_langKit>
+
+<dbo_langKit>
+<phraseID>478</phraseID>
+<catID>1</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do not land.</englishPhrase>
+<romanized>chaakoo reekoo shee naa-ee deh kudaa saa-ee</romanized>
+<unicode>着陸しないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>479</phraseID>
+<catID>1</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Unsafe (Danger)</englishPhrase>
+<romanized>keekem-des</romanized>
+<unicode>危険です</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>480</phraseID>
+<catID>1</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Stop taxi!</englishPhrase>
+<romanized>kaas-so sheenaa-eedeh koodaa saa-ee!</romanized>
+<unicode>滑走しないでください!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>481</phraseID>
+<catID>1</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Cancel clearance.</englishPhrase>
+<romanized>reereekoo kyo kaa-o toree kehsheemaas</romanized>
+<unicode>離陸許可を取り消します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>482</phraseID>
+<catID>1</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Engine fire!</englishPhrase>
+<romanized>emjeen-nee kaasaa-ee haas-seh!</romanized>
+<unicode>エンジンに火災発生!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>483</phraseID>
+<catID>1</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Aircraft fire!</englishPhrase>
+<romanized>heekohkee deh kaasaa-ee haas-seh!</romanized>
+<unicode>飛行機で火災発生!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>484</phraseID>
+<catID>1</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Reserve airfield.</englishPhrase>
+<romanized>chaakoo reeku baasho o kaako hoh shteh koodaa saa-ee</romanized>
+<unicode>着陸場所を確保してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>485</phraseID>
+<catID>1</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Landing gear problem.</englishPhrase>
+<romanized>chaakoo reeku sochee nee mohndaa-ee gaa haaseh shee maashtaa</romanized>
+<unicode>着陸装置に問題が発生しました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>486</phraseID>
+<catID>2</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Contact ___.</englishPhrase>
+<romanized>___ nee renraakoo sheeteh koodaa saa-ee</romanized>
+<unicode>___ に連絡してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>487</phraseID>
+<catID>2</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Frequency ___ Point ___.</englishPhrase>
+<romanized>shoo haasoo waa ___ tem ___ des</romanized>
+<unicode>周波数は ___・___ です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>488</phraseID>
+<catID>2</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Switch to frequency ___.</englishPhrase>
+<romanized>___ nee shuhaa su wo kaa-etey kudaa saa-ee</romanized>
+<unicode>___ に周波数を変えてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>489</phraseID>
+<catID>2</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Permit me to enter your control zone.</englishPhrase>
+<romanized>kaanseh ku-eekee eh no sheen-nyu-o kyokaa shtee kudaa saa-ee</romanized>
+<unicode>管制区域への侵入を許可してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>490</phraseID>
+<catID>2</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Altitude</englishPhrase>
+<romanized>kohdo</romanized>
+<unicode>高度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>491</phraseID>
+<catID>2</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Flight level</englishPhrase>
+<romanized>heekoh kohdo</romanized>
+<unicode>飛行高度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>492</phraseID>
+<catID>2</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Distance</englishPhrase>
+<romanized>kyoree</romanized>
+<unicode>距離</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>493</phraseID>
+<catID>2</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>A beam of ___.</englishPhrase>
+<romanized>sheengo dempaa ___</romanized>
+<unicode>進行電波 ___。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>494</phraseID>
+<catID>2</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>I passed over ___.</englishPhrase>
+<romanized>___ o tsuu kaa shee maashtaa</romanized>
+<unicode>___ を通過しました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>495</phraseID>
+<catID>2</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Bearing</englishPhrase>
+<romanized>hoh-ee</romanized>
+<unicode>方位</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>496</phraseID>
+<catID>2</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Traffic</englishPhrase>
+<romanized>koh tsoo-ryo</romanized>
+<unicode>交通量</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>497</phraseID>
+<catID>2</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Unidentified aircraft</englishPhrase>
+<romanized>meekaakooneen-no kohkookee</romanized>
+<unicode>未確認の航空機</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>498</phraseID>
+<catID>2</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Aircraft</englishPhrase>
+<romanized>kohkookee</romanized>
+<unicode>航空機</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>499</phraseID>
+<catID>2</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Helicopter</englishPhrase>
+<romanized>hereekoptaa</romanized>
+<unicode>ヘリコプター</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>500</phraseID>
+<catID>2</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Climb to ___.</englishPhrase>
+<romanized>___ eh kohdo wo aageteh kudaa saa-ee</romanized>
+<unicode>___ ヘ高度を上げてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>501</phraseID>
+<catID>2</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Descend to ___.</englishPhrase>
+<romanized>___ eh kohdo wo saageteh kudaa saa-ee</romanized>
+<unicode>___ へ高度を下げてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>502</phraseID>
+<catID>2</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Estimated time of arrival  (ETA)</englishPhrase>
+<romanized>toh-chaaku yoteh jeekaam</romanized>
+<unicode>到着予定時間</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>503</phraseID>
+<catID>2</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Flight plan</englishPhrase>
+<romanized>heekoh keykaakoo</romanized>
+<unicode>飛行計画</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>504</phraseID>
+<catID>2</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Fly heading ___.</englishPhrase>
+<romanized>___ nee mooke teh tondeh kudaa saa-ee</romanized>
+<unicode>___ に向けて飛んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>505</phraseID>
+<catID>2</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>We are bound for ___.</englishPhrase>
+<romanized>waarey waarey waa ___ nee mookaatey maasu</romanized>
+<unicode>我々は ___ に向かっています。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>506</phraseID>
+<catID>3</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Please repeat slowly.</englishPhrase>
+<romanized>moh eechee do yook-kuree eeteh kudaa saa-ee</romanized>
+<unicode>もう一度ゆっくり言ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>507</phraseID>
+<catID>3</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Roger.</englishPhrase>
+<romanized>ryo kaa-ee sheemaashtaa</romanized>
+<unicode>了解しました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>508</phraseID>
+<catID>3</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Over.</englishPhrase>
+<romanized>ee-joh des</romanized>
+<unicode>以上です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>509</phraseID>
+<catID>3</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>I did not understand.</englishPhrase>
+<romanized>waakaaree maasem</romanized>
+<unicode>わかりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>510</phraseID>
+<catID>3</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Your transmission was blocked.</englishPhrase>
+<romanized>jusheen dehkee maasem</romanized>
+<unicode>受信できません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>511</phraseID>
+<catID>3</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Heavy static</englishPhrase>
+<romanized>heedo-ee zaatsu-ohn gaa aareemaas</romanized>
+<unicode>ひどい雑音があります</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>512</phraseID>
+<catID>3</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>The signal is weak.</englishPhrase>
+<romanized>sheengo gaa yowaay des</romanized>
+<unicode>信号が弱いです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>513</phraseID>
+<catID>3</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Say again.</englishPhrase>
+<romanized>moh eechee doh eeteh kudaa saa-ee</romanized>
+<unicode>もう一度言ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>514</phraseID>
+<catID>3</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>This is an American aircraft.</englishPhrase>
+<romanized>kocheeraa waa aamereekaa no kohkookee des</romanized>
+<unicode>こちらはアメリカの航空機です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>515</phraseID>
+<catID>3</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Spell it, please.</englishPhrase>
+<romanized>tsudzuree wo oneygaa-ee sheemaas</romanized>
+<unicode>綴りをお願いします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>516</phraseID>
+<catID>3</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Did you say ___?</englishPhrase>
+<romanized>___ toh eee maashtakaa?</romanized>
+<unicode>___ と言いましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>517</phraseID>
+<catID>3</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>I do not speak Japanese.</englishPhrase>
+<romanized>neehongo gaa waakaaree maasem</romanized>
+<unicode>日本語がわかりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>518</phraseID>
+<catID>3</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Does anyone there speak English?</englishPhrase>
+<romanized>eygo gaa dekeeroo heeto waa eemaaskaa?</romanized>
+<unicode>英語ができる人はいますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>519</phraseID>
+<catID>3</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Am I talking with ___ control?</englishPhrase>
+<romanized>eemaa waataashee waa ___ kaansehtoh toh haanaashtey eemaasukaa?</romanized>
+<unicode>今私は、___ 管制塔と話していますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>520</phraseID>
+<catID>3</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Is there a better frequency to communicate?</englishPhrase>
+<romanized>kohsheen suru nonee mot-to ee shuhaasu waa aareemaaskaa?</romanized>
+<unicode>更新するのにもっといい周波数はありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>521</phraseID>
+<catID>3</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>I read you ___</englishPhrase>
+<romanized>aanaataa no ko-eh ga ___</romanized>
+<unicode>あなたの声が ___</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>522</phraseID>
+<catID>3</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>five-by</englishPhrase>
+<romanized>totehmo yoku keeko-eteh eemaas</romanized>
+<unicode>とてもよく聞こえています</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>523</phraseID>
+<catID>3</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>four-by</englishPhrase>
+<romanized>yoku keeko-eteh eemaas</romanized>
+<unicode>よく聞こえています</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>524</phraseID>
+<catID>3</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>three-by</englishPhrase>
+<romanized>keeko-eteh eemaas</romanized>
+<unicode>聞こえています</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>525</phraseID>
+<catID>3</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>two-by</englishPhrase>
+<romanized>hotondo keeko-eteh eemaasen</romanized>
+<unicode>ほとんど聞こえていません</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>526</phraseID>
+<catID>3</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>I do not read you.</englishPhrase>
+<romanized>zenzen keeko-eh maasen</romanized>
+<unicode>全然聞こえません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>527</phraseID>
+<catID>4</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Runway ___ in use.</englishPhrase>
+<romanized>___ kaas-soro waa shee yoh choo des</romanized>
+<unicode>___ 滑走路は使用中です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>528</phraseID>
+<catID>4</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Wind at ___.</englishPhrase>
+<romanized>hoosokoo waa ___ des</romanized>
+<unicode>風速は ___ です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>529</phraseID>
+<catID>4</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Altimeter</englishPhrase>
+<romanized>kohdo keh</romanized>
+<unicode>高度計</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>530</phraseID>
+<catID>4</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Number ___ to follow.</englishPhrase>
+<romanized>___ baan-nee shtaagaat-teh kudaa saa-ee</romanized>
+<unicode>___ 番に従ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>531</phraseID>
+<catID>4</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Report.</englishPhrase>
+<romanized>hoh-kokoo shteh kudaa saa-ee</romanized>
+<unicode>報告してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>532</phraseID>
+<catID>4</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>___ miles</englishPhrase>
+<romanized>___ maayroo</romanized>
+<unicode>___ マイル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>533</phraseID>
+<catID>4</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>___ kilometers</englishPhrase>
+<romanized>___ keeromeytoroo</romanized>
+<unicode>___ キロメートル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>534</phraseID>
+<catID>4</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Beacon</englishPhrase>
+<romanized>hyoshkee</romanized>
+<unicode>標識</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>535</phraseID>
+<catID>4</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Final (approach)</englishPhrase>
+<romanized>faaynaaru aaprohchee</romanized>
+<unicode>ファイナル・アプローチ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>536</phraseID>
+<catID>4</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Base</englishPhrase>
+<romanized>keechee</romanized>
+<unicode>基地</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>537</phraseID>
+<catID>4</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Headwind</englishPhrase>
+<romanized>mookaay kaazeh</romanized>
+<unicode>向かい風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>538</phraseID>
+<catID>4</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Tailwind</englishPhrase>
+<romanized>o-ee kaazeh</romanized>
+<unicode>追い風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>539</phraseID>
+<catID>4</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Crosswind</englishPhrase>
+<romanized>yoko kaazeh</romanized>
+<unicode>横風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>540</phraseID>
+<catID>4</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Downwind</englishPhrase>
+<romanized>o-ee kaazeh</romanized>
+<unicode>追い風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>541</phraseID>
+<catID>4</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Upwind</englishPhrase>
+<romanized>mookaay kaazeh</romanized>
+<unicode>向かい風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>542</phraseID>
+<catID>4</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Extended (fully)</englishPhrase>
+<romanized>kaakcho saareytaa</romanized>
+<unicode>拡張された</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>543</phraseID>
+<catID>4</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Enter landing pattern.</englishPhrase>
+<romanized>chaakoo reekoo taa-ee seh nee haaeet-teh kudaa saa-ee</romanized>
+<unicode>着陸態勢に入ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>544</phraseID>
+<catID>4</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Cleared to land.</englishPhrase>
+<romanized>chaakoo reekoo o kyokaa sheemaas</romanized>
+<unicode>着陸を許可します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>545</phraseID>
+<catID>4</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Landing gear down.</englishPhrase>
+<romanized>chaakoo reekoo geeyaa o eeretey kudaa saa-ee</romanized>
+<unicode>着陸ギアを入れてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>546</phraseID>
+<catID>4</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Turn on runway lights.</englishPhrase>
+<romanized>kaas-soro no raa-eeto o tsuketeh kudaa saa-ee</romanized>
+<unicode>滑走路のライトをつけてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>547</phraseID>
+<catID>4</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Is your navigation system working?</englishPhrase>
+<romanized>naabeegeyshon sheestem-waa sey-joh deskaa?</romanized>
+<unicode>ナビゲーション・システムは正常ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>548</phraseID>
+<catID>4</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>I see the airfield.</englishPhrase>
+<romanized>heekohjo gaa meeyeymaas</romanized>
+<unicode>飛行場が見えます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>549</phraseID>
+<catID>4</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>I see the runway.</englishPhrase>
+<romanized>kaas-soro gaa meeyeymaas</romanized>
+<unicode>滑走路が見えます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>550</phraseID>
+<catID>4</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>I've landed.</englishPhrase>
+<romanized>chaaku reeku sheemaashtaa</romanized>
+<unicode>着陸しました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>551</phraseID>
+<catID>4</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Is your Instrument Landing System (VOR, TACAN) working?</englishPhrase>
+<romanized>chaaku reeku sheestem waa saado shtey-ee maaskaa?</romanized>
+<unicode>着陸システムは作動していますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>552</phraseID>
+<catID>5</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Taxiway</englishPhrase>
+<romanized>yoodohro</romanized>
+<unicode>誘導路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>553</phraseID>
+<catID>5</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Taxi</englishPhrase>
+<romanized>eedoh shte koodaasaay</romanized>
+<unicode>移動してください</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>554</phraseID>
+<catID>5</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Turn right.</englishPhrase>
+<romanized>meegee nee maagaateh koodaasaay</romanized>
+<unicode>右に曲がってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>555</phraseID>
+<catID>5</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Turn left.</englishPhrase>
+<romanized>heedaaree nee maagaate koodaasaay</romanized>
+<unicode>左に曲がってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>556</phraseID>
+<catID>5</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>To the hardstand.</englishPhrase>
+<romanized>chookeejo eh</romanized>
+<unicode>駐機場へ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>557</phraseID>
+<catID>5</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Follow the "follow-me" truck.</englishPhrase>
+<romanized>yoodoh traak-ku nee tsu-eete eet-te koodaasaay</romanized>
+<unicode>誘導トラックについていってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>558</phraseID>
+<catID>5</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Take runway ___.</englishPhrase>
+<romanized>kaas-soro ___ o reeyoh shteh kudaa saa-ee</romanized>
+<unicode>滑走路 ___ を利用してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>559</phraseID>
+<catID>5</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Hold short of runway.</englishPhrase>
+<romanized>kaas-soro nee sheenyoo sheenaa-ee de kudaa saa-ee</romanized>
+<unicode>滑走路に進入しないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>560</phraseID>
+<catID>5</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Is able, enter next taxiway.</englishPhrase>
+<romanized>kaanoh naraabaa tsugee no yoodohro nee haa-eet-teh kudaa saa-ee</romanized>
+<unicode>可能ならば、次の誘導路に入ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>561</phraseID>
+<catID>5</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Taxi to parking.</englishPhrase>
+<romanized>chyuukeejo nee eedoh shteh kudaa saa-ee</romanized>
+<unicode>駐機場に移動してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>562</phraseID>
+<catID>5</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Marshallers will assist.</englishPhrase>
+<romanized>yoodoh-een gaa aan-naa-ee sheemaas</romanized>
+<unicode>誘導員が案内します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>563</phraseID>
+<catID>5</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Taxi into position and hold.</englishPhrase>
+<romanized>eedo shta ato taaykee shteh kudaa saa-ee</romanized>
+<unicode>移動した後、待機してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>564</phraseID>
+<catID>5</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>There is an obstacle in our way.</englishPhrase>
+<romanized>shogaay butsu gaa aareemaas</romanized>
+<unicode>障害物があります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>565</phraseID>
+<catID>5</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Can you move that ___?</englishPhrase>
+<romanized>sono ___ o-eedo dekee masukaa?</romanized>
+<unicode>その ___ を移動できますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>566</phraseID>
+<catID>5</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>     car?</englishPhrase>
+<romanized>kooroomaa deskaa?</romanized>
+<unicode>車ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>567</phraseID>
+<catID>5</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>     truck?</englishPhrase>
+<romanized>toraakku deskaa?</romanized>
+<unicode>トラックですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>568</phraseID>
+<catID>5</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>     airplane?</englishPhrase>
+<romanized>heekohkee deskaa?</romanized>
+<unicode>飛行機ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>569</phraseID>
+<catID>5</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>     powercart?</englishPhrase>
+<romanized>oompaanshaa deskaa?</romanized>
+<unicode>運搬車ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>570</phraseID>
+<catID>5</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>We need minimum ___.</englishPhrase>
+<romanized>suku naaktomo ___ gaa heetseeyoh des</romanized>
+<unicode>少なくとも ___ が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>571</phraseID>
+<catID>5</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>50 feet taxiway</englishPhrase>
+<romanized>gojoo feeto no yoodohro</romanized>
+<unicode>50フィートの誘導路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>572</phraseID>
+<catID>5</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>70 feet taxiway</englishPhrase>
+<romanized>naanaajoo feeto no yoodohro</romanized>
+<unicode>70フィートの誘導路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>573</phraseID>
+<catID>5</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Our wingspan is ___ meters.</englishPhrase>
+<romanized>tsubaasaa no haabaa waa ___ meytoroo des</romanized>
+<unicode>翼の幅は ___ メートルです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>574</phraseID>
+<catID>5</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>We need wingtip clearance.</englishPhrase>
+<romanized>yoktaan gaa toreroo kookaan gaa heetsooyoh des</romanized>
+<unicode>翼端が通れる空間が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>575</phraseID>
+<catID>6</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Request takeoff.</englishPhrase>
+<romanized>reereeku o yoh-seh sheemaas</romanized>
+<unicode>離陸を要請します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>576</phraseID>
+<catID>6</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Cleared for takeoff.</englishPhrase>
+<romanized>reereeku o kyokaa sheemaas</romanized>
+<unicode>離陸を許可します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>577</phraseID>
+<catID>6</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>After departure, ___.</englishPhrase>
+<romanized>shup-paats no-aato, ___</romanized>
+<unicode>出発の後、___。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>578</phraseID>
+<catID>6</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Heading</englishPhrase>
+<romanized>sheenkoh hohkoh</romanized>
+<unicode>進行方向</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>579</phraseID>
+<catID>6</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Flock of birds</englishPhrase>
+<romanized>tori no mureh</romanized>
+<unicode>鳥の群れ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>580</phraseID>
+<catID>6</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Climb and maintain.</englishPhrase>
+<romanized>joh-sho no-aato kohdo o eejee shteh kudaa saa-ee</romanized>
+<unicode>上昇の後、高度を維持してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>581</phraseID>
+<catID>7</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>What is the maximum weight the parking ramp can withstand?</englishPhrase>
+<romanized>chookeejo gaa taa-eyraa-reyroo saa-ee daa-ee no omohsaa waa doreh kooraay deskaa?</romanized>
+<unicode>駐機場が耐えられる最大の重さはどれくらいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>582</phraseID>
+<catID>7</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>What is the total length of the runway?</englishPhrase>
+<romanized>kaas-soro no naagaasaa waa dorey daakey deskaa?</romanized>
+<unicode>滑走路の長さはどれだけですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>583</phraseID>
+<catID>7</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>What is the width of the runway?</englishPhrase>
+<romanized>kaas-soro no haabaa waa dorey guraa-ee deskaa?</romanized>
+<unicode>滑走路の幅はどれぐらいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>584</phraseID>
+<catID>7</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>What is the maximum weight the runway can stand?</englishPhrase>
+<romanized>kaass-oro gaa taa-eyraa-reyroo saa-ee daa-ee no omosaa waa dorey daakey deskaa?</romanized>
+<unicode>滑走路が耐えられる最大の重さはどれだけですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>585</phraseID>
+<catID>7</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>What are the operational hours of your tower?</englishPhrase>
+<romanized>kaanseytoh no gyohmu jeekaan o oshee-etey kudaa saa-ee?</romanized>
+<unicode>管制塔の業務時間を教えてください？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>586</phraseID>
+<catID>7</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>What fees are we liable for?</englishPhrase>
+<romanized>eekooraa haaraawaa naakey reybaa naaree maasen-kaa?</romanized>
+<unicode>いくら払わなければなりませんか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>587</phraseID>
+<catID>7</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>How much do we owe?</englishPhrase>
+<romanized>zemboo deh eekooraa deskaa?</romanized>
+<unicode>全部でいくらですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>588</phraseID>
+<catID>7</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Dollars</englishPhrase>
+<romanized>dohroo</romanized>
+<unicode>ドル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>589</phraseID>
+<catID>7</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Yen</englishPhrase>
+<romanized>en</romanized>
+<unicode>円</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>590</phraseID>
+<catID>7</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>I am ___.</englishPhrase>
+<romanized>waataashee waa ___ des</romanized>
+<unicode>わたしは ___ です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>591</phraseID>
+<catID>7</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>   the aircraft commander</englishPhrase>
+<romanized>kohkoo shikeekaam</romanized>
+<unicode>航空指揮官</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>592</phraseID>
+<catID>7</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>   the flight engineer</englishPhrase>
+<romanized>kohkookee kaanshee</romanized>
+<unicode>航空機関士</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>593</phraseID>
+<catID>7</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>   the navigator</englishPhrase>
+<romanized>naabeegeytaa</romanized>
+<unicode>ナビゲーター</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>594</phraseID>
+<catID>7</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>   the copilot</englishPhrase>
+<romanized>fookoo sohjooshee</romanized>
+<unicode>副操縦士</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>595</phraseID>
+<catID>7</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>   the crew chief</englishPhrase>
+<romanized>kuroo cheefu</romanized>
+<unicode>クルー・チーフ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>596</phraseID>
+<catID>7</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>   the flight surgeon</englishPhrase>
+<romanized>kohkoogun eekaan</romanized>
+<unicode>航空軍医官</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>597</phraseID>
+<catID>7</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>   the loadmaster</englishPhrase>
+<romanized>rodo maastaa</romanized>
+<unicode>ロードマスター</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>598</phraseID>
+<catID>7</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>   the radio operator</englishPhrase>
+<romanized>musen tsoosheen-een</romanized>
+<unicode>無線通信員</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>599</phraseID>
+<catID>7</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>This is the flight crew.</englishPhrase>
+<romanized>heekohkee no johmoo-een des</romanized>
+<unicode>飛行機の乗務員です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>600</phraseID>
+<catID>8</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>We need a forklift.</englishPhrase>
+<romanized>fohkreefto gaa heetsooyou des</romanized>
+<unicode>フォークリフトが必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>601</phraseID>
+<catID>8</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Where do we unload?</englishPhrase>
+<romanized>dokonee oroseybaa ee deskaa?</romanized>
+<unicode>どこにおろせばいいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>602</phraseID>
+<catID>8</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Pallet</englishPhrase>
+<romanized>paaretto</romanized>
+<unicode>パレット</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>603</phraseID>
+<catID>8</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Cargo</englishPhrase>
+<romanized>kaamotsu</romanized>
+<unicode>貨物</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>604</phraseID>
+<catID>8</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>We need a pallet loader.</englishPhrase>
+<romanized>neemotsu-o tsumoo heetogaa heetsooyodes</romanized>
+<unicode>荷物を積む人が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>605</phraseID>
+<catID>8</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>We need workers to assist with unloading.</englishPhrase>
+<romanized>nee-oroshee wo tetsoodaat-te koo-reroo heeto gaa heetsooyoh des</romanized>
+<unicode>荷降ろしを手伝ってくれる人が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>606</phraseID>
+<catID>8</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>We need cargo handlers.</englishPhrase>
+<romanized>kaamotsu wo haakoboo heeto gaa heetsooyoh des</romanized>
+<unicode>貨物を運ぶ人が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>607</phraseID>
+<catID>8</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Is there a staging area for cargo?</englishPhrase>
+<romanized>kaamotsu o tsundey ohkoo baasho gaa aaree maaskaa?</romanized>
+<unicode>貨物を積んでおく場所がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>608</phraseID>
+<catID>9</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you have ___?</englishPhrase>
+<romanized>___ gaa aaree maaskaa?</romanized>
+<unicode>___ がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>609</phraseID>
+<catID>9</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>   Oil</englishPhrase>
+<romanized>oyroo</romanized>
+<unicode>オイル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>610</phraseID>
+<catID>9</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>   Hydraulic fluid</englishPhrase>
+<romanized>yu-aatsu soh-chee no oyroo</romanized>
+<unicode>油圧装置のオイル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>611</phraseID>
+<catID>9</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>   Hydraulic system</englishPhrase>
+<romanized>yu-aatsu soh-chee</romanized>
+<unicode>油圧装置</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>612</phraseID>
+<catID>9</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>We need local airline maintenance support.</englishPhrase>
+<romanized>jeemoto no kohkoo seybeeshee no shee-en gaa heetsuyohdes</romanized>
+<unicode>地元の航空整備士の支援が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>613</phraseID>
+<catID>9</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Our power requirements are ___.</englishPhrase>
+<romanized>heetsooyoh naa nem ryo waa ___ des</romanized>
+<unicode>必要な燃料は ___ です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>614</phraseID>
+<catID>9</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>   400 cycle</englishPhrase>
+<romanized>yon hyaaku saaykooru</romanized>
+<unicode>400サイクル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>615</phraseID>
+<catID>9</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>   3-phase</englishPhrase>
+<romanized>saan soh</romanized>
+<unicode>3相</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>616</phraseID>
+<catID>9</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>   Alternating current</englishPhrase>
+<romanized>koh-ryoo</romanized>
+<unicode>交流</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>617</phraseID>
+<catID>9</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>   115 volt</englishPhrase>
+<romanized>hyaakoo joo go borooto</romanized>
+<unicode>115ボルト</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>618</phraseID>
+<catID>10</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Is fuel available?</englishPhrase>
+<romanized>nenryoh waa aaree maaskaa?</romanized>
+<unicode>燃料はありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>619</phraseID>
+<catID>10</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>What is the fuel composition / mixture?</englishPhrase>
+<romanized>nenryoh no sosey waa naan deskaa?</romanized>
+<unicode>燃料の組成は何ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>620</phraseID>
+<catID>10</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>What is the cost?</englishPhrase>
+<romanized>eekooraa deskaa?</romanized>
+<unicode>いくらですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>621</phraseID>
+<catID>10</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>We need ___ kilos.</englishPhrase>
+<romanized>___ keero heetsooyoh des</romanized>
+<unicode>___ キロ必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>622</phraseID>
+<catID>10</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>How much do we owe you?</englishPhrase>
+<romanized>eekooraa haaraa-e baa ee deskaa?</romanized>
+<unicode>いくら払えばいいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>623</phraseID>
+<catID>10</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Do you have fuel pits?</englishPhrase>
+<romanized>pit-to gaa aaree maaskaa?</romanized>
+<unicode>ピットがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>624</phraseID>
+<catID>10</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Are firefighters available during refueling?</englishPhrase>
+<romanized>kyuuyuchuu ni shouboushee o tehai dehki maaskaa?</romanized>
+<unicode>給油中に消防士を手配できますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>625</phraseID>
+<catID>10</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>How much fuel do your trucks hold?</englishPhrase>
+<romanized>anata no torakku ni dore guraay no nenryo-o eereh raarey maaskaa?</romanized>
+<unicode>あなたのトラックにどれぐらいの燃料をいれられますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>626</phraseID>
+<catID>10</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>We need refueling.</englishPhrase>
+<romanized>nenryou no hokyuu gaa heetsuyoh des</romanized>
+<unicode>燃料の補給が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>627</phraseID>
+<catID>10</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Where will we be refueling?</englishPhrase>
+<romanized>dokodeh nenryo o hokyoo dekee maaskaa?</romanized>
+<unicode>どこで燃料を補給できますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>628</phraseID>
+<catID>10</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>When can we be refueled?</englishPhrase>
+<romanized>eetsu nenryou no hokyuu ga dehki maas ka?</romanized>
+<unicode>いつ、燃料の補給ができますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>629</phraseID>
+<catID>11</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Weather below minimums.</englishPhrase>
+<romanized>saa-eetey ki-shou-jou-ken meemaan</romanized>
+<unicode>最低気象条件未満。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>630</phraseID>
+<catID>11</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Cloud cover.</englishPhrase>
+<romanized>kumo nee owaarete-ee maas</romanized>
+<unicode>雲に覆われています。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>631</phraseID>
+<catID>11</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Upper edge at ___.</englishPhrase>
+<romanized>___ no oo-e no hoh no haashee</romanized>
+<unicode>___ の上の方の端。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>632</phraseID>
+<catID>11</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Lower edge at ___.</englishPhrase>
+<romanized>___ no shtaa no hohno haashee</romanized>
+<unicode>___ の下の方の端。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>633</phraseID>
+<catID>11</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Ceiling ___ meters.</englishPhrase>
+<romanized>shee-reengu ___ mehtoru</romanized>
+<unicode>シーリング ___ メートル。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>634</phraseID>
+<catID>11</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Visibility ___ kilometers.</englishPhrase>
+<romanized>shkaa-ee ___ keeromeh-toru</romanized>
+<unicode>視界 ___ キロメートル。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>635</phraseID>
+<catID>11</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Barometric pressure ___ millibars.</englishPhrase>
+<romanized>kee-aatsu ___ hekto paas kaaru</romanized>
+<unicode>気圧 ___ ヘクトパスカル。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>636</phraseID>
+<catID>11</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Wind shear</englishPhrase>
+<romanized>hoo-soku</romanized>
+<unicode>風速</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>637</phraseID>
+<catID>11</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Severe conditions</englishPhrase>
+<romanized>shingkoku naa jotaa-ee</romanized>
+<unicode>深刻な状態</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>638</phraseID>
+<catID>11</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Wet runway</englishPhrase>
+<romanized>noorehtaa kaas-soro</romanized>
+<unicode>濡れた滑走路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>639</phraseID>
+<catID>11</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Dry runway</englishPhrase>
+<romanized>kaawaa-ee taa kaas-soro</romanized>
+<unicode>乾いた滑走路</unicode>
+</dbo_langKit>
+</dataroot>

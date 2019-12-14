@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T15:02:37">
+<dbo_catID>
+<categoryID>1</categoryID>
+<categoryDesc>EMERGENCY TRANSMISSIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>2</categoryID>
+<categoryDesc>GENERAL AIR TRAFFIC CONTROL</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>3</categoryID>
+<categoryDesc>COMMUNICATION CLARIFICATION</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>4</categoryID>
+<categoryDesc>LANDING INSTRUCTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>5</categoryID>
+<categoryDesc>TAXI INSTRUCTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>6</categoryID>
+<categoryDesc>DEPARTURE INSTRUCTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>7</categoryID>
+<categoryDesc>AIRFIELD SPECIFICS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>8</categoryID>
+<categoryDesc>CARGO HANDLING</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>9</categoryID>
+<categoryDesc>MAINTENANCE</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>10</categoryID>
+<categoryDesc>FUEL</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>11</categoryID>
+<categoryDesc>WEATHER</categoryDesc>
+</dbo_catID>
+</dataroot>

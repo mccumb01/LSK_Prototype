@@ -1,0 +1,5328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T15:07:45">
+<dbo_langKit>
+<phraseID>1</phraseID>
+<catID>1</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Stop!</englishPhrase>
+<romanized>tomaareh!</romanized>
+<unicode>止まれ!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>2</phraseID>
+<catID>1</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Stop or I will shoot!</englishPhrase>
+<romanized>tomaara naa kereh baa ootsuzo!</romanized>
+<unicode>止まらなければ撃つぞ!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>3</phraseID>
+<catID>1</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Follow our orders.</englishPhrase>
+<romanized>meyreh nee shtagaa-eh</romanized>
+<unicode>命令に従え。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>4</phraseID>
+<catID>1</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Don’t shoot!</englishPhrase>
+<romanized>ootsunaa!</romanized>
+<unicode>撃つな!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>5</phraseID>
+<catID>1</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Put your weapon down.</englishPhrase>
+<romanized>bookee o sutero</romanized>
+<unicode>武器を捨てろ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>6</phraseID>
+<catID>1</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Move.</englishPhrase>
+<romanized>eedo seero</romanized>
+<unicode>移動しろ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>7</phraseID>
+<catID>1</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Come here.</englishPhrase>
+<romanized>kochi yeh ko-ee</romanized>
+<unicode>こっちへ来い。
+　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>8</phraseID>
+<catID>1</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Follow me.</englishPhrase>
+<romanized>watashee no aatonee tsoo-ee teh ko-ee</romanized>
+<unicode>私の後について来い。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>9</phraseID>
+<catID>1</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Stay here.</englishPhrase>
+<romanized>koko deh tomaareh</romanized>
+<unicode>ここで止まれ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>10</phraseID>
+<catID>1</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Wait here.</englishPhrase>
+<romanized>koko deh maateh</romanized>
+<unicode>ここで待て。
+　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>11</phraseID>
+<catID>1</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Do not move.</englishPhrase>
+<romanized>oogoku naa</romanized>
+<unicode>動くな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>12</phraseID>
+<catID>1</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Stay where you are.</englishPhrase>
+<romanized>soko kaaraa oogoku naa</romanized>
+<unicode>そこから動くな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>13</phraseID>
+<catID>1</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Come with me.</englishPhrase>
+<romanized>tsoo-ee teh ko-ee</romanized>
+<unicode>ついて来い。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>14</phraseID>
+<catID>1</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Take me to ___.</englishPhrase>
+<romanized>___ no tokoronee aannaay sheero</romanized>
+<unicode>___ のところに案内しろ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>15</phraseID>
+<catID>1</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Be quiet.</englishPhrase>
+<romanized>sheezuka nee sheero</romanized>
+<unicode>静かにしろ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>16</phraseID>
+<catID>1</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Slow down.</englishPhrase>
+<romanized>sokudo otoseh</romanized>
+<unicode>速度を落とせ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>17</phraseID>
+<catID>1</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Move slowly.</englishPhrase>
+<romanized>yook-kuree to oogokeh</romanized>
+<unicode>ゆっくりと動け。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>18</phraseID>
+<catID>1</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Hands up.</englishPhrase>
+<romanized>teh-o aageh ro</romanized>
+<unicode>手を上げろ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>19</phraseID>
+<catID>1</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Lower your hands.</englishPhrase>
+<romanized>teh-o oroseh</romanized>
+<unicode>手を下ろせ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>20</phraseID>
+<catID>1</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Lie down.</englishPhrase>
+<romanized>yokonee naareh</romanized>
+<unicode>横になれ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>21</phraseID>
+<catID>1</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Lie on your stomach.</englishPhrase>
+<romanized>haaraabaa-ee nee naareh</romanized>
+<unicode>腹ばいになれ。
+
+
+　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>22</phraseID>
+<catID>1</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Get up.</englishPhrase>
+<romanized>taateh</romanized>
+<unicode>立て。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>23</phraseID>
+<catID>1</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Surrender.</englishPhrase>
+<romanized>teyko yaameyro</romanized>
+<unicode>抵抗を止めろ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>24</phraseID>
+<catID>1</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>You are a prisoner.</englishPhrase>
+<romanized>omaa-eywaa hor-yodaa</romanized>
+<unicode>お前は捕虜だ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>25</phraseID>
+<catID>1</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>We must search you.</englishPhrase>
+<romanized>omaa-eyno kaaraadaa-o sheeraa beyroo</romanized>
+<unicode>お前の身体を調べる。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>26</phraseID>
+<catID>1</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Turn around.</englishPhrase>
+<romanized>maawaarey meegee</romanized>
+<unicode>回れ右。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>27</phraseID>
+<catID>1</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Walk forward.</englishPhrase>
+<romanized>maa-eynee susumeh</romanized>
+<unicode>前に進め。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>28</phraseID>
+<catID>1</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Form a line.</englishPhrase>
+<romanized>eechee rehtzu nee naaraabeh</romanized>
+<unicode>一列に並べ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>29</phraseID>
+<catID>1</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>One at a time.</englishPhrase>
+<romanized>heetoree dzutzu</romanized>
+<unicode>一人ずつ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>30</phraseID>
+<catID>1</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>You are next.</englishPhrase>
+<romanized>tzoogeewaa omaa-eydaa</romanized>
+<unicode>次はお前だ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>31</phraseID>
+<catID>1</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>No talking.</englishPhrase>
+<romanized>haanaasu naa</romanized>
+<unicode>話すな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>32</phraseID>
+<catID>1</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Do not resist.</englishPhrase>
+<romanized>teyko suru naa</romanized>
+<unicode>抵抗するな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>33</phraseID>
+<catID>1</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Calm down.</englishPhrase>
+<romanized>ochee tskeh</romanized>
+<unicode>落ち着け。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>34</phraseID>
+<catID>1</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Give me.</englishPhrase>
+<romanized>waataa seh</romanized>
+<unicode>渡せ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>35</phraseID>
+<catID>1</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Do not touch.</englishPhrase>
+<romanized>saawaaroo naa</romanized>
+<unicode>触るな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>36</phraseID>
+<catID>1</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Do not remove.</englishPhrase>
+<romanized>haadzu soonaa</romanized>
+<unicode>外すな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>37</phraseID>
+<catID>1</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Keep away.</englishPhrase>
+<romanized>chkaa dzukunaa</romanized>
+<unicode>近づくな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>38</phraseID>
+<catID>1</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Let us pass.</englishPhrase>
+<romanized>waareywaarey o touseh</romanized>
+<unicode>我々を通せ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>39</phraseID>
+<catID>1</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Don’t be frightened.</englishPhrase>
+<romanized>obee-eyru naa</romanized>
+<unicode>怯えるな。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>40</phraseID>
+<catID>1</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>You can leave.</englishPhrase>
+<romanized>omaa-ey waa eet-tehmo yo-ee</romanized>
+<unicode>お前は行ってもよい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>41</phraseID>
+<catID>1</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Go.</englishPhrase>
+<romanized>eekeh</romanized>
+<unicode>行け。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>42</phraseID>
+<catID>1</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Go home.</englishPhrase>
+<romanized>eeyeh nee kaayreh</romanized>
+<unicode>家に帰れ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>43</phraseID>
+<catID>1</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Open</englishPhrase>
+<romanized>aakeyro</romanized>
+<unicode>開けろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>44</phraseID>
+<catID>1</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Close</englishPhrase>
+<romanized>sheemero</romanized>
+<unicode>閉めろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>45</phraseID>
+<catID>1</catID>
+<phraseOrder>45</phraseOrder>
+<englishPhrase>Beware</englishPhrase>
+<romanized>keeyodz kero</romanized>
+<unicode>気をつけろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>46</phraseID>
+<catID>1</catID>
+<phraseOrder>46</phraseOrder>
+<englishPhrase>Bring me</englishPhrase>
+<romanized>moteh ko-ee</romanized>
+<unicode>持って来い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>47</phraseID>
+<catID>1</catID>
+<phraseOrder>47</phraseOrder>
+<englishPhrase>Distribute</englishPhrase>
+<romanized>bu-umpaa-ee sheero</romanized>
+<unicode>分配しろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>48</phraseID>
+<catID>1</catID>
+<phraseOrder>48</phraseOrder>
+<englishPhrase>Fill</englishPhrase>
+<romanized>oomero</romanized>
+<unicode>うめろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>49</phraseID>
+<catID>1</catID>
+<phraseOrder>49</phraseOrder>
+<englishPhrase>Lift</englishPhrase>
+<romanized>mochee aagero</romanized>
+<unicode>持ち上げろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>50</phraseID>
+<catID>1</catID>
+<phraseOrder>50</phraseOrder>
+<englishPhrase>Pour into</englishPhrase>
+<romanized>sosogeh</romanized>
+<unicode>注げ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>51</phraseID>
+<catID>1</catID>
+<phraseOrder>51</phraseOrder>
+<englishPhrase>Put</englishPhrase>
+<romanized>okeh</romanized>
+<unicode>置け</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>52</phraseID>
+<catID>1</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>Take</englishPhrase>
+<romanized>toreh</romanized>
+<unicode>取れ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>53</phraseID>
+<catID>1</catID>
+<phraseOrder>53</phraseOrder>
+<englishPhrase>Load</englishPhrase>
+<romanized>tsumeh</romanized>
+<unicode>積め</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>54</phraseID>
+<catID>1</catID>
+<phraseOrder>54</phraseOrder>
+<englishPhrase>Unload</englishPhrase>
+<romanized>oroseh</romanized>
+<unicode>降ろせ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>55</phraseID>
+<catID>1</catID>
+<phraseOrder>55</phraseOrder>
+<englishPhrase>Help me</englishPhrase>
+<romanized>taasu kero</romanized>
+<unicode>助けろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>56</phraseID>
+<catID>1</catID>
+<phraseOrder>56</phraseOrder>
+<englishPhrase>Show me</englishPhrase>
+<romanized>meesero</romanized>
+<unicode>見せろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>57</phraseID>
+<catID>1</catID>
+<phraseOrder>57</phraseOrder>
+<englishPhrase>Tell me</englishPhrase>
+<romanized>osheeyero</romanized>
+<unicode>教えろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>58</phraseID>
+<catID>2</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Please.</englishPhrase>
+<romanized>oneh gaa-ee sheemaas</romanized>
+<unicode>お願いします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>59</phraseID>
+<catID>2</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Thank you.</englishPhrase>
+<romanized>aareegaato gozaa-ee maas</romanized>
+<unicode>ありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>60</phraseID>
+<catID>2</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Can someone assist us?</englishPhrase>
+<romanized>daareh kaa tedzudaat-teh kurey maasukaa?</romanized>
+<unicode>誰か手伝ってくれますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>61</phraseID>
+<catID>2</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>OK</englishPhrase>
+<romanized>okey</romanized>
+<unicode>オーケー</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>62</phraseID>
+<catID>2</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Excuse me. / I’m sorry.</englishPhrase>
+<romanized>sheetsu reyi sheemaas / soomee maasem</romanized>
+<unicode>失礼します。 / すみません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>63</phraseID>
+<catID>2</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Yes</englishPhrase>
+<romanized>haay</romanized>
+<unicode>はい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>64</phraseID>
+<catID>2</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>No </englishPhrase>
+<romanized>eeyeh</romanized>
+<unicode>いいえ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>65</phraseID>
+<catID>2</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Maybe</englishPhrase>
+<romanized>taabum</romanized>
+<unicode>多分</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>66</phraseID>
+<catID>2</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Right</englishPhrase>
+<romanized>taadaashee</romanized>
+<unicode>正しい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>67</phraseID>
+<catID>2</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Wrong</englishPhrase>
+<romanized>taadaashkoo naay</romanized>
+<unicode>正しくない</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>68</phraseID>
+<catID>2</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Here</englishPhrase>
+<romanized>koko</romanized>
+<unicode>ここ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>69</phraseID>
+<catID>2</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>There</englishPhrase>
+<romanized>soko</romanized>
+<unicode>そこ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>70</phraseID>
+<catID>2</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>I want</englishPhrase>
+<romanized>hosheee</romanized>
+<unicode>ほしい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>71</phraseID>
+<catID>2</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>I do not want</englishPhrase>
+<romanized>hoshku naay</romanized>
+<unicode>ほしくない</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>72</phraseID>
+<catID>2</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Danger</englishPhrase>
+<romanized>keekehn</romanized>
+<unicode>危険</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>73</phraseID>
+<catID>2</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>We are here to help you.</englishPhrase>
+<romanized>aanaataa o taasukehnee keemaasheetaa</romanized>
+<unicode>あなたを助けに来ました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>74</phraseID>
+<catID>2</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Help is on the way.</englishPhrase>
+<romanized>kyoo jowaa kocheeraanee mukaatey maasu</romanized>
+<unicode>救助はこちらに向かっています。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>75</phraseID>
+<catID>2</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>We are Americans.</englishPhrase>
+<romanized>waareywaareywaa aamereekaa jeen dehs</romanized>
+<unicode>我々はアメリカ人です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>76</phraseID>
+<catID>2</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>You will not be harmed.</englishPhrase>
+<romanized>shimpaa-ee eeree maasem</romanized>
+<unicode>心配要りません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>77</phraseID>
+<catID>2</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>You are safe.</englishPhrase>
+<romanized>daa-eejobu des</romanized>
+<unicode>大丈夫です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>78</phraseID>
+<catID>2</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>OK, no problem.</englishPhrase>
+<romanized>mohndaay aareemaa sehm</romanized>
+<unicode>問題ありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>79</phraseID>
+<catID>2</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Who?</englishPhrase>
+<romanized>daareh?</romanized>
+<unicode>誰?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>80</phraseID>
+<catID>2</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>What?</englishPhrase>
+<romanized>naanee?</romanized>
+<unicode>何?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>81</phraseID>
+<catID>2</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>When?</englishPhrase>
+<romanized>eetzu?</romanized>
+<unicode>いつ?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>82</phraseID>
+<catID>2</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Where?</englishPhrase>
+<romanized>doko?</romanized>
+<unicode>どこ?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>83</phraseID>
+<catID>2</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Why?</englishPhrase>
+<romanized>doh shteh?</romanized>
+<unicode>どうして?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>84</phraseID>
+<catID>2</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>How?</englishPhrase>
+<romanized>doh?</romanized>
+<unicode>どう?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>85</phraseID>
+<catID>2</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>What happened?</englishPhrase>
+<romanized>naaneegaa aaree maashtakaa?</romanized>
+<unicode>何がありましたか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>86</phraseID>
+<catID>2</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Do you have ___?</englishPhrase>
+<romanized>___ o mot-tey maasukaa?</romanized>
+<unicode>___ を持っていますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>87</phraseID>
+<catID>2</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Do you need help?</englishPhrase>
+<romanized>taasukeygaa eeree maasukaa?</romanized>
+<unicode>助けが要りますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>88</phraseID>
+<catID>2</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>I am ___</englishPhrase>
+<romanized>waataashee waa ___ des</romanized>
+<unicode>私は ___ です</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>89</phraseID>
+<catID>2</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>You are ___</englishPhrase>
+<romanized>aanaataa waa ___ des</romanized>
+<unicode>あなたは ___ です</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>90</phraseID>
+<catID>2</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>He / She is ___</englishPhrase>
+<romanized>kaarey waa ___ des / kaanojo waa ___ des</romanized>
+<unicode>彼は ___ です/ 彼女は ___ です</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>91</phraseID>
+<catID>2</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>We are ___</englishPhrase>
+<romanized>waareywaawey waa ___ des</romanized>
+<unicode>我々は ___ です</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>92</phraseID>
+<catID>2</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>They are ___</englishPhrase>
+<romanized>kaareyraa waa ___ des</romanized>
+<unicode>彼らは ___ です</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>93</phraseID>
+<catID>3</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Welcome.</englishPhrase>
+<romanized>yoh koso</romanized>
+<unicode>ようこそ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>94</phraseID>
+<catID>3</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Hello.</englishPhrase>
+<romanized>kon-neecheewaa</romanized>
+<unicode>こんにちは。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>95</phraseID>
+<catID>3</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Good morning.</englishPhrase>
+<romanized>ohaayo gozaa-eemaas</romanized>
+<unicode>おはようございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>96</phraseID>
+<catID>3</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Good night.</englishPhrase>
+<romanized>oyaasumee naasaa-ee</romanized>
+<unicode>おやすみなさい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>97</phraseID>
+<catID>3</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Good bye.</englishPhrase>
+<romanized>saayo naaraa</romanized>
+<unicode>さようなら。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>98</phraseID>
+<catID>3</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>How are you?</englishPhrase>
+<romanized>ogemkee desukaa?</romanized>
+<unicode>お元気ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>99</phraseID>
+<catID>3</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>I’m fine, thanks, and you?</englishPhrase>
+<romanized>genkee des, aanaa taawaa?</romanized>
+<unicode>元気です。あなたは?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>100</phraseID>
+<catID>3</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>I’m pleased to meet you.</englishPhrase>
+<romanized>owaa-ee dekeeteh uresee des</romanized>
+<unicode>お会いできて嬉しいです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>101</phraseID>
+<catID>3</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Thank you for your help.</englishPhrase>
+<romanized>tetsudaa tekooreteh aareegaato gozaa-eemaas</romanized>
+<unicode>手伝ってくれてありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>102</phraseID>
+<catID>3</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>My name is ___.</englishPhrase>
+<romanized>waataa sheeno naamaa eywaa ___ des</romanized>
+<unicode>私の名前は ___ です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>103</phraseID>
+<catID>4</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you speak English?</englishPhrase>
+<romanized>ey-eego gaa haanaasey maaskaa?</romanized>
+<unicode>英語が話せますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>104</phraseID>
+<catID>4</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>I do not speak Japanese.</englishPhrase>
+<romanized>neehongo gaa haanaasey maa sen</romanized>
+<unicode>日本語が話せません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>105</phraseID>
+<catID>4</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>What is your name?</englishPhrase>
+<romanized>onaa maa-ey waa naan deskaa?</romanized>
+<unicode>お名前は何ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>106</phraseID>
+<catID>4</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>When is your birthday?</englishPhrase>
+<romanized>taanjobee waa eetsoo deskaa?</romanized>
+<unicode>誕生日はいつですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>107</phraseID>
+<catID>4</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Where were you born?</englishPhrase>
+<romanized>oomaarey waa doko deskaa?</romanized>
+<unicode>生まれはどこですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>108</phraseID>
+<catID>4</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>What is your rank / title?</englishPhrase>
+<romanized>kaa-ee kyoo waa naan deskaa?</romanized>
+<unicode>階級は何ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>109</phraseID>
+<catID>4</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>What is your nationality?</englishPhrase>
+<romanized>kokoo sekee waa dokoo deskaa?</romanized>
+<unicode>国籍はどこですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>110</phraseID>
+<catID>4</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Do you have any identification papers?</englishPhrase>
+<romanized>meebum shomey sho mote-ee maaskaa?</romanized>
+<unicode>身分証明書を持っていますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>111</phraseID>
+<catID>4</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do you have a passport?</englishPhrase>
+<romanized>paaspoto motey-ee maaskaa?</romanized>
+<unicode>パスポートを持っていますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>112</phraseID>
+<catID>4</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>What is your job?</englishPhrase>
+<romanized>shokugyo waa naan deskaa?</romanized>
+<unicode>職業は何ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>113</phraseID>
+<catID>4</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Who is in charge?</englishPhrase>
+<romanized>seykeeneen shaa waa daarey deskaa?</romanized>
+<unicode>責任者は誰ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>114</phraseID>
+<catID>4</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Where do you serve?</englishPhrase>
+<romanized>tsuto mey saakee waa doko deskaa?</romanized>
+<unicode>勤め先はどこですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>115</phraseID>
+<catID>4</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Which group are you in?</englishPhrase>
+<romanized>shozokoo waa docheeraa deskaa?</romanized>
+<unicode>所属はどちらですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>116</phraseID>
+<catID>4</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Answer the questions.</englishPhrase>
+<romanized>sheetsu mon-nee kotaa ehtey koodaa saa-ee</romanized>
+<unicode>質問に答えてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>117</phraseID>
+<catID>4</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Where are you from?</englishPhrase>
+<romanized>shoosheenwaa docheeraa deskaa?</romanized>
+<unicode>出身はどちらですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>118</phraseID>
+<catID>4</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Do you understand?</englishPhrase>
+<romanized>waakaaree maaskaa?</romanized>
+<unicode>分かりますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>119</phraseID>
+<catID>4</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>I don’t understand.</englishPhrase>
+<romanized>waakaaree maasehm</romanized>
+<unicode>分かりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>120</phraseID>
+<catID>4</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>How much?</englishPhrase>
+<romanized>eekuraa deskaa?</romanized>
+<unicode>いくらですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>121</phraseID>
+<catID>4</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>How many?</englishPhrase>
+<romanized>eekootsu deskaa?</romanized>
+<unicode>いくつですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>122</phraseID>
+<catID>4</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Repeat it.</englishPhrase>
+<romanized>kooreekaa eshtey koodaa saa-ee</romanized>
+<unicode>繰り返して下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>123</phraseID>
+<catID>4</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Where is ___?</englishPhrase>
+<romanized>___ waa doko nee aaree maaskaa?</romanized>
+<unicode>___ は どこにありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>124</phraseID>
+<catID>4</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>What direction?</englishPhrase>
+<romanized>docheeraano hoko deskaa?</romanized>
+<unicode>どちらの方向ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>125</phraseID>
+<catID>4</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Is it far?</englishPhrase>
+<romanized>toh-ee deskaa?</romanized>
+<unicode>遠いですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>133</phraseID>
+<catID>4</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Are there armed men near here?</englishPhrase>
+<romanized>bookee-o motey-eeroo heeto beeto gaa kono cheekaakoo nee eemaa sukaa?</romanized>
+<unicode>武器を持っている人々がこの近くにいますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>134</phraseID>
+<catID>4</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Where did they go?</englishPhrase>
+<romanized>kaareyraa waa dokoonee eekee maashtakaa?</romanized>
+<unicode>彼等はどこに行いきましたか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>135</phraseID>
+<catID>4</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>What weapons?</englishPhrase>
+<romanized>don-naa bookee deskaa?</romanized>
+<unicode>どんな武器ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>136</phraseID>
+<catID>4</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Speak slowly.</englishPhrase>
+<romanized>yook-kooree haanaa sheeteh koodaa saa-ee</romanized>
+<unicode>ゆっくり話してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>137</phraseID>
+<catID>4</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Where is your unit?</englishPhrase>
+<romanized>aanaataano bootaa-ee waa doko deskaa?</romanized>
+<unicode>あなたの部隊はどこですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>138</phraseID>
+<catID>4</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Where did you see them?</englishPhrase>
+<romanized>kaareyraa waa-o doko deh mee maashtaakaa?</romanized>
+<unicode>彼等をどこで見ましたか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>139</phraseID>
+<catID>4</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Where is your family?</englishPhrase>
+<romanized>aanaataa no kaazokoo waa doko nee eemaaskaa?</romanized>
+<unicode>あなたの家族はどこにいますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>140</phraseID>
+<catID>5</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase> 0    Zero</englishPhrase>
+<romanized>dzero</romanized>
+<unicode>零</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>141</phraseID>
+<catID>5</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase> 1    One</englishPhrase>
+<romanized>eechee</romanized>
+<unicode>一</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>142</phraseID>
+<catID>5</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase> 2    Two</englishPhrase>
+<romanized>nee</romanized>
+<unicode>二</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>143</phraseID>
+<catID>5</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase> 3    Three</englishPhrase>
+<romanized>saan</romanized>
+<unicode>三</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>144</phraseID>
+<catID>5</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase> 4    Four</englishPhrase>
+<romanized>yon</romanized>
+<unicode>四</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>145</phraseID>
+<catID>5</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase> 5    Five</englishPhrase>
+<romanized>go</romanized>
+<unicode>五</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>146</phraseID>
+<catID>5</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase> 6    Six</englishPhrase>
+<romanized>roku</romanized>
+<unicode>六</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>147</phraseID>
+<catID>5</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase> 7    Seven</englishPhrase>
+<romanized>naanaa</romanized>
+<unicode>七</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>148</phraseID>
+<catID>5</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase> 8    Eight</englishPhrase>
+<romanized>haachee</romanized>
+<unicode>八</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>149</phraseID>
+<catID>5</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase> 9    Nine</englishPhrase>
+<romanized>kyoo</romanized>
+<unicode>九</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>150</phraseID>
+<catID>5</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>10    Ten</englishPhrase>
+<romanized>djoo</romanized>
+<unicode>十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>151</phraseID>
+<catID>5</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>11    Eleven</englishPhrase>
+<romanized>djoo eechee</romanized>
+<unicode>十一</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>152</phraseID>
+<catID>5</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>12    Twelve</englishPhrase>
+<romanized>djoo nee</romanized>
+<unicode>十二</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>153</phraseID>
+<catID>5</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>13    Thirteen</englishPhrase>
+<romanized>dyoo saan</romanized>
+<unicode>十三</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>154</phraseID>
+<catID>5</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>14    Fourteen</englishPhrase>
+<romanized>djoo yon</romanized>
+<unicode>十四</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>155</phraseID>
+<catID>5</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>15    Fifteen</englishPhrase>
+<romanized>djoo go</romanized>
+<unicode>十五</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>156</phraseID>
+<catID>5</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>16    Sixteen</englishPhrase>
+<romanized>djoo rokoo</romanized>
+<unicode>十六</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>157</phraseID>
+<catID>5</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>17    Seventeen</englishPhrase>
+<romanized>djoo naanaa</romanized>
+<unicode>十七</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>158</phraseID>
+<catID>5</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>18    Eighteen</englishPhrase>
+<romanized>djoo haachee</romanized>
+<unicode>十八</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>159</phraseID>
+<catID>5</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>19    Nineteen</englishPhrase>
+<romanized>djoo kyoo</romanized>
+<unicode>十九</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>160</phraseID>
+<catID>5</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>20    Twenty</englishPhrase>
+<romanized>nee djoo</romanized>
+<unicode>二十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>161</phraseID>
+<catID>5</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>30    Thirty</englishPhrase>
+<romanized>saan djoo</romanized>
+<unicode>三十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>162</phraseID>
+<catID>5</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>40    Forty</englishPhrase>
+<romanized>yon djoo</romanized>
+<unicode>四十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>163</phraseID>
+<catID>5</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>50    Fifty</englishPhrase>
+<romanized>go djoo</romanized>
+<unicode>五十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>164</phraseID>
+<catID>5</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>60    Sixty</englishPhrase>
+<romanized>roku djoo</romanized>
+<unicode>六十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>165</phraseID>
+<catID>5</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>70    Seventy</englishPhrase>
+<romanized>naanaa djoo</romanized>
+<unicode>七十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>166</phraseID>
+<catID>5</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>80    Eighty</englishPhrase>
+<romanized>haachee djoo</romanized>
+<unicode>八十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>167</phraseID>
+<catID>5</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>90    Ninety</englishPhrase>
+<romanized>kyoo djoo</romanized>
+<unicode>九十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>168</phraseID>
+<catID>5</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>100   One Hundred</englishPhrase>
+<romanized>hyaaku</romanized>
+<unicode>百</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>169</phraseID>
+<catID>5</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>1,000    One Thousand</englishPhrase>
+<romanized>eesehm</romanized>
+<unicode>一千</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>170</phraseID>
+<catID>5</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>10,000    Ten Thousand</englishPhrase>
+<romanized>eechee maam</romanized>
+<unicode>一万</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>171</phraseID>
+<catID>5</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>100,000 Hundred Thousand</englishPhrase>
+<romanized>djoo maam</romanized>
+<unicode>十万</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>172</phraseID>
+<catID>5</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>1,000,000 Million</englishPhrase>
+<romanized>hyaakoo maam</romanized>
+<unicode>百万</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>173</phraseID>
+<catID>5</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Plus</englishPhrase>
+<romanized>taasu</romanized>
+<unicode>たす</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>174</phraseID>
+<catID>5</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Minus</englishPhrase>
+<romanized>heeku</romanized>
+<unicode>ひく</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>175</phraseID>
+<catID>5</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>More (than)</englishPhrase>
+<romanized>yoree (owee)</romanized>
+<unicode>（～より）多い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>176</phraseID>
+<catID>5</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Less (than)</englishPhrase>
+<romanized>yoree (skoo naay)</romanized>
+<unicode>（～より）少ない</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>177</phraseID>
+<catID>5</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Approximately</englishPhrase>
+<romanized>yaakoo</romanized>
+<unicode>約</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>178</phraseID>
+<catID>5</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>First</englishPhrase>
+<romanized>eechee baam-meh</romanized>
+<unicode>一番目</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>179</phraseID>
+<catID>5</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Second</englishPhrase>
+<romanized>neebaam-meh</romanized>
+<unicode>二番目</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>180</phraseID>
+<catID>5</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Third</englishPhrase>
+<romanized>saambaam-meh</romanized>
+<unicode>三番目</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>181</phraseID>
+<catID>6</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Sunday</englishPhrase>
+<romanized>neecheeyobee</romanized>
+<unicode>日曜日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>182</phraseID>
+<catID>6</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Monday</englishPhrase>
+<romanized>getsooyobee</romanized>
+<unicode>月曜日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>183</phraseID>
+<catID>6</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Tuesday</englishPhrase>
+<romanized>kaayobee</romanized>
+<unicode>火曜日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>184</phraseID>
+<catID>6</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Wednesday</englishPhrase>
+<romanized>soo-eeyobee</romanized>
+<unicode>水曜日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>185</phraseID>
+<catID>6</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Thursday</englishPhrase>
+<romanized>mokooyobee</romanized>
+<unicode>木曜日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>186</phraseID>
+<catID>6</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Friday</englishPhrase>
+<romanized>keenyobee</romanized>
+<unicode>金曜日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>187</phraseID>
+<catID>6</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Saturday</englishPhrase>
+<romanized>doyobee</romanized>
+<unicode>土曜日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>188</phraseID>
+<catID>6</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Yesterday</englishPhrase>
+<romanized>keeno</romanized>
+<unicode>昨日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>189</phraseID>
+<catID>6</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Today</englishPhrase>
+<romanized>kyo</romanized>
+<unicode>今日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>190</phraseID>
+<catID>6</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Tomorrow</englishPhrase>
+<romanized>aashtaa</romanized>
+<unicode>明日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>191</phraseID>
+<catID>6</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Day</englishPhrase>
+<romanized>heeru</romanized>
+<unicode>昼</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>192</phraseID>
+<catID>6</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Night</englishPhrase>
+<romanized>yoru</romanized>
+<unicode>夜</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>193</phraseID>
+<catID>6</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Week</englishPhrase>
+<romanized>shu</romanized>
+<unicode>週</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>194</phraseID>
+<catID>6</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Month</englishPhrase>
+<romanized>gatsu</romanized>
+<unicode>月</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>195</phraseID>
+<catID>6</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Year</englishPhrase>
+<romanized>nen</romanized>
+<unicode>年</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>196</phraseID>
+<catID>6</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Second</englishPhrase>
+<romanized>byo</romanized>
+<unicode>秒</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>197</phraseID>
+<catID>6</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Minute</englishPhrase>
+<romanized>fum</romanized>
+<unicode>分</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>199</phraseID>
+<catID>6</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Hour</englishPhrase>
+<romanized>jeekaam</romanized>
+<unicode>時間</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>200</phraseID>
+<catID>6</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Morning</englishPhrase>
+<romanized>aasaa</romanized>
+<unicode>朝</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>201</phraseID>
+<catID>6</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Evening</englishPhrase>
+<romanized>yoogaataa</romanized>
+<unicode>夕方</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>202</phraseID>
+<catID>6</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Noon</englishPhrase>
+<romanized>shogo</romanized>
+<unicode>正午</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>203</phraseID>
+<catID>6</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Afternoon</englishPhrase>
+<romanized>gogo</romanized>
+<unicode>午後</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>204</phraseID>
+<catID>6</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Midnight</englishPhrase>
+<romanized>maayonaakaa</romanized>
+<unicode>真夜中</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>205</phraseID>
+<catID>6</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Now</englishPhrase>
+<romanized>eemaa</romanized>
+<unicode>今</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>206</phraseID>
+<catID>6</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Later</englishPhrase>
+<romanized>aatodey</romanized>
+<unicode>後で</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>207</phraseID>
+<catID>7</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Above / Over</englishPhrase>
+<romanized>uweh</romanized>
+<unicode>上</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>208</phraseID>
+<catID>7</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>After / Past</englishPhrase>
+<romanized>aato</romanized>
+<unicode>後</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>209</phraseID>
+<catID>7</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Back / Behind</englishPhrase>
+<romanized>usheero</romanized>
+<unicode>後ろ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>210</phraseID>
+<catID>7</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Before / In front of / Forward</englishPhrase>
+<romanized>maay</romanized>
+<unicode>前</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>211</phraseID>
+<catID>7</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Between</englishPhrase>
+<romanized>aa-eedaa</romanized>
+<unicode>間</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>212</phraseID>
+<catID>7</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Coordinates</englishPhrase>
+<romanized>dzaa hyo</romanized>
+<unicode>座標</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>213</phraseID>
+<catID>7</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Degrees</englishPhrase>
+<romanized>do</romanized>
+<unicode>度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>214</phraseID>
+<catID>7</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Down</englishPhrase>
+<romanized>sheetaa</romanized>
+<unicode>下</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>215</phraseID>
+<catID>7</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>East</englishPhrase>
+<romanized>heegaashee</romanized>
+<unicode>東</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>216</phraseID>
+<catID>7</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Far</englishPhrase>
+<romanized>toh-ee</romanized>
+<unicode>遠い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>217</phraseID>
+<catID>7</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Longitude</englishPhrase>
+<romanized>key-do</romanized>
+<unicode>経度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>218</phraseID>
+<catID>7</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Left</englishPhrase>
+<romanized>heedaaree</romanized>
+<unicode>左</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>219</phraseID>
+<catID>7</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Latitude</englishPhrase>
+<romanized>eedo</romanized>
+<unicode>緯度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>220</phraseID>
+<catID>7</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>My position is ___.</englishPhrase>
+<romanized>waataashee no eechee waa ___ des</romanized>
+<unicode>私の位置は ___ です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>221</phraseID>
+<catID>7</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Near</englishPhrase>
+<romanized>cheekaay</romanized>
+<unicode>近い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>222</phraseID>
+<catID>7</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>North</englishPhrase>
+<romanized>keetaa</romanized>
+<unicode>北</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>223</phraseID>
+<catID>7</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Northeast</englishPhrase>
+<romanized>hokootoh</romanized>
+<unicode>北東</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>224</phraseID>
+<catID>7</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Northwest</englishPhrase>
+<romanized>hokooseh</romanized>
+<unicode>北西</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>225</phraseID>
+<catID>7</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Right</englishPhrase>
+<romanized>meegee</romanized>
+<unicode>右</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>226</phraseID>
+<catID>7</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>South</englishPhrase>
+<romanized>meenaamee</romanized>
+<unicode>南</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>227</phraseID>
+<catID>7</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Southeast</englishPhrase>
+<romanized>naantoh</romanized>
+<unicode>南東</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>228</phraseID>
+<catID>7</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Southwest</englishPhrase>
+<romanized>naanseh</romanized>
+<unicode>南西</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>229</phraseID>
+<catID>7</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Straight ahead</englishPhrase>
+<romanized>dzempo</romanized>
+<unicode>前方</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>230</phraseID>
+<catID>7</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Under</englishPhrase>
+<romanized>sheetaa</romanized>
+<unicode>下</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>231</phraseID>
+<catID>7</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Up</englishPhrase>
+<romanized>uweh</romanized>
+<unicode>上</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>232</phraseID>
+<catID>7</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>West</englishPhrase>
+<romanized>neeshee</romanized>
+<unicode>西</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>233</phraseID>
+<catID>8</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Beach</englishPhrase>
+<romanized>haamaabeh</romanized>
+<unicode>浜辺</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>234</phraseID>
+<catID>8</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Border</englishPhrase>
+<romanized>kok-kyo</romanized>
+<unicode>国境</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>235</phraseID>
+<catID>8</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Bridge</englishPhrase>
+<romanized>haashee</romanized>
+<unicode>橋</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>236</phraseID>
+<catID>8</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Camp</englishPhrase>
+<romanized>kyaamp</romanized>
+<unicode>キャンプ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>237</phraseID>
+<catID>8</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Dirt road</englishPhrase>
+<romanized>hoso saareytey naa-ee doh-ro</romanized>
+<unicode>舗装されていない道路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>238</phraseID>
+<catID>8</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Forest</englishPhrase>
+<romanized>moree</romanized>
+<unicode>森</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>239</phraseID>
+<catID>8</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Harbor</englishPhrase>
+<romanized>meenaato</romanized>
+<unicode>港</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>240</phraseID>
+<catID>8</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Hill</englishPhrase>
+<romanized>okaa</romanized>
+<unicode>丘</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>241</phraseID>
+<catID>8</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>House</englishPhrase>
+<romanized>eeyeh</romanized>
+<unicode>家</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>242</phraseID>
+<catID>8</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Lake</englishPhrase>
+<romanized>meezumee</romanized>
+<unicode>湖</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>243</phraseID>
+<catID>8</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Meadow</englishPhrase>
+<romanized>boksochee</romanized>
+<unicode>牧草地</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>244</phraseID>
+<catID>8</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Mountain</englishPhrase>
+<romanized>yaamaa</romanized>
+<unicode>山</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>245</phraseID>
+<catID>8</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Ocean</englishPhrase>
+<romanized>oomee</romanized>
+<unicode>海</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>246</phraseID>
+<catID>8</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Path</englishPhrase>
+<romanized>komeechee</romanized>
+<unicode>小道</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>247</phraseID>
+<catID>8</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Paved road</englishPhrase>
+<romanized>hoso saareytey-ee roo doh-ro</romanized>
+<unicode>舗装されている道路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>248</phraseID>
+<catID>8</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Place</englishPhrase>
+<romanized>baasho</romanized>
+<unicode>場所</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>249</phraseID>
+<catID>8</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Position</englishPhrase>
+<romanized>eechee</romanized>
+<unicode>位置</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>250</phraseID>
+<catID>8</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>River</englishPhrase>
+<romanized>kaawaa</romanized>
+<unicode>川</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>251</phraseID>
+<catID>8</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Road</englishPhrase>
+<romanized>doh-ro</romanized>
+<unicode>道路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>252</phraseID>
+<catID>8</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Sea</englishPhrase>
+<romanized>oomee</romanized>
+<unicode>海</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>253</phraseID>
+<catID>8</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Square</englishPhrase>
+<romanized>ku-kaaku</romanized>
+<unicode>区画</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>254</phraseID>
+<catID>8</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Tree</englishPhrase>
+<romanized>kee</romanized>
+<unicode>木</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>255</phraseID>
+<catID>8</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Valley</englishPhrase>
+<romanized>taanee</romanized>
+<unicode>谷</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>256</phraseID>
+<catID>8</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Village</englishPhrase>
+<romanized>mooraa</romanized>
+<unicode>村</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>257</phraseID>
+<catID>8</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Where?</englishPhrase>
+<romanized>doko?</romanized>
+<unicode>どこ?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>258</phraseID>
+<catID>9</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Black</englishPhrase>
+<romanized>kooro</romanized>
+<unicode>黒</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>259</phraseID>
+<catID>9</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Blue</englishPhrase>
+<romanized>aa-o</romanized>
+<unicode>青</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>260</phraseID>
+<catID>9</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Brown</englishPhrase>
+<romanized>chaa-eero</romanized>
+<unicode>茶色</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>261</phraseID>
+<catID>9</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Gray</englishPhrase>
+<romanized>haa-eero</romanized>
+<unicode>灰色</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>262</phraseID>
+<catID>9</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Green</englishPhrase>
+<romanized>meedoree</romanized>
+<unicode>緑</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>263</phraseID>
+<catID>9</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Orange</englishPhrase>
+<romanized>orendjee</romanized>
+<unicode>オレンジ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>264</phraseID>
+<catID>9</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Purple</englishPhrase>
+<romanized>muraasaakee</romanized>
+<unicode>紫</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>265</phraseID>
+<catID>9</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Red</englishPhrase>
+<romanized>aakaa</romanized>
+<unicode>赤</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>266</phraseID>
+<catID>9</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>White</englishPhrase>
+<romanized>sheero</romanized>
+<unicode>白</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>267</phraseID>
+<catID>9</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Yellow</englishPhrase>
+<romanized>keero</romanized>
+<unicode>黄色</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>268</phraseID>
+<catID>9</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Big</englishPhrase>
+<romanized>oh-kee</romanized>
+<unicode>大きい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>269</phraseID>
+<catID>9</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Deep</englishPhrase>
+<romanized>fookaay</romanized>
+<unicode>深い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>270</phraseID>
+<catID>9</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Long</englishPhrase>
+<romanized>naagaay</romanized>
+<unicode>長い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>271</phraseID>
+<catID>9</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Narrow</englishPhrase>
+<romanized>she-maa-ee</romanized>
+<unicode>狭い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>272</phraseID>
+<catID>9</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Short (in height)</englishPhrase>
+<romanized>segaa heekoo-ee</romanized>
+<unicode>背が低い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>273</phraseID>
+<catID>9</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Short (in length)</englishPhrase>
+<romanized>meedjeekaay</romanized>
+<unicode>短い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>274</phraseID>
+<catID>9</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Small, little</englishPhrase>
+<romanized>cheesaay</romanized>
+<unicode>小さい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>275</phraseID>
+<catID>9</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Tall</englishPhrase>
+<romanized>segaa taakaay</romanized>
+<unicode>背が高い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>276</phraseID>
+<catID>9</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Thick</englishPhrase>
+<romanized>aatsu-ee</romanized>
+<unicode>厚い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>277</phraseID>
+<catID>9</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Thin</englishPhrase>
+<romanized>hosoy</romanized>
+<unicode>細い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>278</phraseID>
+<catID>9</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Wide</englishPhrase>
+<romanized>heeroy</romanized>
+<unicode>広い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>279</phraseID>
+<catID>9</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Round</englishPhrase>
+<romanized>maaroo-ee</romanized>
+<unicode>丸い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>280</phraseID>
+<catID>9</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Straight</englishPhrase>
+<romanized>maas-sugu</romanized>
+<unicode>まっすぐ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>281</phraseID>
+<catID>9</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Square</englishPhrase>
+<romanized>sheekaakoo-ee</romanized>
+<unicode>四角い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>282</phraseID>
+<catID>9</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Triangular</englishPhrase>
+<romanized>saang kaakoono</romanized>
+<unicode>三角の</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>283</phraseID>
+<catID>9</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Bitter</englishPhrase>
+<romanized>neegaay</romanized>
+<unicode>苦い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>284</phraseID>
+<catID>9</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Fresh</englishPhrase>
+<romanized>sheen sen-naa</romanized>
+<unicode>新鮮な</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>285</phraseID>
+<catID>9</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Salty</englishPhrase>
+<romanized>sheeyo kaaraay</romanized>
+<unicode>塩辛い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>286</phraseID>
+<catID>9</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Sour</englishPhrase>
+<romanized>sup-paay</romanized>
+<unicode>酸っぱい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>287</phraseID>
+<catID>9</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Spicy</englishPhrase>
+<romanized>kaaraay</romanized>
+<unicode>辛い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>288</phraseID>
+<catID>9</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Sweet</englishPhrase>
+<romanized>aamaay</romanized>
+<unicode>甘い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>289</phraseID>
+<catID>9</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Bad</englishPhrase>
+<romanized>waaroo-ee</romanized>
+<unicode>悪い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>290</phraseID>
+<catID>9</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Clean</englishPhrase>
+<romanized>keerey naa</romanized>
+<unicode>きれいな</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>291</phraseID>
+<catID>9</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Dark 　</englishPhrase>
+<romanized>kooraay</romanized>
+<unicode>暗い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>292</phraseID>
+<catID>9</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Difficult</englishPhrase>
+<romanized>moodzu kaashee</romanized>
+<unicode>難しい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>293</phraseID>
+<catID>9</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Dirty</englishPhrase>
+<romanized>keetaanaay</romanized>
+<unicode>汚い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>294</phraseID>
+<catID>9</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Dry</englishPhrase>
+<romanized>kawaay-taa</romanized>
+<unicode>乾いた</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>295</phraseID>
+<catID>9</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Easy</englishPhrase>
+<romanized>kaantaanaa</romanized>
+<unicode>簡単な</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>296</phraseID>
+<catID>9</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Empty</englishPhrase>
+<romanized>kaaraano</romanized>
+<unicode>空</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>297</phraseID>
+<catID>9</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Expensive</englishPhrase>
+<romanized>taakaay</romanized>
+<unicode>高い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>298</phraseID>
+<catID>9</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Fast</englishPhrase>
+<romanized>haa-yaay</romanized>
+<unicode>速い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>299</phraseID>
+<catID>9</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Foreign</englishPhrase>
+<romanized>gaay kokoono</romanized>
+<unicode>外国の</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>300</phraseID>
+<catID>9</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Full</englishPhrase>
+<romanized>eep-paay</romanized>
+<unicode>いっぱい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>301</phraseID>
+<catID>9</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Good</englishPhrase>
+<romanized>ee</romanized>
+<unicode>いい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>302</phraseID>
+<catID>9</catID>
+<phraseOrder>45</phraseOrder>
+<englishPhrase>Hard (firm)</englishPhrase>
+<romanized>kaataay</romanized>
+<unicode>かたい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>303</phraseID>
+<catID>9</catID>
+<phraseOrder>46</phraseOrder>
+<englishPhrase>Heavy</englishPhrase>
+<romanized>omo-ee</romanized>
+<unicode>重い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>304</phraseID>
+<catID>9</catID>
+<phraseOrder>47</phraseOrder>
+<englishPhrase>Inexpensive</englishPhrase>
+<romanized>yaasu-ee</romanized>
+<unicode>安い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>305</phraseID>
+<catID>9</catID>
+<phraseOrder>48</phraseOrder>
+<englishPhrase>Light (illumination)</englishPhrase>
+<romanized>aakaaru-ee</romanized>
+<unicode>明るい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>306</phraseID>
+<catID>9</catID>
+<phraseOrder>49</phraseOrder>
+<englishPhrase>Light (weight)</englishPhrase>
+<romanized>kaaru-ee</romanized>
+<unicode>軽い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>307</phraseID>
+<catID>9</catID>
+<phraseOrder>50</phraseOrder>
+<englishPhrase>Local</englishPhrase>
+<romanized>djeemotono</romanized>
+<unicode>地元の</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>308</phraseID>
+<catID>9</catID>
+<phraseOrder>51</phraseOrder>
+<englishPhrase>New</englishPhrase>
+<romanized>aataa raashee</romanized>
+<unicode>新しい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>309</phraseID>
+<catID>9</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>Noisy </englishPhrase>
+<romanized>oorusaay</romanized>
+<unicode>うるさい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>310</phraseID>
+<catID>9</catID>
+<phraseOrder>53</phraseOrder>
+<englishPhrase>Old (about things)</englishPhrase>
+<romanized>hooru-ee</romanized>
+<unicode>古い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>311</phraseID>
+<catID>9</catID>
+<phraseOrder>54</phraseOrder>
+<englishPhrase>Old (about people)</englishPhrase>
+<romanized>toshee-o tot-teyru</romanized>
+<unicode>年を取っている</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>312</phraseID>
+<catID>9</catID>
+<phraseOrder>55</phraseOrder>
+<englishPhrase>Powerful</englishPhrase>
+<romanized>tsuyoy</romanized>
+<unicode>強い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>313</phraseID>
+<catID>9</catID>
+<phraseOrder>56</phraseOrder>
+<englishPhrase>Quiet (person)</englishPhrase>
+<romanized>sheezukaa naa</romanized>
+<unicode>静かな</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>314</phraseID>
+<catID>9</catID>
+<phraseOrder>57</phraseOrder>
+<englishPhrase>Right / Correct</englishPhrase>
+<romanized>taadaashee</romanized>
+<unicode>正しい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>315</phraseID>
+<catID>9</catID>
+<phraseOrder>58</phraseOrder>
+<englishPhrase>Slow</englishPhrase>
+<romanized>oso-ee</romanized>
+<unicode>遅い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>316</phraseID>
+<catID>9</catID>
+<phraseOrder>59</phraseOrder>
+<englishPhrase>Soft</englishPhrase>
+<romanized>yaawaaraakaay</romanized>
+<unicode>やわらかい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>317</phraseID>
+<catID>9</catID>
+<phraseOrder>60</phraseOrder>
+<englishPhrase>Very</englishPhrase>
+<romanized>toteymo</romanized>
+<unicode>とても</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>318</phraseID>
+<catID>9</catID>
+<phraseOrder>61</phraseOrder>
+<englishPhrase>Weak</englishPhrase>
+<romanized>yowaay</romanized>
+<unicode>弱い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>319</phraseID>
+<catID>9</catID>
+<phraseOrder>62</phraseOrder>
+<englishPhrase>Wet</englishPhrase>
+<romanized>nureytaa</romanized>
+<unicode>濡れた</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>320</phraseID>
+<catID>9</catID>
+<phraseOrder>63</phraseOrder>
+<englishPhrase>Wrong / Incorrect</englishPhrase>
+<romanized>taadaa shkoonaay</romanized>
+<unicode>正しくない</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>321</phraseID>
+<catID>9</catID>
+<phraseOrder>64</phraseOrder>
+<englishPhrase>Young</englishPhrase>
+<romanized>waakaay</romanized>
+<unicode>若い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>322</phraseID>
+<catID>9</catID>
+<phraseOrder>65</phraseOrder>
+<englishPhrase>Few / Little</englishPhrase>
+<romanized>sukunaay</romanized>
+<unicode>少ない</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>323</phraseID>
+<catID>9</catID>
+<phraseOrder>66</phraseOrder>
+<englishPhrase>Many / Much</englishPhrase>
+<romanized>oh-ee</romanized>
+<unicode>多い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>324</phraseID>
+<catID>9</catID>
+<phraseOrder>67</phraseOrder>
+<englishPhrase>Part</englishPhrase>
+<romanized>boo-boon</romanized>
+<unicode>部分</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>325</phraseID>
+<catID>9</catID>
+<phraseOrder>68</phraseOrder>
+<englishPhrase>Some / A few</englishPhrase>
+<romanized>eekootskaa</romanized>
+<unicode>いくつか</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>326</phraseID>
+<catID>9</catID>
+<phraseOrder>69</phraseOrder>
+<englishPhrase>Whole</englishPhrase>
+<romanized>dzem-taay</romanized>
+<unicode>全体</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>327</phraseID>
+<catID>10</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Emergency!</englishPhrase>
+<romanized>keeng kyoo djeetaay!</romanized>
+<unicode>緊急事態!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>328</phraseID>
+<catID>10</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>We need a doctor!</englishPhrase>
+<romanized>eeshaaga heetsuyoh des!</romanized>
+<unicode>医者が必要です!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>329</phraseID>
+<catID>10</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Distress signal</englishPhrase>
+<romanized>sonaan sheengo</romanized>
+<unicode>遭難信号</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>330</phraseID>
+<catID>10</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Help! </englishPhrase>
+<romanized>taasketeh!</romanized>
+<unicode>助けて!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>331</phraseID>
+<catID>10</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Evacuate the area!</englishPhrase>
+<romanized>heenaan sheero!</romanized>
+<unicode>避難しろ!</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>332</phraseID>
+<catID>11</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Food</englishPhrase>
+<romanized>taabey mono</romanized>
+<unicode>食べ物</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>333</phraseID>
+<catID>11</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Can </englishPhrase>
+<romanized>kaam</romanized>
+<unicode>缶</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>334</phraseID>
+<catID>11</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Cup</englishPhrase>
+<romanized>kopu</romanized>
+<unicode>カップ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>335</phraseID>
+<catID>11</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Fork</englishPhrase>
+<romanized>foku</romanized>
+<unicode>フォーク</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>336</phraseID>
+<catID>11</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Knife</englishPhrase>
+<romanized>naayfu</romanized>
+<unicode>ナイフ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>337</phraseID>
+<catID>11</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Plate</englishPhrase>
+<romanized>saaraa</romanized>
+<unicode>皿</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>338</phraseID>
+<catID>11</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Spoon</englishPhrase>
+<romanized>supoon</romanized>
+<unicode>スプーン</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>339</phraseID>
+<catID>11</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Beans</englishPhrase>
+<romanized>maameh</romanized>
+<unicode>豆</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>340</phraseID>
+<catID>11</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Beer</englishPhrase>
+<romanized>beeru</romanized>
+<unicode>ビール</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>341</phraseID>
+<catID>11</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Bread</englishPhrase>
+<romanized>paam</romanized>
+<unicode>パン</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>342</phraseID>
+<catID>11</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Butter</englishPhrase>
+<romanized>baataa</romanized>
+<unicode>バター</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>343</phraseID>
+<catID>11</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Cheese</englishPhrase>
+<romanized>cheedzu</romanized>
+<unicode>チーズ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>344</phraseID>
+<catID>11</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Coffee</englishPhrase>
+<romanized>kohee</romanized>
+<unicode>コーヒー</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>345</phraseID>
+<catID>11</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Fish</englishPhrase>
+<romanized>saakaanaa</romanized>
+<unicode>魚</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>346</phraseID>
+<catID>11</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Flour</englishPhrase>
+<romanized>komoogeeko</romanized>
+<unicode>小麦粉</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>347</phraseID>
+<catID>11</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Fruit</englishPhrase>
+<romanized>koodaa mono</romanized>
+<unicode>果物</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>348</phraseID>
+<catID>11</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Meat</englishPhrase>
+<romanized>neeku</romanized>
+<unicode>肉</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>349</phraseID>
+<catID>11</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Milk</englishPhrase>
+<romanized>meeruku</romanized>
+<unicode>ミルク</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>350</phraseID>
+<catID>11</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Oil</englishPhrase>
+<romanized>aabooraa</romanized>
+<unicode>油</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>351</phraseID>
+<catID>11</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Potatoes</englishPhrase>
+<romanized>jaagaaymo</romanized>
+<unicode>じゃがいも</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>352</phraseID>
+<catID>11</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Rice</englishPhrase>
+<romanized>komeh</romanized>
+<unicode>米</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>353</phraseID>
+<catID>11</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Salt</englishPhrase>
+<romanized>sheeyo</romanized>
+<unicode>塩　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>354</phraseID>
+<catID>11</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Soup</englishPhrase>
+<romanized>soopu</romanized>
+<unicode>スープ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>355</phraseID>
+<catID>11</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Sugar</englishPhrase>
+<romanized>saatoh</romanized>
+<unicode>砂糖</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>356</phraseID>
+<catID>11</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Tea</englishPhrase>
+<romanized>ochaa</romanized>
+<unicode>お茶</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>357</phraseID>
+<catID>11</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Vegetables</englishPhrase>
+<romanized>yaasaay</romanized>
+<unicode>野菜</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>358</phraseID>
+<catID>11</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Water</englishPhrase>
+<romanized>meedzu</romanized>
+<unicode>水</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>359</phraseID>
+<catID>11</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Wine</englishPhrase>
+<romanized>waayin</romanized>
+<unicode>ワイン</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>360</phraseID>
+<catID>11</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Drink</englishPhrase>
+<romanized>nomeemono</romanized>
+<unicode>飲み物</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>361</phraseID>
+<catID>11</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Eat</englishPhrase>
+<romanized>taabehroo</romanized>
+<unicode>食べる</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>362</phraseID>
+<catID>11</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Don’t push! We have plenty of food.</englishPhrase>
+<romanized>osaa naa-eedey! Taabeh mono waa djoo boon aareemaasu</romanized>
+<unicode>押さないで! 食べ物は十分あります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>363</phraseID>
+<catID>11</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Give me your bowl.</englishPhrase>
+<romanized>eereh mono waataa sheeteh kudaa saa-ee</romanized>
+<unicode>容れ物を渡して下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>364</phraseID>
+<catID>11</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Is the water safe to drink?</englishPhrase>
+<romanized>korey waa nomee meedzu deskaa?</romanized>
+<unicode>これは飲み水ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>365</phraseID>
+<catID>11</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Boil the water.</englishPhrase>
+<romanized>oyoo-o waakaashee teh koodaa saa-ee</romanized>
+<unicode>お湯を沸かして下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>366</phraseID>
+<catID>11</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Wash your hands.</englishPhrase>
+<romanized>teh-o aaraa teh koodaa saa-ee</romanized>
+<unicode>手を洗って下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>367</phraseID>
+<catID>11</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Wash yourself here.</englishPhrase>
+<romanized>koko deh aaraa teh koodaa saa-ee</romanized>
+<unicode>ここで洗って下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>368</phraseID>
+<catID>11</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>We need ___ liters of potable water.</englishPhrase>
+<romanized>___ reetoru no nomeemee dzugaa heetsooyo des</romanized>
+<unicode>___ リットルの飲み水が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>369</phraseID>
+<catID>11</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Where is the latrine?</englishPhrase>
+<romanized>to-ee rey waa doko deskaa?</romanized>
+<unicode>トイレはどこですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>370</phraseID>
+<catID>11</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>The latrine is to the ___.</englishPhrase>
+<romanized>to-ee rey waa ___ nee aareemaas</romanized>
+<unicode>トイレは ___ にあります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>371</phraseID>
+<catID>11</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>left.</englishPhrase>
+<romanized>heedaaree</romanized>
+<unicode>左。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>372</phraseID>
+<catID>11</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>right.</englishPhrase>
+<romanized>meegee</romanized>
+<unicode>右。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>373</phraseID>
+<catID>11</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>straight ahead.</englishPhrase>
+<romanized>maas-sugu eet-taa tokoro</romanized>
+<unicode>まっすぐ行ったところ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>374</phraseID>
+<catID>11</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Is the food fresh?</englishPhrase>
+<romanized>sheensehn deskaa?</romanized>
+<unicode>新鮮ですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>375</phraseID>
+<catID>11</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Is the food spoiled?</englishPhrase>
+<romanized>kusaatey maaskaa?</romanized>
+<unicode>腐っていますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>376</phraseID>
+<catID>11</catID>
+<phraseOrder>45</phraseOrder>
+<englishPhrase>Burn this ___.</englishPhrase>
+<romanized>kono ___ o moyaahshee naasaay</romanized>
+<unicode>この ___ を燃やしなさい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>377</phraseID>
+<catID>12</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Gasoline </englishPhrase>
+<romanized>gaasoreen</romanized>
+<unicode>ガソリン</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>378</phraseID>
+<catID>12</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Oil</englishPhrase>
+<romanized>oyroo</romanized>
+<unicode>オイル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>379</phraseID>
+<catID>12</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Diesel</englishPhrase>
+<romanized>dee-zehroo</romanized>
+<unicode>ディーゼル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>380</phraseID>
+<catID>12</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Gas (propane)</englishPhrase>
+<romanized>propaan gaas</romanized>
+<unicode>ガス（プロパン）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>381</phraseID>
+<catID>12</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Liters </englishPhrase>
+<romanized>leetoru</romanized>
+<unicode>リットル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>382</phraseID>
+<catID>12</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Do you have ___?</englishPhrase>
+<romanized>___ gaa aareemaaska?</romanized>
+<unicode>___ がありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>383</phraseID>
+<catID>12</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Hydraulic fluid</englishPhrase>
+<romanized>yu-aatsu-ekee</romanized>
+<unicode>油圧液</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>384</phraseID>
+<catID>12</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Hydraulic system</englishPhrase>
+<romanized>yu-aatsu sheestehmoo</romanized>
+<unicode>油圧システム</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>385</phraseID>
+<catID>12</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>We need maintenance support.</englishPhrase>
+<romanized>seybeeno saapohto gaa heetsuyo des</romanized>
+<unicode>整備のサポートが必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>386</phraseID>
+<catID>12</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We need ___.</englishPhrase>
+<romanized>___ gaa heedzuyo des</romanized>
+<unicode>___ が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>387</phraseID>
+<catID>12</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>400-cycle</englishPhrase>
+<romanized>yom hyaakoo saaykooroo</romanized>
+<unicode>４００サイクル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>388</phraseID>
+<catID>12</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>3-phase</englishPhrase>
+<romanized>saam daankaay</romanized>
+<unicode>３段階</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>389</phraseID>
+<catID>12</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Alternating current</englishPhrase>
+<romanized>koryu</romanized>
+<unicode>交流　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>390</phraseID>
+<catID>12</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>115-volt </englishPhrase>
+<romanized>hyaakoo djoo go boruto</romanized>
+<unicode>115ボルト</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>391</phraseID>
+<catID>13</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Antibiotics</englishPhrase>
+<romanized>kosey boos-sheetsu</romanized>
+<unicode>抗生物質</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>392</phraseID>
+<catID>13</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Bandage</englishPhrase>
+<romanized>hotaay</romanized>
+<unicode>包帯</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>393</phraseID>
+<catID>13</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Blood</englishPhrase>
+<romanized>ketsu-ekee</romanized>
+<unicode>血液</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>394</phraseID>
+<catID>13</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Burn</englishPhrase>
+<romanized>yaakeydo</romanized>
+<unicode>火傷</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>395</phraseID>
+<catID>13</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Clean</englishPhrase>
+<romanized>seyketsu naa</romanized>
+<unicode>清潔な</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>396</phraseID>
+<catID>13</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Dead</englishPhrase>
+<romanized>sheeboh shtaa</romanized>
+<unicode>死亡した</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>397</phraseID>
+<catID>13</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Doctor</englishPhrase>
+<romanized>eeshaa</romanized>
+<unicode>医者</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>398</phraseID>
+<catID>13</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Fever</englishPhrase>
+<romanized>netsu</romanized>
+<unicode>熱</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>399</phraseID>
+<catID>13</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Hospital</englishPhrase>
+<romanized>byo-eeng</romanized>
+<unicode>病院</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>400</phraseID>
+<catID>13</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Infection</englishPhrase>
+<romanized>kaamsem</romanized>
+<unicode>感染</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>401</phraseID>
+<catID>13</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Injured</englishPhrase>
+<romanized>keygaa neen</romanized>
+<unicode>けが人</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>402</phraseID>
+<catID>13</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Malnutrition</englishPhrase>
+<romanized>eyo seehcho</romanized>
+<unicode>栄養失調</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>403</phraseID>
+<catID>13</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Medic</englishPhrase>
+<romanized>eyseyheh</romanized>
+<unicode>衛生兵</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>404</phraseID>
+<catID>13</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Medicine</englishPhrase>
+<romanized>koosuree</romanized>
+<unicode>薬</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>405</phraseID>
+<catID>13</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Nurse</englishPhrase>
+<romanized>kaamgoshee</romanized>
+<unicode>看護士</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>406</phraseID>
+<catID>13</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Poison</englishPhrase>
+<romanized>doku</romanized>
+<unicode>毒</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>407</phraseID>
+<catID>13</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Sick</englishPhrase>
+<romanized>byoh-kee</romanized>
+<unicode>病気</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>408</phraseID>
+<catID>13</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Vitamins</englishPhrase>
+<romanized>beetaameen</romanized>
+<unicode>ビタミン</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>409</phraseID>
+<catID>13</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Wound</englishPhrase>
+<romanized>keygaa</romanized>
+<unicode>怪我</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>410</phraseID>
+<catID>13</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>I am a doctor.</englishPhrase>
+<romanized>waataashee waa eeshaa des</romanized>
+<unicode>私は医者です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>411</phraseID>
+<catID>13</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>I am not a doctor.</englishPhrase>
+<romanized>waataashee waa eeshaa deywaa aaree maasem</romanized>
+<unicode>私は医者じゃありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>412</phraseID>
+<catID>13</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>I am going to help.</englishPhrase>
+<romanized>taaskey maas</romanized>
+<unicode>助けます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>413</phraseID>
+<catID>13</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Can you walk?</englishPhrase>
+<romanized>aarookeh maaskaa?</romanized>
+<unicode>歩けますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>414</phraseID>
+<catID>13</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Can you sit? </englishPhrase>
+<romanized>suwaareh maaskaa?</romanized>
+<unicode>座れますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>415</phraseID>
+<catID>13</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Can you stand?</englishPhrase>
+<romanized>taatey maaskaa?</romanized>
+<unicode>立てますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>416</phraseID>
+<catID>13</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Are you in pain?</englishPhrase>
+<romanized>eetaay deskaa?</romanized>
+<unicode>痛いですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>417</phraseID>
+<catID>13</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>You will get a shot. (injection)</englishPhrase>
+<romanized>choo shaa sheemaas</romanized>
+<unicode>注射します。　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>418</phraseID>
+<catID>13</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>I will take you to the hospital.</englishPhrase>
+<romanized>aanaataa-o byoh-eeng eh dzurehte-ee kee maas</romanized>
+<unicode>あなたを病院へ連れて行きます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>419</phraseID>
+<catID>13</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>What is wrong?</englishPhrase>
+<romanized>doh shtaan deskaa?</romanized>
+<unicode>どうしたんですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>420</phraseID>
+<catID>13</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Are you injured?</englishPhrase>
+<romanized>keygaa shee maasheetaa kaa?</romanized>
+<unicode>怪我しましたか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>421</phraseID>
+<catID>13</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Can you feed yourself?</englishPhrase>
+<romanized>jeebumdeh shokoodjee gaa dehkee maasukaa?</romanized>
+<unicode>自分で食事ができますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>422</phraseID>
+<catID>13</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Open your mouth.</englishPhrase>
+<romanized>koochee-o aaketeh koo daasaay</romanized>
+<unicode>口を開けて下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>423</phraseID>
+<catID>13</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Are you pregnant?</englishPhrase>
+<romanized>neensheeng sheetey-ee maaskaa?</romanized>
+<unicode>妊娠していますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>424</phraseID>
+<catID>14</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Abdomen</englishPhrase>
+<romanized>onaakaa</romanized>
+<unicode>お腹</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>425</phraseID>
+<catID>14</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Ankle</englishPhrase>
+<romanized>aasheekoobee</romanized>
+<unicode>足首</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>426</phraseID>
+<catID>14</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Arm</englishPhrase>
+<romanized>oodeh</romanized>
+<unicode>腕</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>427</phraseID>
+<catID>14</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Bone</englishPhrase>
+<romanized>honeh</romanized>
+<unicode>骨</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>428</phraseID>
+<catID>14</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Brain</englishPhrase>
+<romanized>no</romanized>
+<unicode>脳</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>429</phraseID>
+<catID>14</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Chest</englishPhrase>
+<romanized>mooneh</romanized>
+<unicode>胸</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>430</phraseID>
+<catID>14</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Ear</englishPhrase>
+<romanized>meemee</romanized>
+<unicode>耳</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>431</phraseID>
+<catID>14</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Elbow</englishPhrase>
+<romanized>heedjee</romanized>
+<unicode>ひじ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>432</phraseID>
+<catID>14</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Eyes</englishPhrase>
+<romanized>meh</romanized>
+<unicode>目</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>433</phraseID>
+<catID>14</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Face</englishPhrase>
+<romanized>kaa-o</romanized>
+<unicode>顔</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>434</phraseID>
+<catID>14</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Finger</englishPhrase>
+<romanized>yoobee</romanized>
+<unicode>指</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>435</phraseID>
+<catID>14</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Foot</englishPhrase>
+<romanized>aashee</romanized>
+<unicode>足</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>436</phraseID>
+<catID>14</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Hair</englishPhrase>
+<romanized>kaameenokeh</romanized>
+<unicode>髪の毛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>437</phraseID>
+<catID>14</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Hand</englishPhrase>
+<romanized>teh</romanized>
+<unicode>手</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>438</phraseID>
+<catID>14</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Head</englishPhrase>
+<romanized>aataamaa</romanized>
+<unicode>頭</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>439</phraseID>
+<catID>14</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Heart</englishPhrase>
+<romanized>sheendzo</romanized>
+<unicode>心臓</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>440</phraseID>
+<catID>14</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Kidney</englishPhrase>
+<romanized>djeengdzo</romanized>
+<unicode>腎臓</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>441</phraseID>
+<catID>14</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Knee</englishPhrase>
+<romanized>heezaa</romanized>
+<unicode>膝</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>442</phraseID>
+<catID>14</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Leg</englishPhrase>
+<romanized>aashee</romanized>
+<unicode>脚</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>443</phraseID>
+<catID>14</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Lips</englishPhrase>
+<romanized>koochee beeru</romanized>
+<unicode>唇</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>444</phraseID>
+<catID>14</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Liver</englishPhrase>
+<romanized>kaamzo</romanized>
+<unicode>肝臓</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>445</phraseID>
+<catID>14</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Lungs</englishPhrase>
+<romanized>haa-yee</romanized>
+<unicode>肺</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>446</phraseID>
+<catID>14</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Mouth</englishPhrase>
+<romanized>koochee</romanized>
+<unicode>口</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>447</phraseID>
+<catID>14</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Neck</englishPhrase>
+<romanized>koobee</romanized>
+<unicode>首</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>448</phraseID>
+<catID>14</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Nose</englishPhrase>
+<romanized>haanaa</romanized>
+<unicode>鼻</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>449</phraseID>
+<catID>14</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Pelvis / Groin</englishPhrase>
+<romanized>kotsu baam / sokeyboo</romanized>
+<unicode>骨盤 / 鼠蹊部</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>450</phraseID>
+<catID>14</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Ribs</englishPhrase>
+<romanized>rohk-kotsu</romanized>
+<unicode>肋骨</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>451</phraseID>
+<catID>14</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Shoulder</englishPhrase>
+<romanized>kaataa</romanized>
+<unicode>肩</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>452</phraseID>
+<catID>14</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Skull</englishPhrase>
+<romanized>dzugaay kotsu</romanized>
+<unicode>頭蓋骨</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>453</phraseID>
+<catID>14</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Spine</englishPhrase>
+<romanized>seyboneh</romanized>
+<unicode>背骨</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>454</phraseID>
+<catID>14</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Stomach (area)</englishPhrase>
+<romanized>haaraa</romanized>
+<unicode>腹</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>455</phraseID>
+<catID>14</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Stomach (organ)</englishPhrase>
+<romanized>ee</romanized>
+<unicode>胃</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>456</phraseID>
+<catID>14</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Teeth</englishPhrase>
+<romanized>haa</romanized>
+<unicode>歯</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>457</phraseID>
+<catID>14</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Toe</englishPhrase>
+<romanized>tsumaa saakee</romanized>
+<unicode>爪先</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>458</phraseID>
+<catID>14</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Tongue</englishPhrase>
+<romanized>sheetaa</romanized>
+<unicode>舌</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>459</phraseID>
+<catID>14</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Wrist</englishPhrase>
+<romanized>teh koobee</romanized>
+<unicode>手首</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>460</phraseID>
+<catID>15</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>General</englishPhrase>
+<romanized>shogoon</romanized>
+<unicode>将軍</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>461</phraseID>
+<catID>15</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Admiral</englishPhrase>
+<romanized>tey tokoo</romanized>
+<unicode>提督</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>462</phraseID>
+<catID>15</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Colonel</englishPhrase>
+<romanized>taaee saa</romanized>
+<unicode>大佐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>463</phraseID>
+<catID>15</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Lieutenant Colonel</englishPhrase>
+<romanized>choosaa</romanized>
+<unicode>中佐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>464</phraseID>
+<catID>15</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Commander</englishPhrase>
+<romanized>choosaa</romanized>
+<unicode>中佐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>465</phraseID>
+<catID>15</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Major</englishPhrase>
+<romanized>sho-saa</romanized>
+<unicode>少佐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>466</phraseID>
+<catID>15</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Captain</englishPhrase>
+<romanized>taaee-ee</romanized>
+<unicode>大尉</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>467</phraseID>
+<catID>15</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Lieutenant</englishPhrase>
+<romanized>choo-ee</romanized>
+<unicode>中尉</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>468</phraseID>
+<catID>15</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Senior Sergeant</englishPhrase>
+<romanized>goon-soh</romanized>
+<unicode>軍曹</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>469</phraseID>
+<catID>15</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Soldier</englishPhrase>
+<romanized>heyshee</romanized>
+<unicode>兵士</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>470</phraseID>
+<catID>15</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Airman</englishPhrase>
+<romanized>kohkoo hey</romanized>
+<unicode>航空兵</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>471</phraseID>
+<catID>15</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Seaman</englishPhrase>
+<romanized>su-ee hey</romanized>
+<unicode>水兵</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>472</phraseID>
+<catID>15</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Marine</englishPhrase>
+<romanized>kaa-ee hey taay een</romanized>
+<unicode>海兵隊員</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>473</phraseID>
+<catID>16</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>We must spend the night here.</englishPhrase>
+<romanized>komyaa waa kokonee tomaa raanaa keyreybaa naaree maasem</romanized>
+<unicode>今夜はここに泊まらなければなりません。　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>474</phraseID>
+<catID>16</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Is there a dining facility here?</englishPhrase>
+<romanized>kocheeraanee waa shokoodo gaa aaree maasukaa?</romanized>
+<unicode>こちらには食堂がありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>475</phraseID>
+<catID>16</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>How many kilometers to the nearest town?</englishPhrase>
+<romanized>eecheebaam cheekaakoo no maachee maadeh naan keero aareemaaskaa?</romanized>
+<unicode>一番近くの街まで何キロありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>476</phraseID>
+<catID>16</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Are there any hotels near here?</englishPhrase>
+<romanized>kono chikaaku nee hoteroo gaa aaree maaskaa?</romanized>
+<unicode>この近くにホテルがありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>477</phraseID>
+<catID>16</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Are there any restaurants near here?</englishPhrase>
+<romanized>kono chikaakoo nee restooraan gaa aaree maaskaa?</romanized>
+<unicode>この近くにレストランがありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>478</phraseID>
+<catID>16</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>We want to go to ___.</englishPhrase>
+<romanized>___ nee eekee taa-ee des</romanized>
+<unicode>___ に行きたいです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>479</phraseID>
+<catID>16</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Are there rental cars available?</englishPhrase>
+<romanized>rentaa kaa gaa aaree maasukaa?</romanized>
+<unicode>レンタカーがありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>480</phraseID>
+<catID>16</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Is there a telephone available?</englishPhrase>
+<romanized>demwaa gaa aaree maaskaa?</romanized>
+<unicode>電話がありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>481</phraseID>
+<catID>16</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>We need ___ gallons of potable water.</englishPhrase>
+<romanized>___ gaaron-no nomee meedzu gaa heetsooyoh des</romanized>
+<unicode>___ ガロンの飲み水が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>482</phraseID>
+<catID>17</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Air Force</englishPhrase>
+<romanized>koo goon</romanized>
+<unicode>空軍</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>483</phraseID>
+<catID>17</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Army</englishPhrase>
+<romanized>reekoo goon</romanized>
+<unicode>陸軍</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>484</phraseID>
+<catID>17</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Marines</englishPhrase>
+<romanized>kaa-ee hey-eetaay</romanized>
+<unicode>海兵隊</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>485</phraseID>
+<catID>17</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Navy</englishPhrase>
+<romanized>kaa-ee goon</romanized>
+<unicode>海軍</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>486</phraseID>
+<catID>17</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Air Defense</englishPhrase>
+<romanized>boh-koo</romanized>
+<unicode>防空</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>487</phraseID>
+<catID>17</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Commander</englishPhrase>
+<romanized>sheekeekaam</romanized>
+<unicode>指揮官</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>488</phraseID>
+<catID>17</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Dentist</englishPhrase>
+<romanized>haay eeshaa</romanized>
+<unicode>歯医者</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>489</phraseID>
+<catID>17</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Doctor</englishPhrase>
+<romanized>eeshaa</romanized>
+<unicode>医者</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>490</phraseID>
+<catID>17</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Driver</englishPhrase>
+<romanized>oontenshoo</romanized>
+<unicode>運転手</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>491</phraseID>
+<catID>17</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Farmer</englishPhrase>
+<romanized>nohfoo</romanized>
+<unicode>農夫</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>492</phraseID>
+<catID>17</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Fisherman</englishPhrase>
+<romanized>ryoshee</romanized>
+<unicode>漁師</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>493</phraseID>
+<catID>17</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Government employee</englishPhrase>
+<romanized>koh moo een</romanized>
+<unicode>公務員</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>494</phraseID>
+<catID>17</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Guard</englishPhrase>
+<romanized>key bee een</romanized>
+<unicode>警備員</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>495</phraseID>
+<catID>17</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Housewife</englishPhrase>
+<romanized>shoofoo</romanized>
+<unicode>主婦</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>496</phraseID>
+<catID>17</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Laborer</englishPhrase>
+<romanized>rohdoshaa</romanized>
+<unicode>労働者</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>497</phraseID>
+<catID>17</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Mechanic</englishPhrase>
+<romanized>seybeekoh</romanized>
+<unicode>整備工</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>498</phraseID>
+<catID>17</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Messenger</englishPhrase>
+<romanized>yoobeeng haaytaatsu</romanized>
+<unicode>郵便配達</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>499</phraseID>
+<catID>17</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Pilot</englishPhrase>
+<romanized>paayroto</romanized>
+<unicode>パイロット</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>500</phraseID>
+<catID>17</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Policeman</englishPhrase>
+<romanized>keysaatsu kaam</romanized>
+<unicode>警察官</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>501</phraseID>
+<catID>17</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Sailor</englishPhrase>
+<romanized>semyeem</romanized>
+<unicode>船員</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>502</phraseID>
+<catID>17</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Businessman</englishPhrase>
+<romanized>beedjeenesman</romanized>
+<unicode>ビジネスマン</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>503</phraseID>
+<catID>17</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Shopkeeper</englishPhrase>
+<romanized>tengeem</romanized>
+<unicode>店員</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>504</phraseID>
+<catID>17</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Soldier</englishPhrase>
+<romanized>heyshee</romanized>
+<unicode>兵士</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>505</phraseID>
+<catID>17</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Student</englishPhrase>
+<romanized>gaaksey</romanized>
+<unicode>学生</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>506</phraseID>
+<catID>17</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Teacher</englishPhrase>
+<romanized>sensey</romanized>
+<unicode>先生</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>507</phraseID>
+<catID>18</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Where is my customs declaration?</englishPhrase>
+<romanized>waataasheeno dzey kaan sheen kokoo shou waa dokoonee aaree maaskaa?</romanized>
+<unicode>私の税関申告書はどこにありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>508</phraseID>
+<catID>18</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>I do not have anything to declare.</englishPhrase>
+<romanized>sheeng kokoo suru mono waa aaree maasem</romanized>
+<unicode>申告するものはありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>509</phraseID>
+<catID>18</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>These goods are personal.</englishPhrase>
+<romanized>kono sheenaa monowaa kozeeng tekeenaa mono des</romanized>
+<unicode>この品物は個人的なものです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>510</phraseID>
+<catID>18</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Not for sale.</englishPhrase>
+<romanized>heebaay heen des</romanized>
+<unicode>非売品。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>511</phraseID>
+<catID>18</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Can you help me fill out the forms?</englishPhrase>
+<romanized>shoroo-ee keenyoo otetsudaat-teh eetaadaakeh maasen kaa?</romanized>
+<unicode>書類記入を手伝っていただけませんか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>512</phraseID>
+<catID>18</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Is this correct?</englishPhrase>
+<romanized>taadaashee deskaa?</romanized>
+<unicode>正しいですか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>513</phraseID>
+<catID>18</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Here is my passport.</englishPhrase>
+<romanized>waataashee no paaspoto des</romanized>
+<unicode>私のパスポートです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>514</phraseID>
+<catID>18</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Here is my visa.</englishPhrase>
+<romanized>waataashee no beeza des</romanized>
+<unicode>私のビザです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>515</phraseID>
+<catID>18</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>I have no Yen.</englishPhrase>
+<romanized>neehon-en o motey eemaasem</romanized>
+<unicode>日本円を持っていません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>516</phraseID>
+<catID>18</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Ad valorem</englishPhrase>
+<romanized>kaakaa kunee oh jee teh</romanized>
+<unicode>価格に応じて</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>517</phraseID>
+<catID>18</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Ammunition</englishPhrase>
+<romanized>daan-yaakoo</romanized>
+<unicode>弾薬</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>518</phraseID>
+<catID>18</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Baggage</englishPhrase>
+<romanized>teh neemotsu</romanized>
+<unicode>手荷物</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>519</phraseID>
+<catID>18</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Bill of lading</englishPhrase>
+<romanized>kaamotsu ketoree sho</romanized>
+<unicode>貨物受取証</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>520</phraseID>
+<catID>18</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Cargo</englishPhrase>
+<romanized>kaamotsu</romanized>
+<unicode>貨物</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>521</phraseID>
+<catID>18</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Customs</englishPhrase>
+<romanized>zey kaam</romanized>
+<unicode>税関</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>522</phraseID>
+<catID>18</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Customs declaration</englishPhrase>
+<romanized>zey kaam sheen kokoo</romanized>
+<unicode>税関申告</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>523</phraseID>
+<catID>18</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Customs tax</englishPhrase>
+<romanized>kaan zey</romanized>
+<unicode>関税</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>524</phraseID>
+<catID>18</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Customs worker</englishPhrase>
+<romanized>zey kaam nosho koo-eeng</romanized>
+<unicode>税関の職員</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>525</phraseID>
+<catID>18</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Damaged</englishPhrase>
+<romanized>haason shtaa</romanized>
+<unicode>破損した</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>526</phraseID>
+<catID>18</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Delivery</englishPhrase>
+<romanized>haaytaatsu</romanized>
+<unicode>配達</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>527</phraseID>
+<catID>18</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Duty</englishPhrase>
+<romanized>kaanzey</romanized>
+<unicode>関税</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>528</phraseID>
+<catID>18</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Expenditures</englishPhrase>
+<romanized>sheeshoodzu</romanized>
+<unicode>支出</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>529</phraseID>
+<catID>18</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Export</englishPhrase>
+<romanized>yooshoodzu</romanized>
+<unicode>輸出</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>530</phraseID>
+<catID>18</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>False</englishPhrase>
+<romanized>kyogeeno</romanized>
+<unicode>虚偽の</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>531</phraseID>
+<catID>18</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Foreign currency</englishPhrase>
+<romanized>gaayikaa</romanized>
+<unicode>外貨</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>532</phraseID>
+<catID>18</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Form (document)</englishPhrase>
+<romanized>shoroo-ee</romanized>
+<unicode>書類</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>533</phraseID>
+<catID>18</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Holding</englishPhrase>
+<romanized>shoyoo bootsu</romanized>
+<unicode>所有物</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>534</phraseID>
+<catID>18</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Import</englishPhrase>
+<romanized>yoonyoo</romanized>
+<unicode>輸入</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>535</phraseID>
+<catID>18</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Insurance</englishPhrase>
+<romanized>hokehm</romanized>
+<unicode>保険</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>536</phraseID>
+<catID>18</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Japanese</englishPhrase>
+<romanized>neehon-no</romanized>
+<unicode>日本の</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>537</phraseID>
+<catID>18</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Loading</englishPhrase>
+<romanized>sekeesaay</romanized>
+<unicode>積載</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>538</phraseID>
+<catID>18</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Name of goods</englishPhrase>
+<romanized>heem-mey</romanized>
+<unicode>品名</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>539</phraseID>
+<catID>18</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Narcotics</englishPhrase>
+<romanized>maayaakoo</romanized>
+<unicode>麻薬</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>540</phraseID>
+<catID>18</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>National treasure</englishPhrase>
+<romanized>kokooho</romanized>
+<unicode>国宝</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>541</phraseID>
+<catID>18</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Nomenclature</englishPhrase>
+<romanized>nomenktraatoora</romanized>
+<unicode>ノーメンクラツーラ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>542</phraseID>
+<catID>18</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>On-board </englishPhrase>
+<romanized>todjo</romanized>
+<unicode>搭乗</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>543</phraseID>
+<catID>18</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Origin</englishPhrase>
+<romanized>shupaatsu chee</romanized>
+<unicode>出発地</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>544</phraseID>
+<catID>18</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Owner</englishPhrase>
+<romanized>shoyooshaa</romanized>
+<unicode>所有者</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>545</phraseID>
+<catID>18</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Packing list</englishPhrase>
+<romanized>naaeeyo meysaay</romanized>
+<unicode>内容明細</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>546</phraseID>
+<catID>18</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Passport</englishPhrase>
+<romanized>paaspoto</romanized>
+<unicode>パスポート</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>547</phraseID>
+<catID>18</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Permission</englishPhrase>
+<romanized>kyokaa</romanized>
+<unicode>許可</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>548</phraseID>
+<catID>18</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Personal use</englishPhrase>
+<romanized>kodjeengyo</romanized>
+<unicode>個人用</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>549</phraseID>
+<catID>18</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Personnel</englishPhrase>
+<romanized>jeen-jee</romanized>
+<unicode>人事</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>550</phraseID>
+<catID>18</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Prohibited</englishPhrase>
+<romanized>keemshee</romanized>
+<unicode>禁止</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>551</phraseID>
+<catID>18</catID>
+<phraseOrder>45</phraseOrder>
+<englishPhrase>Property</englishPhrase>
+<romanized>dzaay saan</romanized>
+<unicode>財産</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>552</phraseID>
+<catID>18</catID>
+<phraseOrder>46</phraseOrder>
+<englishPhrase>Rate</englishPhrase>
+<romanized>reyto</romanized>
+<unicode>レート</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>553</phraseID>
+<catID>18</catID>
+<phraseOrder>47</phraseOrder>
+<englishPhrase>Rate of exchange</englishPhrase>
+<romanized>kaawaasey sobaa</romanized>
+<unicode>為替相場</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>554</phraseID>
+<catID>18</catID>
+<phraseOrder>48</phraseOrder>
+<englishPhrase>Receipt</englishPhrase>
+<romanized>ryoh shoo sho</romanized>
+<unicode>領収書</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>555</phraseID>
+<catID>18</catID>
+<phraseOrder>49</phraseOrder>
+<englishPhrase>Relics</englishPhrase>
+<romanized>boomkaay eesekee</romanized>
+<unicode>文化遺跡</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>556</phraseID>
+<catID>18</catID>
+<phraseOrder>50</phraseOrder>
+<englishPhrase>Restricted</englishPhrase>
+<romanized>seygem saareytaa</romanized>
+<unicode>制限された</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>557</phraseID>
+<catID>18</catID>
+<phraseOrder>51</phraseOrder>
+<englishPhrase>Souvenir</englishPhrase>
+<romanized>omeeyaageh</romanized>
+<unicode>お土産</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>558</phraseID>
+<catID>18</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>Specification</englishPhrase>
+<romanized>shosaay</romanized>
+<unicode>詳細</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>559</phraseID>
+<catID>18</catID>
+<phraseOrder>53</phraseOrder>
+<englishPhrase>Storage</englishPhrase>
+<romanized>soko</romanized>
+<unicode>倉庫</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>560</phraseID>
+<catID>18</catID>
+<phraseOrder>54</phraseOrder>
+<englishPhrase>Tariff</englishPhrase>
+<romanized>kaamzey</romanized>
+<unicode>関税</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>561</phraseID>
+<catID>18</catID>
+<phraseOrder>55</phraseOrder>
+<englishPhrase>Tax-free</englishPhrase>
+<romanized>menzey</romanized>
+<unicode>免税</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>562</phraseID>
+<catID>18</catID>
+<phraseOrder>56</phraseOrder>
+<englishPhrase>To answer</englishPhrase>
+<romanized>kotaayru</romanized>
+<unicode>答える</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>563</phraseID>
+<catID>18</catID>
+<phraseOrder>57</phraseOrder>
+<englishPhrase>To be responsible for</englishPhrase>
+<romanized>sekeeneen gaa aroo</romanized>
+<unicode>責任がある</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>564</phraseID>
+<catID>18</catID>
+<phraseOrder>58</phraseOrder>
+<englishPhrase>To export</englishPhrase>
+<romanized>yooshootsu suru</romanized>
+<unicode>輸出する</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>565</phraseID>
+<catID>18</catID>
+<phraseOrder>59</phraseOrder>
+<englishPhrase>To fill out</englishPhrase>
+<romanized>keenyoo suru</romanized>
+<unicode>記入する</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>566</phraseID>
+<catID>18</catID>
+<phraseOrder>60</phraseOrder>
+<englishPhrase>To present for customs inspection</englishPhrase>
+<romanized>kensaane taachee-aa-oo</romanized>
+<unicode>検査に立ち会う</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>567</phraseID>
+<catID>18</catID>
+<phraseOrder>61</phraseOrder>
+<englishPhrase>Transportation</englishPhrase>
+<romanized>koh-tsu keekaam</romanized>
+<unicode>交通機関</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>568</phraseID>
+<catID>18</catID>
+<phraseOrder>62</phraseOrder>
+<englishPhrase>Unloading</englishPhrase>
+<romanized>nee-oroshee</romanized>
+<unicode>荷降ろし</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>569</phraseID>
+<catID>18</catID>
+<phraseOrder>63</phraseOrder>
+<englishPhrase>Valuables</englishPhrase>
+<romanized>keecho heen</romanized>
+<unicode>貴重品</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>570</phraseID>
+<catID>18</catID>
+<phraseOrder>64</phraseOrder>
+<englishPhrase>Value</englishPhrase>
+<romanized>kaachee</romanized>
+<unicode>価値</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>571</phraseID>
+<catID>18</catID>
+<phraseOrder>65</phraseOrder>
+<englishPhrase>Visa</englishPhrase>
+<romanized>beeza</romanized>
+<unicode>ビザ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>572</phraseID>
+<catID>18</catID>
+<phraseOrder>66</phraseOrder>
+<englishPhrase>Weapons</englishPhrase>
+<romanized>bookee</romanized>
+<unicode>武器</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>573</phraseID>
+<catID>18</catID>
+<phraseOrder>67</phraseOrder>
+<englishPhrase>X-ray machine</englishPhrase>
+<romanized>rentogem nokeekaay</romanized>
+<unicode>レントゲンの機械</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>574</phraseID>
+<catID>19</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Aunt (paternal / maternal)</englishPhrase>
+<romanized>obaa</romanized>
+<unicode>伯母 / 叔母</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>575</phraseID>
+<catID>19</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Brother</englishPhrase>
+<romanized>kyodaay</romanized>
+<unicode>兄弟</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>576</phraseID>
+<catID>19</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Child</englishPhrase>
+<romanized>kodomo</romanized>
+<unicode>子供</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>577</phraseID>
+<catID>19</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Children</englishPhrase>
+<romanized>kodomo taachee</romanized>
+<unicode>子供たち</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>578</phraseID>
+<catID>19</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Cousin</englishPhrase>
+<romanized>eetoko</romanized>
+<unicode>いとこ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>579</phraseID>
+<catID>19</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Daughter</englishPhrase>
+<romanized>moosumeh</romanized>
+<unicode>娘</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>580</phraseID>
+<catID>19</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Family</englishPhrase>
+<romanized>kaazokoo</romanized>
+<unicode>家族</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>581</phraseID>
+<catID>19</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Father</englishPhrase>
+<romanized>cheechee</romanized>
+<unicode>父</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>582</phraseID>
+<catID>19</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Grandfather</englishPhrase>
+<romanized>sofoo</romanized>
+<unicode>祖父</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>583</phraseID>
+<catID>19</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Grandmother</englishPhrase>
+<romanized>sobo</romanized>
+<unicode>祖母</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>584</phraseID>
+<catID>19</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Husband</englishPhrase>
+<romanized>ot-to</romanized>
+<unicode>主人</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>585</phraseID>
+<catID>19</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Man</englishPhrase>
+<romanized>otoko</romanized>
+<unicode>男</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>586</phraseID>
+<catID>19</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Men</englishPhrase>
+<romanized>otoko</romanized>
+<unicode>男</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>587</phraseID>
+<catID>19</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Mother</englishPhrase>
+<romanized>haahaa</romanized>
+<unicode>母</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>588</phraseID>
+<catID>19</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Relatives</englishPhrase>
+<romanized>sheensehkee</romanized>
+<unicode>親戚</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>589</phraseID>
+<catID>19</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Sister</englishPhrase>
+<romanized>sheemaay</romanized>
+<unicode>姉妹</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>590</phraseID>
+<catID>19</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Son</englishPhrase>
+<romanized>moosuko</romanized>
+<unicode>息子</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>591</phraseID>
+<catID>19</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Uncle (paternal / maternal)</englishPhrase>
+<romanized>odjee</romanized>
+<unicode>伯父 / 叔父</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>592</phraseID>
+<catID>19</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Wife</englishPhrase>
+<romanized>tsumaa</romanized>
+<unicode>妻</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>593</phraseID>
+<catID>19</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Woman</englishPhrase>
+<romanized>on-naa</romanized>
+<unicode>女</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>594</phraseID>
+<catID>19</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Women</englishPhrase>
+<romanized>on-naa</romanized>
+<unicode>女</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>595</phraseID>
+<catID>20</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Cold</englishPhrase>
+<romanized>saamoo-ee</romanized>
+<unicode>寒い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>596</phraseID>
+<catID>20</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Dry</englishPhrase>
+<romanized>kang-so sheetaa</romanized>
+<unicode>乾燥した</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>597</phraseID>
+<catID>20</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Earthquake</englishPhrase>
+<romanized>jeesheen</romanized>
+<unicode>地震</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>598</phraseID>
+<catID>20</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Fog</englishPhrase>
+<romanized>keeree</romanized>
+<unicode>霧</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>599</phraseID>
+<catID>20</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>High winds</englishPhrase>
+<romanized>kyo foo</romanized>
+<unicode>強風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>600</phraseID>
+<catID>20</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Hot</englishPhrase>
+<romanized>aatsoo-ee</romanized>
+<unicode>暑い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>601</phraseID>
+<catID>20</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Humidity</englishPhrase>
+<romanized>sheetsudo</romanized>
+<unicode>湿度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>602</phraseID>
+<catID>20</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Ice</englishPhrase>
+<romanized>koh-ree</romanized>
+<unicode>氷</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>603</phraseID>
+<catID>20</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Lightning</englishPhrase>
+<romanized>eenaadzumaa</romanized>
+<unicode>稲妻</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>604</phraseID>
+<catID>20</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Rain</englishPhrase>
+<romanized>aameh</romanized>
+<unicode>雨</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>607</phraseID>
+<catID>20</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Sandstorm</englishPhrase>
+<romanized>sunaa raashee</romanized>
+<unicode>砂嵐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>608</phraseID>
+<catID>20</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Severe</englishPhrase>
+<romanized>kee bee shee</romanized>
+<unicode>厳しい</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>609</phraseID>
+<catID>20</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Snow</englishPhrase>
+<romanized>yookee</romanized>
+<unicode>雪</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>610</phraseID>
+<catID>20</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Storm</englishPhrase>
+<romanized>aarashee</romanized>
+<unicode>嵐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>611</phraseID>
+<catID>20</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Temperature</englishPhrase>
+<romanized>on-doh</romanized>
+<unicode>温度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>612</phraseID>
+<catID>20</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Thunder</englishPhrase>
+<romanized>kaameenaaree</romanized>
+<unicode>雷</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>613</phraseID>
+<catID>20</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Weather</englishPhrase>
+<romanized>ten kee</romanized>
+<unicode>天気</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>614</phraseID>
+<catID>20</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Wet</englishPhrase>
+<romanized>nureytaa</romanized>
+<unicode>濡れた</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>615</phraseID>
+<catID>20</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Typhoon</englishPhrase>
+<romanized>taayfoo</romanized>
+<unicode>台風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>616</phraseID>
+<catID>20</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Tornado</englishPhrase>
+<romanized>taatsu maakee</romanized>
+<unicode>竜巻</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>617</phraseID>
+<catID>21</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Airfield</englishPhrase>
+<romanized>heekoh djo</romanized>
+<unicode>飛行場</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>618</phraseID>
+<catID>21</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Ammunition</englishPhrase>
+<romanized>daan yaaku</romanized>
+<unicode>弾薬</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>619</phraseID>
+<catID>21</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Armed men</englishPhrase>
+<romanized>booso shtaa-otoko</romanized>
+<unicode>武装した男</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>620</phraseID>
+<catID>21</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Artillery</englishPhrase>
+<romanized>hoheh</romanized>
+<unicode>砲兵</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>621</phraseID>
+<catID>21</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Barracks</englishPhrase>
+<romanized>heyshaa</romanized>
+<unicode>兵舎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>622</phraseID>
+<catID>21</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Base</englishPhrase>
+<romanized>keechee</romanized>
+<unicode>基地</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>623</phraseID>
+<catID>21</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Camp</englishPhrase>
+<romanized>kyaampu</romanized>
+<unicode>キャンプ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>624</phraseID>
+<catID>21</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Cannon</englishPhrase>
+<romanized>hoheh</romanized>
+<unicode>砲兵</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>625</phraseID>
+<catID>21</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Car</englishPhrase>
+<romanized>kooroomaa</romanized>
+<unicode>車</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>626</phraseID>
+<catID>21</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Commander</englishPhrase>
+<romanized>sheereykaam</romanized>
+<unicode>司令官</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>627</phraseID>
+<catID>21</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Enemy</englishPhrase>
+<romanized>tehkee</romanized>
+<unicode>敵</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>628</phraseID>
+<catID>21</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Explosive</englishPhrase>
+<romanized>baakoo yaakoo</romanized>
+<unicode>爆薬</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>629</phraseID>
+<catID>21</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Friendly</englishPhrase>
+<romanized>meekaataa</romanized>
+<unicode>味方</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>630</phraseID>
+<catID>21</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Grenade</englishPhrase>
+<romanized>shuryoodaam</romanized>
+<unicode>手榴弾</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>631</phraseID>
+<catID>21</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Gun</englishPhrase>
+<romanized>joo</romanized>
+<unicode>銃</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>632</phraseID>
+<catID>21</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Jeep</englishPhrase>
+<romanized>jeepu</romanized>
+<unicode>ジープ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>633</phraseID>
+<catID>21</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Kilometer</englishPhrase>
+<romanized>keeromeytoru</romanized>
+<unicode>キロメートル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>634</phraseID>
+<catID>21</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Knife</englishPhrase>
+<romanized>naayfu</romanized>
+<unicode>ナイフ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>635</phraseID>
+<catID>21</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Leader</englishPhrase>
+<romanized>reedaa</romanized>
+<unicode>リーダ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>636</phraseID>
+<catID>21</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Machine gun</englishPhrase>
+<romanized>keekaan djoo</romanized>
+<unicode>機関銃</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>637</phraseID>
+<catID>21</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Mine</englishPhrase>
+<romanized>jeeraay</romanized>
+<unicode>地雷</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>638</phraseID>
+<catID>21</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Minefield</englishPhrase>
+<romanized>jeeraay gem</romanized>
+<unicode>地雷原</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>639</phraseID>
+<catID>21</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Missile</englishPhrase>
+<romanized>meesaayroo</romanized>
+<unicode>ミサイル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>640</phraseID>
+<catID>21</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Mortar</englishPhrase>
+<romanized>haakoo gekee hou</romanized>
+<unicode>迫撃砲</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>641</phraseID>
+<catID>21</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Officer</englishPhrase>
+<romanized>sheekaam</romanized>
+<unicode>士官</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>642</phraseID>
+<catID>21</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Pistol</englishPhrase>
+<romanized>kendju</romanized>
+<unicode>拳銃</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>643</phraseID>
+<catID>21</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Plane</englishPhrase>
+<romanized>hee koh kee</romanized>
+<unicode>飛行機</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>644</phraseID>
+<catID>21</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Protection</englishPhrase>
+<romanized>hogo</romanized>
+<unicode>保護</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>645</phraseID>
+<catID>21</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Refugee</englishPhrase>
+<romanized>naameem</romanized>
+<unicode>難民</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>646</phraseID>
+<catID>21</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Rifle</englishPhrase>
+<romanized>shodjoo</romanized>
+<unicode>小銃</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>647</phraseID>
+<catID>21</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Rocket</englishPhrase>
+<romanized>rokehto</romanized>
+<unicode>ロケット</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>648</phraseID>
+<catID>21</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Rocket launcher</englishPhrase>
+<romanized>rokehto raanchaa</romanized>
+<unicode>ロケットランチャー</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>649</phraseID>
+<catID>21</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Shelter</englishPhrase>
+<romanized>heenaandjo</romanized>
+<unicode>避難所</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>650</phraseID>
+<catID>21</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Ship</englishPhrase>
+<romanized>fooneh</romanized>
+<unicode>船</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>651</phraseID>
+<catID>21</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Sniper</englishPhrase>
+<romanized>sogehkee heh</romanized>
+<unicode>狙撃兵</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>652</phraseID>
+<catID>21</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Soldier</englishPhrase>
+<romanized>heyshee</romanized>
+<unicode>兵士</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>653</phraseID>
+<catID>21</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Stronghold</englishPhrase>
+<romanized>yosaay</romanized>
+<unicode>要塞</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>654</phraseID>
+<catID>21</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Tank</englishPhrase>
+<romanized>senshaa</romanized>
+<unicode>戦車</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>655</phraseID>
+<catID>21</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Tent</englishPhrase>
+<romanized>tento</romanized>
+<unicode>テント</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>656</phraseID>
+<catID>21</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Trailer</englishPhrase>
+<romanized>toreyraa</romanized>
+<unicode>トレーラー</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>657</phraseID>
+<catID>21</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Truck</englishPhrase>
+<romanized>toraakku</romanized>
+<unicode>トラック</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>658</phraseID>
+<catID>21</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Unit</englishPhrase>
+<romanized>bootaay</romanized>
+<unicode>部隊</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>659</phraseID>
+<catID>21</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Weapons</englishPhrase>
+<romanized>bookee</romanized>
+<unicode>武器</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>660</phraseID>
+<catID>22</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Angle</englishPhrase>
+<romanized>kaa ku do</romanized>
+<unicode>角度</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>661</phraseID>
+<catID>22</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Azimuth</englishPhrase>
+<romanized>ho-ee</romanized>
+<unicode>方位</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>662</phraseID>
+<catID>22</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Cleared lane</englishPhrase>
+<romanized>aanzen doh-ro</romanized>
+<unicode>安全道路</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>663</phraseID>
+<catID>22</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Compass</englishPhrase>
+<romanized>kompas</romanized>
+<unicode>コンパス</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>664</phraseID>
+<catID>22</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Danger area</englishPhrase>
+<romanized>keeken chee eekee</romanized>
+<unicode>危険地域</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>665</phraseID>
+<catID>22</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Demolition</englishPhrase>
+<romanized>baakoo haa</romanized>
+<unicode>爆破</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>668</phraseID>
+<catID>22</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Grappling hook</englishPhrase>
+<romanized>heekaakeh fookoo</romanized>
+<unicode>引っ掛けフック</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>669</phraseID>
+<catID>22</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>In place</englishPhrase>
+<romanized>tey-ee cheenee</romanized>
+<unicode>定位置に</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>670</phraseID>
+<catID>22</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Metallic</englishPhrase>
+<romanized>keen zokuno</romanized>
+<unicode>金属の</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>671</phraseID>
+<catID>22</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Mine</englishPhrase>
+<romanized>jeeraayee</romanized>
+<unicode>地雷</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>672</phraseID>
+<catID>22</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Minefield</englishPhrase>
+<romanized>jeeraayee gem</romanized>
+<unicode>地雷原</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>673</phraseID>
+<catID>22</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Non-metallic</englishPhrase>
+<romanized>heekeen zokuno</romanized>
+<unicode>非金属の</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>674</phraseID>
+<catID>22</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Pace</englishPhrase>
+<romanized>peys</romanized>
+<unicode>ペース</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>675</phraseID>
+<catID>22</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Stake</englishPhrase>
+<romanized>koo-ee</romanized>
+<unicode>杭</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>676</phraseID>
+<catID>22</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Tree</englishPhrase>
+<romanized>kee</romanized>
+<unicode>木</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>677</phraseID>
+<catID>22</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Tape</englishPhrase>
+<romanized>tey pu</romanized>
+<unicode>テープ</unicode>
+</dbo_langKit>
+</dataroot>

@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T11:44:16">
+<dbo_langKit>
+<phraseID>1</phraseID>
+<catID>1</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Please wait for an interpreter.</englishPhrase>
+<romanized>tsooyaakoo wo maat-te koodaasaay</romanized>
+<unicode>通訳を待ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>2</phraseID>
+<catID>1</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Please turn off your camera.</englishPhrase>
+<romanized>kaamehraa no dengen wo kehshte koodaasaay</romanized>
+<unicode>カメラの電源を消してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>3</phraseID>
+<catID>1</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Please turn off your recorder.</englishPhrase>
+<romanized>rokuonkee no dengen wo kehshte koodaasaay</romanized>
+<unicode>録音機の電源を消してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>4</phraseID>
+<catID>1</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Here is a copy of our ground rules.</englishPhrase>
+<romanized>koreh gaa keehon roo-roo no kopee des</romanized>
+<unicode>これが基本ルールのコピーです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>5</phraseID>
+<catID>1</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Sign here if you agree to follow the ground rules.</englishPhrase>
+<romanized>kono keehon roo-roo nee shtaagaoh koto nee doh ee sooroo naaraa koko nee shomey shteh koodaasaay</romanized>
+<unicode>この基本ルールに従うことに同意するなら、ここに署名してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>6</phraseID>
+<catID>1</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>This is not the public affairs office.</englishPhrase>
+<romanized>koko waa koh hoh sheetsoo dewaa aareemaasen</romanized>
+<unicode>ここは広報室ではありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>7</phraseID>
+<catID>1</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>I am not an official spokesperson.</englishPhrase>
+<romanized>waataashee waa sheesheekee naa koh hoh taantow kaan dewaa aareemaasen</romanized>
+<unicode>私は正式な広報担当官ではありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>8</phraseID>
+<catID>1</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>He does not wish to give an interview.</englishPhrase>
+<romanized>kaareh waa eentaabyoo wo nozondeh eemaasen</romanized>
+<unicode>彼はインタビューを望んでいません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>9</phraseID>
+<catID>1</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>She does not wish to give an interview.</englishPhrase>
+<romanized>kaanojyo waa eentaabyoo wo nozondeh eemaasen</romanized>
+<unicode>彼女はインタビューを望んでいません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>10</phraseID>
+<catID>1</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Do not take photos here.</englishPhrase>
+<romanized>koko deh shaasheen wo toraanaaeedeh koodaasaay</romanized>
+<unicode>ここで写真を撮らないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>11</phraseID>
+<catID>1</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Do not take videos here.</englishPhrase>
+<romanized>koko deh beedehoh wo toraanaaee-deh koodaasaay</romanized>
+<unicode>ここでビデオを撮らないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>12</phraseID>
+<catID>1</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Do not take photos of this place.</englishPhrase>
+<romanized>koko waa saatsooeh  keenshee des</romanized>
+<unicode>ここは撮影禁止です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>13</phraseID>
+<catID>1</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Do not take videos of this place.</englishPhrase>
+<romanized>koko waa saatsooeh keenshee des</romanized>
+<unicode>ここは撮影禁止です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>14</phraseID>
+<catID>1</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Do not take photos of this piece of equipment.</englishPhrase>
+<romanized>kono soh bee no shaasheen wo toraanaaee-deh koodaasaay</romanized>
+<unicode>この装備の写真を撮らないでください、</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>15</phraseID>
+<catID>1</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Do not take videos of this piece of equipment.</englishPhrase>
+<romanized>kono soh bee waa saatsooeh sheenaaeedeh koodaasaay</romanized>
+<unicode>この装備は撮影しないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>16</phraseID>
+<catID>1</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>You cannot enter this area now.</englishPhrase>
+<romanized>genzaay kono ehreeaa neewaa haaehreh maasen</romanized>
+<unicode>現在このエリアには入れません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>17</phraseID>
+<catID>1</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>For security reasons, I cannot address this question.</englishPhrase>
+<romanized>sehkyooreetee jyoh no reeyoo nee yoree sono sheetsoomon neewaa kotaaeh raareh maasen</romanized>
+<unicode>セキュリティー上の理由により、その質問には答えられません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>18</phraseID>
+<catID>1</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>I cannot address that question until the investigation is finished.</englishPhrase>
+<romanized>choh saa gaa shooryoh sooroo maadeh sono sheetsoomon neewaa kotaaeh raareh maasen</romanized>
+<unicode>調査が終了するまで、その質問には答えられません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>19</phraseID>
+<catID>1</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>We do not discuss personnel or equipment strength with the media.</englishPhrase>
+<romanized>butaa ee no sey ryokoo nee tsooeetey waa meydeeyaa nee haanaasoo koto gaa dehkeemaasen</romanized>
+<unicode>部隊の勢力についてはメディアに話すことができません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>20</phraseID>
+<catID>1</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>We do not discuss future operations with the media.</englishPhrase>
+<romanized>shohraay no saakoosen nee tsooeetey waa meydeeyaa nee haanaasoo koto gaa dehkee maasen</romanized>
+<unicode>将来の作戦についてメディアに話すことができません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>21</phraseID>
+<catID>1</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>We do not discuss nuclear operations with the media.</englishPhrase>
+<romanized>kaakoo hey ee kee no oon yoh nee tsooeete waa meydeeyaa nee haanaasoo koto gaa dehkeemaasen</romanized>
+<unicode>核兵器の運用についてメディアに話すことができません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>22</phraseID>
+<catID>1</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>We do not discuss chemical operations with the media.</englishPhrase>
+<romanized>kaagaakoo hey ee kee no oon yoh nee tsooeete waa meydeeyaa nee haanaasoo koto gaa dehkeemaasen</romanized>
+<unicode>化学兵器の運用についてメディアに話すことができません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>23</phraseID>
+<catID>1</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>We do not discuss biological operations with the media.</englishPhrase>
+<romanized>sey ee bootsoo hey ee kee no oon yoh nee tsooeete waa meydeeyaa nee haanaasoo koto gaa dehkeemaasen</romanized>
+<unicode>生物兵器の運用についてメディアに話すことができません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>24</phraseID>
+<catID>1</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>We do not have information on this subject.</englishPhrase>
+<romanized>kono ken nee kaan shteh waa jyoh hoh gaa aareemaasen</romanized>
+<unicode>この件に関しては情報がありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>25</phraseID>
+<catID>1</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Names cannot be released until victims' relatives are notified.</englishPhrase>
+<romanized>gee sey ee shaa no kaazokoo gaa kaakooneen sooroo maadeh naamaaeh wo koh kaay dehkeemaasen</romanized>
+<unicode>犠牲者の家族が確認するまで名前を公開できません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>26</phraseID>
+<catID>2</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>This is the ___ public affairs office.</englishPhrase>
+<romanized>koh hoh sheetsu des</romanized>
+<unicode>広報室です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>27</phraseID>
+<catID>2</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>This is not the public affairs office.</englishPhrase>
+<romanized>koko waa koh hoh sheetsoo dewaa aareemaasen</romanized>
+<unicode>ここは広報室ではありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>28</phraseID>
+<catID>2</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>What is your name?</englishPhrase>
+<romanized>aanaataa no onaamaaeh waa?</romanized>
+<unicode>あなたのお名前は。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>29</phraseID>
+<catID>2</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>What media organization do you represent?</englishPhrase>
+<romanized>shozohkoo waa docheeraa deskaa?</romanized>
+<unicode>所属はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>30</phraseID>
+<catID>2</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Where is your organization based?</englishPhrase>
+<romanized>hon shaa waa docheeraa deskaa?</romanized>
+<unicode>本社はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>31</phraseID>
+<catID>2</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>What is your publication?</englishPhrase>
+<romanized>kaan koh bootsoo no naamaaeh waa naan deskaa?</romanized>
+<unicode>刊行物の名前は何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>32</phraseID>
+<catID>2</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>What is your program?</englishPhrase>
+<romanized>baangoomee mey waa naan deskaa?</romanized>
+<unicode>番組名は何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>33</phraseID>
+<catID>2</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>What is the subject of this article?</englishPhrase>
+<romanized>keejee no teh-maa waa naan deskaa?</romanized>
+<unicode>記事のテーマは何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>34</phraseID>
+<catID>2</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>What is your question?</englishPhrase>
+<romanized>aanaataa no sheetsoomon waa?</romanized>
+<unicode>あなたの質問は。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>35</phraseID>
+<catID>2</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Could you please ask the question in a different way?</englishPhrase>
+<romanized>hokaa no ee-e kaataa deh sheetsoomon sheete koodaasaay maasenkaa?</romanized>
+<unicode>他の言い方で質問してくださいませんか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>36</phraseID>
+<catID>2</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Could you please use simpler language?</englishPhrase>
+<romanized>mot-to yaasaashee kotobaa wo tsukaat-te eetaadaakeh maasenkaa?</romanized>
+<unicode>もっと、易しい言葉を使っていただけませんか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>37</phraseID>
+<catID>2</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>What is your deadline?</englishPhrase>
+<romanized>sheemeh keeree waa eetsoo deskaa?</romanized>
+<unicode>締め切りはいつですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>38</phraseID>
+<catID>2</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Tomorrow</englishPhrase>
+<romanized>aashtaa</romanized>
+<unicode>明日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>39</phraseID>
+<catID>2</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>In two days</englishPhrase>
+<romanized>whootsukaa no oochee nee</romanized>
+<unicode>二日のうちに</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>40</phraseID>
+<catID>2</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>In three days</englishPhrase>
+<romanized>meek-kaa no oochee nee</romanized>
+<unicode>三日のうちに</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>41</phraseID>
+<catID>2</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Next week</englishPhrase>
+<romanized>raay shoo o</romanized>
+<unicode>来週</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>42</phraseID>
+<catID>2</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Next month</englishPhrase>
+<romanized>raay gehtsoo</romanized>
+<unicode>来月</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>43</phraseID>
+<catID>2</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>What is your phone number?</englishPhrase>
+<romanized>denwaa baan goh waa naan baan deskaa?</romanized>
+<unicode>電話番号は何番ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>44</phraseID>
+<catID>2</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>1, 2, 3, 4, 5, 6, 7, 8, 9, 10</englishPhrase>
+<romanized>eechee, nee, saan, shee, go, roku, sheechee, haachee, kyoo, jyoo</romanized>
+<unicode>一、二、三、四、五、六、七、八、九、十。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>45</phraseID>
+<catID>2</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Please say one number at a time.</englishPhrase>
+<romanized>baan goh wo heeto tsoo zootsoo yook-kooree eet-te koodaasaay</romanized>
+<unicode>番号を一つずつゆっくり言ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>46</phraseID>
+<catID>2</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>A press release on that subject is being prepared.</englishPhrase>
+<romanized>genzaay sono ken nee kaan sooroo hoh doh haap-pyoh wo jyoonbee shteh oreemaas</romanized>
+<unicode>現在、その件に関する報道発表を準備しております。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>47</phraseID>
+<catID>2</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>There will be a press conference on that subject.</englishPhrase>
+<romanized>sono ken nee kaan sooroo keeshaa kaayken wo okonaao hoh sheen des</romanized>
+<unicode>その件に関する記者会見を行う方針です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>48</phraseID>
+<catID>2</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>The time for the press release has not been decided yet.</englishPhrase>
+<romanized>hoh doh haap-pyoh no jeekee waa mee tey des</romanized>
+<unicode>報道発表の時期は未定です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>49</phraseID>
+<catID>3</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Wear this badge where it can be seen.</englishPhrase>
+<romanized>kono baa-jee wo mee ehroo tokoro nee tsukehte koodaasaay</romanized>
+<unicode>このバッジを見えるところにつけてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>50</phraseID>
+<catID>3</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Leave your camera with this person.</englishPhrase>
+<romanized>kocheeraa nee kaamehraa wo aazookehte koodaasaay</romanized>
+<unicode>こちらにカメラを預けてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>51</phraseID>
+<catID>3</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Leave your cell phone with this person. </englishPhrase>
+<romanized>kocheeraa nee keh ee taay denwaa wo aazookehte koodaasaay</romanized>
+<unicode>こちらに携帯電話を預けてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>52</phraseID>
+<catID>3</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>I am your escort.</englishPhrase>
+<romanized>waataashee gaa aan naay sheemaas</romanized>
+<unicode>私が案内します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>53</phraseID>
+<catID>3</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>He is your escort.</englishPhrase>
+<romanized>kaareh gaa aan naay sheemaas</romanized>
+<unicode>彼が案内します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>54</phraseID>
+<catID>3</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>She is your escort.</englishPhrase>
+<romanized>kaanojyo gaa aan naay sheemaas</romanized>
+<unicode>彼女が案内します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>55</phraseID>
+<catID>3</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Stay within ___ meters of me at all times.</englishPhrase>
+<romanized>tsooneh nee waataashee no ___ mehtoroo eenaay nee eete koodaasaay</romanized>
+<unicode>常に私の ___ メートル以内にいてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>56</phraseID>
+<catID>3</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Follow her.</englishPhrase>
+<romanized>kaanojyo no ato nee  tsooeete eet-te koodaasaay</romanized>
+<unicode>彼女の後について行ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>57</phraseID>
+<catID>3</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Follow him.</englishPhrase>
+<romanized>kaareh no ato nee tsooeete eet-te koodaasaay</romanized>
+<unicode>彼の後について行ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>58</phraseID>
+<catID>3</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Follow me.</englishPhrase>
+<romanized>waataashee no ato nee  tsooeete eet-te koodaasaay</romanized>
+<unicode>私の後について来てください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>59</phraseID>
+<catID>3</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Follow them.</englishPhrase>
+<romanized>kaarehraa no ato nee tsooeete eet-te koodaasaay</romanized>
+<unicode>彼等の後について行ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>60</phraseID>
+<catID>3</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>You will ride with me in that vehicle.</englishPhrase>
+<romanized>aacheeraa no shaa ryoh deh waataashee to doh koh shteh eetaadaakeemaas</romanized>
+<unicode>あちらの車両で私と同行していただきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>61</phraseID>
+<catID>3</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>You will ride with us in this vehicle.</englishPhrase>
+<romanized>kocheeraa no shaa ryoh deh waareh waareh to doh koh shteh eetaadaakeemaas</romanized>
+<unicode>こちらの車両で我々と同行していただきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>62</phraseID>
+<catID>3</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>You will ride with him in that vehicle.</englishPhrase>
+<romanized>aacheeraa no shaa ryoh deh kaareh to doh koh shteh eetaadaakeemaas</romanized>
+<unicode>あちらの車両で彼と同行していただきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>63</phraseID>
+<catID>3</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>You will ride with her.</englishPhrase>
+<romanized>kaanojyo to doh koh shteh eetaadaakeemaas</romanized>
+<unicode>彼女と同行していただきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>64</phraseID>
+<catID>3</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>You will ride with them.</englishPhrase>
+<romanized>kaarehraa to doh koh shteh eetaadaakeemaas</romanized>
+<unicode>彼等と同行していただきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>65</phraseID>
+<catID>3</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Keep your helmet on.</englishPhrase>
+<romanized>tsooneh nee hehroomet-to wo kaaboot-te koodaasaay</romanized>
+<unicode>常にヘルメットを被ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>66</phraseID>
+<catID>3</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Keep your seat belt on.</englishPhrase>
+<romanized>tsooneh nee shee-to behrooto wo sheemehte koodaasaay</romanized>
+<unicode>常にシートベルトを締めてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>67</phraseID>
+<catID>3</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Keep the window closed.</englishPhrase>
+<romanized>tsooneh nee maado wo sheemehte oeeteh koodaasaay</romanized>
+<unicode>常に窓を閉めておいてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>68</phraseID>
+<catID>4</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>I do not wish to give an interview.</englishPhrase>
+<romanized>eentaabyoo wo ookehroo tsoomoree waa aareemaasen</romanized>
+<unicode>インタビューを受けるつもりはありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>69</phraseID>
+<catID>4</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>He does not wish to give an interview.</englishPhrase>
+<romanized>kaareh waa eentaabyoo wo nozondeh eemaasen</romanized>
+<unicode>彼はインタビューを望んでいません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>70</phraseID>
+<catID>4</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>She does not wish to give an interview.</englishPhrase>
+<romanized>kaanojyo waa eentaabyoo wo nozondeh eemaasen</romanized>
+<unicode>彼女はインタビューを望んでいません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>71</phraseID>
+<catID>4</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>I am not qualified to answer that question.</englishPhrase>
+<romanized>waataashee waa sono sheetsoomon nee kotaaehroo sheekaakoo gaa aareemaasen</romanized>
+<unicode>私はその質問に答える資格がありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>72</phraseID>
+<catID>4</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>She is not qualified to answer that question.</englishPhrase>
+<romanized>kaanojyo waa sono sheetsoomon nee kotaaehroo sheekaakoo gaa aareemaasen</romanized>
+<unicode>彼女はその質問に答える資格がありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>73</phraseID>
+<catID>4</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>He is not qualified to answer that question.</englishPhrase>
+<romanized>kaareh waa sono sheetsoomon nee kotaaehroo sheekaakoogaa aareemaasen</romanized>
+<unicode>彼はその質問に答える資格がありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>74</phraseID>
+<catID>4</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>He does not want to answer that question.</englishPhrase>
+<romanized>kaareh waa sono sheetsoomon nee kotaaeh taakoo naay soh des</romanized>
+<unicode>彼はその質問に答えたくないそうです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>75</phraseID>
+<catID>4</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>She does not want to answer that question.</englishPhrase>
+<romanized>kaanojyo waa sono sheetsoomon nee kotaaeh taakoo naay soh des</romanized>
+<unicode>彼女はその質問に答えたくないそうです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>76</phraseID>
+<catID>4</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>I will not answer this question.</englishPhrase>
+<romanized>sono sheetsoomon neewaa kotaaeh raareh maasen</romanized>
+<unicode>その質問には答えられません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>77</phraseID>
+<catID>4</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>I have no answer at this time.</englishPhrase>
+<romanized>eemaa waa sono sheetsoomon nee kotaaeh raareh maasen</romanized>
+<unicode>今はその質問に答えられません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>78</phraseID>
+<catID>4</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>I would like to stop this interview.</englishPhrase>
+<romanized>koreh deh eentaabyoo wo owaaree nee sheemaashoh</romanized>
+<unicode>これでインタビューを終わりにしましょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>79</phraseID>
+<catID>4</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>She would like to stop this interview.</englishPhrase>
+<romanized>kaanojyo waa eentaabyoo wo owaaree nee shtaay soh des</romanized>
+<unicode>彼女はインタビューを終わりにしたいそうです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>80</phraseID>
+<catID>4</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>He would like to stop this interview.</englishPhrase>
+<romanized>kaareh waa eentaabyoo wo owaaree nee shtaay soh des</romanized>
+<unicode>彼はインタビューを終わりにしたいそうです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>81</phraseID>
+<catID>4</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>No comment.</englishPhrase>
+<romanized>naanee mo eeoo koto waa aareemaasen</romanized>
+<unicode>何も言うことはありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>82</phraseID>
+<catID>4</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Can you please ask the question in simpler language?</englishPhrase>
+<romanized>mot-to kaantaan na kotobaa deh sheetsoomon shteh eetaadaakeh maaskaa?</romanized>
+<unicode>もっと簡単な言葉で質問していただけますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>83</phraseID>
+<catID>4</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>This interview is over.</englishPhrase>
+<romanized>eentaabyoo waa owaaree des</romanized>
+<unicode>インタビューは終わりです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>84</phraseID>
+<catID>5</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>The commander / section chief should be arriving shortly.</englishPhrase>
+<romanized>boochoh waa moh soogoo koko nee toh chaakoo sooroo yo tey des</romanized>
+<unicode>部長はもうすぐここに到着する予定です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>85</phraseID>
+<catID>5</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>I will call on you to speak.</englishPhrase>
+<romanized>aanaataa no baan gaa keetaaraa o sheeraaseh sheemaas</romanized>
+<unicode>あなたの番が来たらお知らせします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>86</phraseID>
+<catID>5</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>He will call on you to speak.</englishPhrase>
+<romanized>aanaataa no baan gaa keetaaraa kaareh gaa osheeraaseh sheemaas</romanized>
+<unicode>あなたの番が来たら彼がお知らせします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>87</phraseID>
+<catID>5</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>She will call on you to speak.</englishPhrase>
+<romanized>aanaataa no baan gaa keetaaraa kanojyo gaa osheeraaseh sheemaas</romanized>
+<unicode>あなたの番が来たら彼女がお知らせします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>88</phraseID>
+<catID>5</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Please ask only one question each time you are called on.</englishPhrase>
+<romanized>sheetsoomon waa eek-kaay nee heetohtsoo zootsoo onehgaay sheemaas</romanized>
+<unicode>質問は一回に一つずつお願いします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>89</phraseID>
+<catID>5</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>You may ask one legitimate follow-up question per turn.</englishPhrase>
+<romanized>eek-kaay no jyoon baan gotoh nee kaan ren no sheetsoomon wo heetootsoo daakeh ookehroo koto gaa dehkee maas</romanized>
+<unicode>一回の順番毎に、関連の質問を一つだけ受けることができます。　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>90</phraseID>
+<catID>5</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Please wait for the interpreter to translate your question.</englishPhrase>
+<romanized>honyaakoo sooroo maadeh o-machee koodaasaay</romanized>
+<unicode>翻訳するまでお待ちください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>91</phraseID>
+<catID>5</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Please wait for the interpreter to translate your answer.</englishPhrase>
+<romanized>tusooya koogaakooroo maadeh o-machee koodaasaay</romanized>
+<unicode>翻訳するまでお待ちください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>92</phraseID>
+<catID>5</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>That is a separate question; there may be time to address it later.</englishPhrase>
+<romanized>soreh waa behtsoo no sheetsoomon nee naareemaas nodeh nochee hodoh aaraataamehte sheetsoomon shte ee-taadaakoo jeekaan gaa aaroo to omoee maas</romanized>
+<unicode>それは別の質問になりますので、後ほど改めて質問していただく時間があると思います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>93</phraseID>
+<catID>5</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We ran out of time.</englishPhrase>
+<romanized>jeekaan gaa naakoo naareemaasheetaa</romanized>
+<unicode>時間がなくなりました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>94</phraseID>
+<catID>5</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>In case it’s necessary later, please give him your contact information.</englishPhrase>
+<romanized>maan eechee no taameh kaanaaraazoo kaareh nee aanaataa no renraakoo saakee wo waataashte koodaasaay</romanized>
+<unicode>万一のため必ず彼にあなたの連絡先を渡してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>95</phraseID>
+<catID>5</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>In case it’s necessary later, please give her your contact information.</englishPhrase>
+<romanized>maan eechee no taameh kaanaaraazoo kano jonee  aanaataa no renraakoo saakee wo waataashte koodaasaay</romanized>
+<unicode>万一のため必ず彼女にあなたの連絡先を渡してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>96</phraseID>
+<catID>5</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>In case it’s necessary later, please give me your contact information.</englishPhrase>
+<romanized>maan eechee no taameh kaanaaraazoo watashee nee aanaataa no renraakoo saakee wo waataashte koodaasaay</romanized>
+<unicode>万一のため必ず私にあなたの連絡先を渡してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>97</phraseID>
+<catID>5</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Another session will take place later today.</englishPhrase>
+<romanized>honjeetsoo choo nee saaee do kaaee goh wo okonaaee maas</romanized>
+<unicode>本日中に再度会合を行います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>98</phraseID>
+<catID>5</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Thanks for your cooperation.</englishPhrase>
+<romanized>go kyoh ryokoo aareegaatoh gozaaee maas</romanized>
+<unicode>ご協力ありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>99</phraseID>
+<catID>5</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Thanks for your understanding.</englishPhrase>
+<romanized>go reekaaee eetaadaakee aareegaatoh gozaaee maas</romanized>
+<unicode>ご理解いただきありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>100</phraseID>
+<catID>6</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>I am not an official spokesperson.</englishPhrase>
+<romanized>waataashee waa sey ee sheekee naa koh hoh taan toh kaan dehwaa aareemaasen</romanized>
+<unicode>私は正式な広報担当官ではありません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>101</phraseID>
+<catID>6</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Please wait for the public affairs representative.</englishPhrase>
+<romanized>koh hoh no daaee hyoh gaa kooroo maadeh omaachee koodaasaay</romanized>
+<unicode>広報の代表が来るまでお待ちください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>102</phraseID>
+<catID>6</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>I can only tell you what I know.</englishPhrase>
+<romanized>waataakushee gaa sheeroo koto nomee ohaanaashee dehkeemaas</romanized>
+<unicode>私が知ることのみお話しできます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>103</phraseID>
+<catID>6</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>The situation is under control.</englishPhrase>
+<romanized>jeetaay waa shoo shoo saarehte oreemaas</romanized>
+<unicode>事態は収拾されております。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>104</phraseID>
+<catID>6</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>We are doing everything we can to restore order.</englishPhrase>
+<romanized>cheetsoojyo kaaee fookoo no taameh waareh waareh waa saaeezen wo tsookooshte eemas</romanized>
+<unicode>秩序回復のため我々は最善を尽くしております。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>105</phraseID>
+<catID>6</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>We are doing everything we can to protect lives.</englishPhrase>
+<romanized>sey mey wo maamoru taameh waareh waareh waa saaeezen wo tsookooshte oreemaas</romanized>
+<unicode>生命を守るため我々は最善を尽くしております。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>106</phraseID>
+<catID>6</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>We are doing everything we can to save lives.</englishPhrase>
+<romanized>jeen mey kyoh jyo no taameh waareh waareh waa saaeezen wo tsookooshte oreemaas</romanized>
+<unicode>人命救助のため我々は最善を尽くしております。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>107</phraseID>
+<catID>6</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>There was an incident.</englishPhrase>
+<romanized>jeeko gaa aareemaasheetaa</romanized>
+<unicode>事故がありました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>108</phraseID>
+<catID>6</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>The incident is under investigation.</englishPhrase>
+<romanized>hon jee aan waa genzaay chohsaa choo des</romanized>
+<unicode>本事案は現在調査中です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>109</phraseID>
+<catID>6</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We are taking this matter very seriously.</englishPhrase>
+<romanized>hon jee aan wo sheen kokoo nee toraaehte oreemaas</romanized>
+<unicode>本事案を深刻に捉えております。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>110</phraseID>
+<catID>6</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>People have been injured.</englishPhrase>
+<romanized>eep-paan sheeming gaa kehgaa wo sheemaashtaa</romanized>
+<unicode>一般市民が怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>111</phraseID>
+<catID>6</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Civilians have been injured.</englishPhrase>
+<romanized>meen kaan jeen gaa kehgaa wo sheemaashtaa</romanized>
+<unicode>民間人が怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>112</phraseID>
+<catID>6</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Police have been injured.</englishPhrase>
+<romanized>keh ee saatsoo kaan gaa kehgaa wo sheemaashtaa</romanized>
+<unicode>警察官が怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>113</phraseID>
+<catID>6</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Service members have been injured.</englishPhrase>
+<romanized>goon jeen gaa kehgaa wo sheemaashtaa</romanized>
+<unicode>軍人が怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>114</phraseID>
+<catID>6</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Service members have been killed.</englishPhrase>
+<romanized>goon jeen gaa korosaareh maashtaa</romanized>
+<unicode>軍人が殺されました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>115</phraseID>
+<catID>6</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>People have been killed.</englishPhrase>
+<romanized>eep-paan sheeming gaa korosaareh maashtaa</romanized>
+<unicode>一般市民が殺されました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>116</phraseID>
+<catID>6</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Civilians have been killed.</englishPhrase>
+<romanized>meen kaan jeen gaa korosaareh maashtaa</romanized>
+<unicode>民間人が殺されました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>117</phraseID>
+<catID>6</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Names cannot be released until victims' relatives are notified.</englishPhrase>
+<romanized>gee sey shaa no kaazokoo gaa kaakooneen sooroo maadeh naamaaeh wo kohkaay dehkee maasen</romanized>
+<unicode>犠牲者の家族が確認するまで名前を公開できません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>118</phraseID>
+<catID>6</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>The official spokesman is expected here soon.</englishPhrase>
+<romanized>maamonaakoo hoh doh kaan gaa toh chaakoo sheemaas</romanized>
+<unicode>まもなく報道官が到着します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>119</phraseID>
+<catID>6</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Appropriate action will be taken.</englishPhrase>
+<romanized>tehkee setsoo naa sochee wo toroo hoh sheen des</romanized>
+<unicode>適切な措置を取る方針です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>120</phraseID>
+<catID>6</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>We take every report of wrongdoing very seriously.</englishPhrase>
+<romanized>hoo seyee koh ee nee kaan sooroo soobehteh no hoh kokoo wo sheen shee nee ookeh tomete oreemaas</romanized>
+<unicode>不正行為に関する全ての報告を真摯に受け止めております。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>121</phraseID>
+<catID>6</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>We have secured the area where the incident occurred.</englishPhrase>
+<romanized>jeeko haas-sey genbaa no aanzen wo kaakooho sheemaashtaa</romanized>
+<unicode>事故発生現場の安全を確保しました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>122</phraseID>
+<catID>6</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>I am sorry but you have to wait for the report.</englishPhrase>
+<romanized>mohshee waakeh aareemaasen gaa hoh kokoo wo omaachee koodaasaay</romanized>
+<unicode>申し訳ありませんが報告をお待ちください。</unicode>
+</dbo_langKit>
+</dataroot>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T11:43:42">
+<dbo_catID>
+<categoryID>1</categoryID>
+<categoryDesc>GENERAL STATEMENTS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>2</categoryID>
+<categoryDesc>QUERY (Over the Phone)</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>3</categoryID>
+<categoryDesc>ESCORT</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>4</categoryID>
+<categoryDesc>INTERVIEWS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>5</categoryID>
+<categoryDesc>PRESS CONFERENCE</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>6</categoryID>
+<categoryDesc>CRISIS COMMUNICATIONS</categoryDesc>
+</dbo_catID>
+</dataroot>

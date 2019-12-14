@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-07-30T08:31:36">
+<dbo_catID>
+<categoryID>1</categoryID>
+<categoryDesc>INTRODUCTION</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>2</categoryID>
+<categoryDesc>PUBLIC SAFETY</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>3</categoryID>
+<categoryDesc>PUBLIC HEALTH</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>4</categoryID>
+<categoryDesc>TRANSPORTATION</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>5</categoryID>
+<categoryDesc>DRIVER'S GUIDE</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>6</categoryID>
+<categoryDesc>PUBLIC WORKS AND UTILITIES</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>7</categoryID>
+<categoryDesc>PUBLIC COMMUNICATIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>8</categoryID>
+<categoryDesc>LAND DISPUTE</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>9</categoryID>
+<categoryDesc>CURFEW ENFORCEMENT</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>10</categoryID>
+<categoryDesc>BORDER CROSSING</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>11</categoryID>
+<categoryDesc>VILLAGE ASSESSMENT</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>12</categoryID>
+<categoryDesc>REPARATIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>13</categoryID>
+<categoryDesc>VETERINARY SERVICES</categoryDesc>
+</dbo_catID>
+</dataroot>

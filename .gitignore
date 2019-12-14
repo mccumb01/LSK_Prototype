@@ -1,0 +1,14 @@
+*.DS_Store
+*.xcworkspace
+
+*.pbxproj
+
+xcuserdata
+
+*.xcuserdatad
+
+xcshareddata
+
+*.ai
+
+

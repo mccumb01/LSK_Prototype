@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T15:19:48">
+<dbo_catID>
+<categoryID>1</categoryID>
+<categoryDesc>INTRODUCTION</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>2</categoryID>
+<categoryDesc>GUIDANCE</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>3</categoryID>
+<categoryDesc>REGISTRATION</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>4</categoryID>
+<categoryDesc>ASSESSMENT</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>5</categoryID>
+<categoryDesc>SURGICAL CONSENT</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>6</categoryID>
+<categoryDesc>TRAUMA</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>7</categoryID>
+<categoryDesc>PROCEDURES</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>8</categoryID>
+<categoryDesc>FOLEY (Catheter)</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>9</categoryID>
+<categoryDesc>SURGERY INSTRUCTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>10</categoryID>
+<categoryDesc>PAIN INTERVIEW</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>11</categoryID>
+<categoryDesc>MEDICINE INTERVIEW</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>12</categoryID>
+<categoryDesc>ORTHOPEDIC</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>13</categoryID>
+<categoryDesc>OBSTETRICS/GYNECOLOGY</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>14</categoryID>
+<categoryDesc>PEDIATRICS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>15</categoryID>
+<categoryDesc>CARDIOLOGY</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>16</categoryID>
+<categoryDesc>OPHTHALMOLOGY</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>17</categoryID>
+<categoryDesc>NEUROLOGY</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>18</categoryID>
+<categoryDesc>EXAM COMMANDS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>19</categoryID>
+<categoryDesc>CAREGIVER</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>20</categoryID>
+<categoryDesc>POST-OP/PROGNOSIS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>21</categoryID>
+<categoryDesc>MEDICAL CONDITIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>22</categoryID>
+<categoryDesc>PHARMACEUTICAL</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>23</categoryID>
+<categoryDesc>DISEASES</categoryDesc>
+</dbo_catID>
+</dataroot>

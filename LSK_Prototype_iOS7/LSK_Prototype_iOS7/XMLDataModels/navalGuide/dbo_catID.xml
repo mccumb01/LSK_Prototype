@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T11:40:01">
+<dbo_catID>
+<categoryID>1</categoryID>
+<categoryDesc>BRIDGE COMMANDS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>2</categoryID>
+<categoryDesc>RANGE  COMMANDS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>3</categoryID>
+<categoryDesc>CRITICAL COMMANDS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>4</categoryID>
+<categoryDesc>SECURITY - VBSS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>5</categoryID>
+<categoryDesc>SHIPBOARD BRIDGE TERMS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>6</categoryID>
+<categoryDesc>MILITARY RANKS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>7</categoryID>
+<categoryDesc>LOGISTIC</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>8</categoryID>
+<categoryDesc>QUESTIONS AND NEEDS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>9</categoryID>
+<categoryDesc>PRISONER QUESTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+    <categoryID>10</categoryID>
+    <categoryDesc>GREETINGS AND INSTRUCTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+    <categoryID>11</categoryID>
+    <categoryDesc>EMERGENCY TERMS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+    <categoryID>12</categoryID>
+    <categoryDesc>DIRECTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+    <categoryID>13</categoryID>
+    <categoryDesc>NUMBERS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+    <categoryID>14</categoryID>
+    <categoryDesc>DAYS OF THE WEEK / TIME</categoryDesc>
+</dbo_catID>
+</dataroot>

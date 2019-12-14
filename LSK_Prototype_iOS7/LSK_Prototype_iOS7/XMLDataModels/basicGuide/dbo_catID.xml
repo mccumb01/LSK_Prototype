@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T15:07:15">
+<dbo_catID>
+<categoryID>1</categoryID>
+<categoryDesc>COMMANDS, WARNINGS &amp; INSTRUCTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>2</categoryID>
+<categoryDesc>HELPFUL WORDS, PHRASES AND QUESTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>3</categoryID>
+<categoryDesc>GREETINGS &amp; INTRODUCTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>4</categoryID>
+<categoryDesc>INTERROGATION</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>5</categoryID>
+<categoryDesc>NUMBERS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>6</categoryID>
+<categoryDesc>DAYS OF THE WEEK / TIME</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>7</categoryID>
+<categoryDesc>DIRECTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>8</categoryID>
+<categoryDesc>LOCATIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>9</categoryID>
+<categoryDesc>DESCRIPTIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>10</categoryID>
+<categoryDesc>EMERGENCY TERMS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>11</categoryID>
+<categoryDesc>FOOD &amp; SANITATION</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>12</categoryID>
+<categoryDesc>FUEL &amp; MAINTENANCE</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>13</categoryID>
+<categoryDesc>MEDICAL TERMS / GENERAL</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>14</categoryID>
+<categoryDesc>MEDICAL TERMS / PARTS OF THE BODY</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>15</categoryID>
+<categoryDesc>MILITARY RANKS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>16</categoryID>
+<categoryDesc>LODGING</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>17</categoryID>
+<categoryDesc>OCCUPATIONS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>18</categoryID>
+<categoryDesc>CUSTOMS (Port Of Entry)</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>19</categoryID>
+<categoryDesc>RELATIVES</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>20</categoryID>
+<categoryDesc>WEATHER</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>21</categoryID>
+<categoryDesc>GENERAL MILITARY TERMS</categoryDesc>
+</dbo_catID>
+<dbo_catID>
+<categoryID>22</categoryID>
+<categoryDesc>MINE WARFARE TERMS</categoryDesc>
+</dbo_catID>
+</dataroot>

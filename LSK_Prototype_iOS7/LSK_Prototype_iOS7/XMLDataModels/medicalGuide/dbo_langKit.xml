@@ -1,0 +1,5123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-08-01T15:21:38">
+<dbo_langKit>
+<phraseID>1</phraseID>
+<catID>1</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you understand this language?</englishPhrase>
+<romanized>ko no kotoba ga waakaaree maaskaa?</romanized>
+<unicode>この言葉がわかりますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>2</phraseID>
+<catID>1</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>We are here to help you.</englishPhrase>
+<romanized>aanaa taa wo tasuke nee kee maashtaa</romanized>
+<unicode>あなたを助けに来ました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>3</phraseID>
+<catID>1</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>I do not understand your language.</englishPhrase>
+<romanized>aanaa taa gaa haanaa su kotoba gaa waa kaareema sen</romanized>
+<unicode>あなたが話す言葉がわかりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>4</phraseID>
+<catID>1</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>There is no one available who speaks this language.</englishPhrase>
+<romanized>ko no kotoba wo haanaa se ru hito ga ee maasen</romanized>
+<unicode>この言葉を話せる人がいません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>5</phraseID>
+<catID>1</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Try to answer my questions with "yes" or "no."</englishPhrase>
+<romanized>waataashee no sheetsumon nee “haay” ma ta wa “eeyeh” to henji shee te ku da saa-ee</romanized>
+<unicode>わたしの質問に、“はい” または “いいえ”と返事してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>6</phraseID>
+<catID>1</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Move your head like this for "yes."</englishPhrase>
+<romanized>“haay” wa atama wo kon na fu nee ugo kaash teh ku da saa-ee</romanized>
+<unicode>“はい” は頭をこんなふうに動かしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>7</phraseID>
+<catID>1</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Move your head like this for "no."</englishPhrase>
+<romanized>“eeyeh” wa a ta ma (atama) wo kon na foo nee u go kaash te koo da saa-ee</romanized>
+<unicode>“いいえ” はあたま（頭）をこんなふうに動かしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>8</phraseID>
+<catID>1</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Do you know where you are?</englishPhrase>
+<romanized>aanaa taa no ee ru basho ga wa kaaree maaskaa?</romanized>
+<unicode>あなたのいる場所がわかりますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>9</phraseID>
+<catID>1</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Are you thirsty?</englishPhrase>
+<romanized>no do gaa kaa waa ee te ee maasukaa?</romanized>
+<unicode>のどがかわいていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>10</phraseID>
+<catID>1</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Are you hungry?</englishPhrase>
+<romanized>o naakaa gaa sukee maa sheetaa kaa?</romanized>
+<unicode>お腹がすきましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>11</phraseID>
+<catID>1</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Do you need to urinate?</englishPhrase>
+<romanized>o te-aaraa-ee eh eekee taa-ee deskaa?</romanized>
+<unicode>お手洗いへ行きたいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>12</phraseID>
+<catID>1</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Do you need to defecate?</englishPhrase>
+<romanized>o te-aaraa-ee eh eekee taa-ee deskaa?</romanized>
+<unicode>お手洗いへ行きたいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>13</phraseID>
+<catID>1</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Do you want a cigarette?</englishPhrase>
+<romanized>taa baa ko wo su-ee taa-ee deskaa?</romanized>
+<unicode>たばこを吸いたいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>14</phraseID>
+<catID>1</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>I understand.</englishPhrase>
+<romanized>waa kaa ree maashtaa</romanized>
+<unicode>わかりました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>15</phraseID>
+<catID>1</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>I do not understand.</englishPhrase>
+<romanized>waa kaa ree maa sen</romanized>
+<unicode>わかりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>16</phraseID>
+<catID>1</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>We will try to contact someone from your group.</englishPhrase>
+<romanized>aanaa taa no gu ru pu no heeto to renraku wo toru doryoku wo suru tsu mo ree des</romanized>
+<unicode>あなたのグループの人と連絡を取る努力をするつもりです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>17</phraseID>
+<catID>1</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Please.</englishPhrase>
+<romanized>dozo</romanized>
+<unicode>どうぞ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>18</phraseID>
+<catID>1</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Thank you.</englishPhrase>
+<romanized>aareegaatoh go zaa-ee maasu</romanized>
+<unicode>ありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>19</phraseID>
+<catID>1</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>You are welcome.</englishPhrase>
+<romanized>do-ee taa shee maash teh</romanized>
+<unicode>どういたしまして。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>20</phraseID>
+<catID>1</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Thank you for talking with me.</englishPhrase>
+<romanized>haanaashee te ku re te aareegaatoh go zaa-ee maas</romanized>
+<unicode>話してくれて、ありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>21</phraseID>
+<catID>1</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>I will talk with you again.</englishPhrase>
+<romanized>maa taa haanaashee maashoh</romanized>
+<unicode>また、話しましょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>22</phraseID>
+<catID>1</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Good-bye.</englishPhrase>
+<romanized>sayonaaraa</romanized>
+<unicode>さようなら。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>23</phraseID>
+<catID>2</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Be quiet.</englishPhrase>
+<romanized>sheezuka nee shteh</romanized>
+<unicode>静かにして。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>24</phraseID>
+<catID>2</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Come with me.</englishPhrase>
+<romanized>ees-sho nee eekee maa sho</romanized>
+<unicode>一緒に行きましょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>25</phraseID>
+<catID>2</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Describe it with gestures.</englishPhrase>
+<romanized>miburi de so re wo setsumei sheeteh kudaa saa-ee</romanized>
+<unicode>身ぶりでそれを説明してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>26</phraseID>
+<catID>2</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Do not get excited.</englishPhrase>
+<romanized>kofoon sheenaa-eei de kudaa saa-ee</romanized>
+<unicode>興奮しないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>27</phraseID>
+<catID>2</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do what I ask.</englishPhrase>
+<romanized>waataashee gaa ee-oo toh ree nee sheeteh kudaa saa-ee</romanized>
+<unicode>わたしが言うとおりにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>28</phraseID>
+<catID>2</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Do you mean "no"?</englishPhrase>
+<romanized>“eeyeh” to ee maashtakaa?</romanized>
+<unicode>“いいえ” と 言いましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>29</phraseID>
+<catID>2</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Do you mean "yes"?</englishPhrase>
+<romanized>“haay” to ee mashtakaa?</romanized>
+<unicode>“はい” と 言いましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>30</phraseID>
+<catID>2</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Hold up the number of fingers.</englishPhrase>
+<romanized>yubee de bango wo kaazo eteh koo da saa-ee</romanized>
+<unicode>指で番号を数えてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>31</phraseID>
+<catID>2</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>I will get an interpreter.</englishPhrase>
+<romanized>tsuyaaku wo tsu re te kee maas</romanized>
+<unicode>通訳をつれてきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>32</phraseID>
+<catID>2</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Is this it?</englishPhrase>
+<romanized>korey daa keh deskaa?</romanized>
+<unicode>これだけですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>33</phraseID>
+<catID>2</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>No.</englishPhrase>
+<romanized>eeyeh</romanized>
+<unicode>いいえ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>34</phraseID>
+<catID>2</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Point to it.</englishPhrase>
+<romanized>so re wo saa sheeteh kudaa saa-ee</romanized>
+<unicode>それを指してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>35</phraseID>
+<catID>2</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Relax.</englishPhrase>
+<romanized>kokoro wo ku tsu ro gaa seh teh</romanized>
+<unicode>心をくつろがせて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>36</phraseID>
+<catID>2</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Show me.</englishPhrase>
+<romanized>waataashee nee mee seteh</romanized>
+<unicode>私にみせて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>37</phraseID>
+<catID>2</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Squeeze my hand once for "yes."</englishPhrase>
+<romanized>“haay” daat-ta raa waataashee no teh wo eek-kaay kyut-to neegeet-teh kudaa saa-ee</romanized>
+<unicode>“はい” だったら、私の手を一回きゅっと握ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>38</phraseID>
+<catID>2</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Squeeze my hand twice for "no."</englishPhrase>
+<romanized>“eeyeh” daat-ta raa waataashee no the wo neekaay kyut-to neegeet-eh kudaa saa-ee</romanized>
+<unicode>“いいえ” だったら、私の手を二回きゅっと握ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>39</phraseID>
+<catID>2</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Write your answer here.</englishPhrase>
+<romanized>kotaay wo ko ko nee kaay te kudaa saa-ee</romanized>
+<unicode>答えをここに書いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>40</phraseID>
+<catID>2</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Yes.</englishPhrase>
+<romanized>haay</romanized>
+<unicode>はい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>41</phraseID>
+<catID>2</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>I know first aid.</englishPhrase>
+<romanized>waataashee wa okyoo te-aatey gaa deh kee maas</romanized>
+<unicode>私は応急手当ができます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>42</phraseID>
+<catID>2</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Don't move.</englishPhrase>
+<romanized>oogo kaa naa-ee deh</romanized>
+<unicode>動かないで。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>43</phraseID>
+<catID>2</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>We need to move you.</englishPhrase>
+<romanized>aanaata wo haako baa naa ke re ba naaree maasen</romanized>
+<unicode>あなたを運ばなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>44</phraseID>
+<catID>2</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>I need to clean your wounds.</englishPhrase>
+<romanized>keezu wo kee re ee nee shee naa ke re baa naaree maasen</romanized>
+<unicode>傷をきれいにしなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>45</phraseID>
+<catID>2</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>I am here to help you.</englishPhrase>
+<romanized>aanaata wo taa su ke nee ko ko nee kee maashtaa</romanized>
+<unicode>あなたを助けにここにきました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>46</phraseID>
+<catID>3</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>What is your given name?</englishPhrase>
+<romanized>o namaa-ey waa naan deskaa?</romanized>
+<unicode>お名前はなんですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>47</phraseID>
+<catID>3</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>What is your family name?</englishPhrase>
+<romanized>myojee waa naan deskaa?</romanized>
+<unicode>名字はなんですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>48</phraseID>
+<catID>3</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>What is your nationality?</englishPhrase>
+<romanized>kokusekee waa do chee raa deskaa?</romanized>
+<unicode>国籍はどちらですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>49</phraseID>
+<catID>3</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>What country were you born in?</englishPhrase>
+<romanized>dono koonee deh umarey maashtakaa?</romanized>
+<unicode>どの国で生まれましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>50</phraseID>
+<catID>3</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>How old are you?</englishPhrase>
+<romanized>o-ee ku tsu deskaa?</romanized>
+<unicode>おいくつですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>51</phraseID>
+<catID>3</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Do you have an identity card?</englishPhrase>
+<romanized>mibun sho meh-eesho gaa aaree maaskaa?</romanized>
+<unicode>身分証明書がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>52</phraseID>
+<catID>3</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Show me your identification.</englishPhrase>
+<romanized>mibun sho meh-eesho wo mee se te kudaa saa-ee</romanized>
+<unicode>身分証明書を見せてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>53</phraseID>
+<catID>3</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Do you have any bad reactions to medications?</englishPhrase>
+<romanized>kusuree nee taa-eesuru kyo hee haan-no gaa aaree maaskaa?</romanized>
+<unicode>薬に対する拒否反応がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>54</phraseID>
+<catID>3</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>What is the name of the medication that causes bad reactions?</englishPhrase>
+<romanized>kyo hee haan-no no geng-een to naa ru kusuree waa naan deskaa?</romanized>
+<unicode>拒否反応の原因となる薬はなんですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>55</phraseID>
+<catID>3</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Do you have any allergies to medicines?</englishPhrase>
+<romanized>kusuree nee taa-eesuru aa re ru gee gaa aaree maaskaa?</romanized>
+<unicode>薬に対するアレルギーがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>56</phraseID>
+<catID>3</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>What is your religion?</englishPhrase>
+<romanized>aanaataano shuu kyo waa naan deskaa?</romanized>
+<unicode>あなたの宗教はなんですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>57</phraseID>
+<catID>3</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Do you smoke tobacco?</englishPhrase>
+<romanized>taabaako wo su-ee maaskaa?</romanized>
+<unicode>たばこを吸いますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>58</phraseID>
+<catID>3</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>How many packs of cigarettes do you smoke per day?</englishPhrase>
+<romanized>eecheeneecheenee naam baako su-ee maaskaa?</romanized>
+<unicode>一日になん箱すいますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>59</phraseID>
+<catID>3</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Are you married?</englishPhrase>
+<romanized>kek-kon shte-ee maaskaa?</romanized>
+<unicode>結婚していますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>60</phraseID>
+<catID>3</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Do you have any children?</englishPhrase>
+<romanized>kodomo gaa ee maasaka?</romanized>
+<unicode>子供がいますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>61</phraseID>
+<catID>3</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Do you have high blood pressure problems?</englishPhrase>
+<romanized>koh ketsu atsu deskaa?</romanized>
+<unicode>高血圧ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>62</phraseID>
+<catID>3</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Do you have diabetes?</englishPhrase>
+<romanized>toh nyoh byoh gaa aaree maaskaa?</romanized>
+<unicode>糖尿病がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>63</phraseID>
+<catID>3</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Do you have blood sugar control problems?</englishPhrase>
+<romanized>ket-to wo cho-usetsu su ru no nee mohndaay gaa aaree maaskaa?</romanized>
+<unicode>血糖を調節するのに問題がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>64</phraseID>
+<catID>3</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Do you drink alcohol?</englishPhrase>
+<romanized>o saakey wo no mee maaskaa?</romanized>
+<unicode>お酒を飲みますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>65</phraseID>
+<catID>3</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>How much do you weigh? </englishPhrase>
+<romanized>taaee joh waa do re guraa-ee deskaa?</romanized>
+<unicode>体重はどれぐらいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>66</phraseID>
+<catID>4</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>You have been injured.</englishPhrase>
+<romanized>aanaataa waa kega wo sheemaashta</romanized>
+<unicode>あなたは怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>67</phraseID>
+<catID>4</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>You are ill.</englishPhrase>
+<romanized>aanaataa waa byohkee nee kaa kaakaat-the ee maasu</romanized>
+<unicode>あなたは病気にかかっています。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>68</phraseID>
+<catID>4</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Lie still.</englishPhrase>
+<romanized>maadaa yo ko nee naat-teh kudaa saa-ee</romanized>
+<unicode>まだ、よこになってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>69</phraseID>
+<catID>4</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>We will take care of you.</englishPhrase>
+<romanized>waareywaarey gaa aana taa no seywa wo suru tsu mori des</romanized>
+<unicode>我々があなたの世話をするつもりです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>70</phraseID>
+<catID>4</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Let us help you.</englishPhrase>
+<romanized>o-tetsoo daa-ee sasehte kudaa saa-ee</romanized>
+<unicode>お手伝いさせてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>71</phraseID>
+<catID>4</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>We must examine you carefully.</englishPhrase>
+<romanized>sheencho nee sheensaatsu sheenaa ke re baa naaree maasen</romanized>
+<unicode>慎重に診察しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>72</phraseID>
+<catID>4</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>We will try to not hurt you further.</englishPhrase>
+<romanized>ko rey eejoh eetakushee naa-eei yoh nee doryoku shee maasu</romanized>
+<unicode>これ以上、痛くしないように努力します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>73</phraseID>
+<catID>4</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>This will help protect you.</englishPhrase>
+<romanized>ko rey waa aanaataa wo hogo su ru no nee yaku nee taatsu to omoy maasu</romanized>
+<unicode>これは貴方を保護するのに役に立つと思います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>74</phraseID>
+<catID>4</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do exactly what we ask.</englishPhrase>
+<romanized>waareywaarey gaa ee-u to ree nee sheeteh kudaa saa-ee</romanized>
+<unicode>我々が言うとおりにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>75</phraseID>
+<catID>4</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Keep your head very still.</englishPhrase>
+<romanized>aataama wo jeet-to shee te ugo kaa saa naa-ee deh kudaa saa-ee</romanized>
+<unicode>頭をじっとして動かさないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>76</phraseID>
+<catID>4</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Keep very still.</englishPhrase>
+<romanized>jeet-to shte zettaee nee ugokaa naa-ee deh kudaa saa-ee</romanized>
+<unicode>じっとして絶対に動かないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>77</phraseID>
+<catID>4</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Can you breathe?</englishPhrase>
+<romanized>kokyoo deh kee maaskaa?</romanized>
+<unicode>呼吸できますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>78</phraseID>
+<catID>4</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Say your name out loud.</englishPhrase>
+<romanized>namae wo o go eh de eet-teh kudaa saa-ee</romanized>
+<unicode>名前を大声で言ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>79</phraseID>
+<catID>4</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Do you hurt anywhere?</englishPhrase>
+<romanized>doko kaa kegaa wo sheemaastaa kaa?</romanized>
+<unicode>どこか、怪我をしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>80</phraseID>
+<catID>4</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Show me where.</englishPhrase>
+<romanized>kegaa sheetaa to koro wo mee seh teh</romanized>
+<unicode>怪我したところをみせて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>81</phraseID>
+<catID>4</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Show me where it hurts worst.</englishPhrase>
+<romanized>mot-tomo eetaa-ee tokoro wo meeseh teh kudaa saa-ee</romanized>
+<unicode>最も痛いところをみせてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>82</phraseID>
+<catID>4</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Does this hurt?</englishPhrase>
+<romanized>eetaa-ee deskaa?</romanized>
+<unicode>痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>83</phraseID>
+<catID>4</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Move all of your fingers.</englishPhrase>
+<romanized>yubee wo ugo kaashteh</romanized>
+<unicode>指を動かして。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>84</phraseID>
+<catID>4</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Move all of your toes.</englishPhrase>
+<romanized>aashee no yubee wo ugo kaashteh</romanized>
+<unicode>足の指を動かして。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>85</phraseID>
+<catID>4</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Open your eyes.</englishPhrase>
+<romanized>me wo aa ke te</romanized>
+<unicode>目をあけて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>86</phraseID>
+<catID>4</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Push against me.</englishPhrase>
+<romanized>waataasheeno hoh nee osheeteh kudaa saa-ee</romanized>
+<unicode>私の方に押してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>87</phraseID>
+<catID>4</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>You will feel better soon.</englishPhrase>
+<romanized>sugu yo ku naa ru de sho</romanized>
+<unicode>すぐ、よくなるでしょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>88</phraseID>
+<catID>4</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>You must stay here.</englishPhrase>
+<romanized>ko ko nee to maat-tey na ke re baa naa ree maasen</romanized>
+<unicode>ここに留まっていなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>89</phraseID>
+<catID>4</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>When did you have your last meal?</englishPhrase>
+<romanized>saaygo no shokujee wa eetsu deskaa?</romanized>
+<unicode>最後の食事はいつですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>90</phraseID>
+<catID>4</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>When was your last bowel movement?</englishPhrase>
+<romanized>saaygo nee haayben wo sheetaa no waa eetsu deskaa?</romanized>
+<unicode>最後に排便をしたのはいつですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>91</phraseID>
+<catID>4</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>How often are you urinating? </englishPhrase>
+<romanized>dono kuraa-ee yoku o-sheek-koh nee eekee maaskaa?</romanized>
+<unicode>どのくらいよくおしっこに行きますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>92</phraseID>
+<catID>4</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Is it difficult to urinate?</englishPhrase>
+<romanized>o-sheek-koh su ru no nee mondaay gaa aaree maaskaa?</romanized>
+<unicode>おしっこするのに問題がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>93</phraseID>
+<catID>5</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>You are badly hurt.</englishPhrase>
+<romanized>aanaa taa waa heedoku kega wo sheemaa shtaa</romanized>
+<unicode>あなたはひどく怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>94</phraseID>
+<catID>5</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>You are very sick.</englishPhrase>
+<romanized>to te mo guwaa-ee gaa waaru-ee des</romanized>
+<unicode>とても、具合がわるいです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>95</phraseID>
+<catID>5</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>We need to take you to surgery.</englishPhrase>
+<romanized>aanaa taa waa shujutsu gaa heetsuyo des</romanized>
+<unicode>あなたは手術が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>96</phraseID>
+<catID>5</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>We need to remove this.</englishPhrase>
+<romanized>korey wo jokyo sheenaa ke re baa naaree maasen</romanized>
+<unicode>これを除去しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>97</phraseID>
+<catID>5</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>We need to repair this.</englishPhrase>
+<romanized>korey wo naao saa naa ke re baa naareemaa sen</romanized>
+<unicode>これを直さなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>98</phraseID>
+<catID>5</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>If we do not operate, you may die.</englishPhrase>
+<romanized>shujutsu wo sheenaa-ee to sheenu kaa mo sheereh maasen</romanized>
+<unicode>手術をしないと、死ぬかも知れません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>99</phraseID>
+<catID>5</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>If we do not operate, you may lose this.</englishPhrase>
+<romanized>moshee shujutsu wo shee naa kaat-ta raa a naa taa wa korey wo naa ku su kaa moshee re maasen</romanized>
+<unicode>もし、手術をしなかったら、あなたはこれを無くすかもしれません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>100</phraseID>
+<catID>5</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>The operation is dangerous, but it is the only way to help you.</englishPhrase>
+<romanized>shujutsu waa abunaay de su ke do soreh gaa a na taa wo taasuke ru yoo-eetsu naa hoh-hoh des</romanized>
+<unicode>手術は危ないですけど、それがあなたを助ける唯一な方法です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>101</phraseID>
+<catID>5</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do you understand that you need this surgery?</englishPhrase>
+<romanized>do shteh ko no shujutsu gaa heetsuyo naa no kaa reekaa-ee de kee maaskaa?</romanized>
+<unicode>どうしてこの手術が必要なのか、理解できますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>102</phraseID>
+<catID>5</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We will operate very carefully.</englishPhrase>
+<romanized>to te mo sheencho nee shujutsu suru tsu moree des</romanized>
+<unicode>とても慎重に手術するつもりです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>103</phraseID>
+<catID>5</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>We want your permission before we operate on you.</englishPhrase>
+<romanized>shujutsu su ru maa-enee, aanaataa no kyoka wo etaa-ee des</romanized>
+<unicode>手術する前に、貴方の許可を得たいです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>104</phraseID>
+<catID>5</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>May we operate on you?</englishPhrase>
+<romanized>shujutsu shteh mo ee deskaa?</romanized>
+<unicode>手術してもいいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>105</phraseID>
+<catID>5</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>We will begin the operation as soon as we can.</englishPhrase>
+<romanized>dekee ru kaa gi ree haa ya ku shuju tsu wo haajee me maasu</romanized>
+<unicode>できるかぎり、はやく手術をはじめます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>106</phraseID>
+<catID>5</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>This medicine will make you sleep.</englishPhrase>
+<romanized>ko no kusuri wa a na ta wo nemu raa se maasu</romanized>
+<unicode>この薬はあなたを眠らせます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>107</phraseID>
+<catID>5</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Have you had any surgeries?</englishPhrase>
+<romanized>shujutsu wo ukeh taa ko to ga aaree maaskaa?</romanized>
+<unicode>手術を受けたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>108</phraseID>
+<catID>5</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Do you have any allergies, especially to medications?</englishPhrase>
+<romanized>aareh ru gee tokunee yakubutsu nee taa-ee shtaa aareh ru giee ga a ree maaskaa?</romanized>
+<unicode>アレルギー、特に薬物にたいしたアレルギーがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>109</phraseID>
+<catID>5</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Do you have high blood pressure/diabetes or blood sugar control problems?</englishPhrase>
+<romanized>koo ketsu atsu tou nyou maataa waa, ket-to no chousetsu nee mondaay gaa aaree maaskaa?</romanized>
+<unicode>高血圧/糖尿または、血糖の調節に問題がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>110</phraseID>
+<catID>6</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>You have been hurt.</englishPhrase>
+<romanized>aanaataa waa kega wo shee maashtaa</romanized>
+<unicode>あなたは怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>111</phraseID>
+<catID>6</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>We are all working to help you.</englishPhrase>
+<romanized>waareywaarey waa min na a naataa no taamenee haataaraa-ee te ee maasu</romanized>
+<unicode>我々はみんな、あなたの為に働いています。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>112</phraseID>
+<catID>6</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Help us take care of you.</englishPhrase>
+<romanized>aanaataa no sewaa wo su ru nonee kyo ryoku sheeteh kuda saa-ee</romanized>
+<unicode>あなたの世話をするのに協力してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>113</phraseID>
+<catID>6</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>We have to remove your clothes.</englishPhrase>
+<romanized>aanaataa no eefuku wo jokyo sheenaa ke re baa naaree maasen</romanized>
+<unicode>あなたの衣服を除去しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>114</phraseID>
+<catID>6</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do you have any bad reactions to any medicine?</englishPhrase>
+<romanized>kusuree nee taaysuru kyohihaan-no gaa aaree maaskaa?</romanized>
+<unicode>薬に対する拒否反応がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>115</phraseID>
+<catID>6</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Have you eaten food in the past six hours?</englishPhrase>
+<romanized>roku jeekaan eenaay nee naaneekaa taabe maashtakaa?</romanized>
+<unicode>６時間以内に何か食べましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>116</phraseID>
+<catID>6</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Is this injury from a landmine?</englishPhrase>
+<romanized>ko re waa jeeraay ne yo ru kega deskaa?</romanized>
+<unicode>これは地雷による怪我ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>117</phraseID>
+<catID>6</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Were you shot?</englishPhrase>
+<romanized>djoo nee u taa re maashtakaa?</romanized>
+<unicode>銃に撃たれましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>118</phraseID>
+<catID>6</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Is this from a knife?</englishPhrase>
+<romanized>naa-ee fu neeyo ru kegaa deskaa?</romanized>
+<unicode>ナイフによる怪我ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>119</phraseID>
+<catID>6</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Is this from a rock?</englishPhrase>
+<romanized>eewaanee yo ru kegaa deskaa?</romanized>
+<unicode>岩による怪我ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>120</phraseID>
+<catID>6</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Is this from a vehicle crash?</englishPhrase>
+<romanized>kou tsu jeeko neeyo ru kegaa deskaa?</romanized>
+<unicode>交通事故による怪我ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>121</phraseID>
+<catID>6</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Did a person do this to you?</englishPhrase>
+<romanized>heeto nee ya ra re maashtaa kaa?</romanized>
+<unicode>ひとにやられましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>122</phraseID>
+<catID>6</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Did you lose consciousness after this happened?</englishPhrase>
+<romanized>ko re gaa o kot-taa ato isheekee wo usheena ee maashtakaa?</romanized>
+<unicode>これが起こった後、意識を失いましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>123</phraseID>
+<catID>6</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Did you lose more than this much blood?</englishPhrase>
+<romanized>ko no ketsuekee no ryou yo ri mot-to chi wo naagaashee maashtakaa?</romanized>
+<unicode>この血液の量よりもっと、血を流しましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>124</phraseID>
+<catID>6</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Point to all the parts of your body that hurt.</englishPhrase>
+<romanized>kaaraadaa no eetaa-ee to ko ro wo zembu, saa sheeteh kudaa saa-ee</romanized>
+<unicode>体の痛いところを全部、さしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>125</phraseID>
+<catID>6</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Does it hurt when I do this?</englishPhrase>
+<romanized>wataashee gaa ko sheetaa tokee, eetaa-ee deskaa?</romanized>
+<unicode>私がこうした時、痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>126</phraseID>
+<catID>6</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Move this like this.</englishPhrase>
+<romanized>korey wo, ko na foo nee oo go kaashee te kudaa saa-ee</romanized>
+<unicode>これを、こんな風に動かしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>127</phraseID>
+<catID>6</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Turn over this way.</englishPhrase>
+<romanized>ko no hokonee mookee wo kaa e te kuda saa-ee</romanized>
+<unicode>この方向に向きをかえてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>128</phraseID>
+<catID>6</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Did you inhale any smoke or very hot air?</englishPhrase>
+<romanized>kemuri ya to te mo aatsu-ee kukee wo su-ee maashtakaa?</romanized>
+<unicode>煙やとても熱い空気をすいましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>129</phraseID>
+<catID>6</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Do your lungs hurt?</englishPhrase>
+<romanized>haay gaa-ee taa-ee desukaa?</romanized>
+<unicode>肺がいたいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>130</phraseID>
+<catID>6</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Are you having trouble breathing?</englishPhrase>
+<romanized>eekeeguru shee-ee desukaa?</romanized>
+<unicode>息苦しいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>131</phraseID>
+<catID>6</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>This will help avoid infection.</englishPhrase>
+<romanized>korey ga kansen shoh wo fuseh gu no nee yaaku nee taa chee maasu</romanized>
+<unicode>これが感染症を防ぐのに役にたちます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>132</phraseID>
+<catID>7</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>This will help you.</englishPhrase>
+<romanized>korey gaa a naataa wo taasuke ru de sho-oo</romanized>
+<unicode>これがあなたを助けるでしょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>133</phraseID>
+<catID>7</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>I have to put a small needle in you here.</englishPhrase>
+<romanized>koko nee chee-ee saa-ee haaree wo sa sa na ke re ba naaree maasen</romanized>
+<unicode>ここに小さい針を刺さなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>134</phraseID>
+<catID>7</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>We need to give you fluid.</englishPhrase>
+<romanized>aanaataa nee ten-tekee wo sooroo hitsuyoh ga aaree maasu</romanized>
+<unicode>あなたに点滴をする必要があります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>135</phraseID>
+<catID>7</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>We need to give you blood.</englishPhrase>
+<romanized>aanaataa nee yooketsoo wo shee na ke re ba naaree maasen</romanized>
+<unicode>あなたに輸血をしなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>136</phraseID>
+<catID>7</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>I need to put a tube into your throat.</englishPhrase>
+<romanized>aanaataa no nodo nee choobu wo ire naa ke re baa naaree maasen</romanized>
+<unicode>貴方の喉にチューブを入れなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>137</phraseID>
+<catID>7</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>This tube will help you breathe better.</englishPhrase>
+<romanized>ko no chubu gaa kokyu wo yoree sheeya su ku su ru no nee yaaku nee taachee maasu</romanized>
+<unicode>このチューブが呼吸をよりしやすくするのに役に立ちます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>138</phraseID>
+<catID>7</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>This tube may feel uncomfortable.</englishPhrase>
+<romanized>ko no choobu waa kokochi waaru ku kaanjee raa re ru kaa mo sheereh maasen</romanized>
+<unicode>このチューブは心地悪く感じられるかもしれません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>139</phraseID>
+<catID>7</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>I need to put a tube through your nose to your stomach.</englishPhrase>
+<romanized>aanaataa no haanaa ka raa-ee maa de chubu wo ee re naa ke re baan aaree maasen</romanized>
+<unicode>貴方の鼻から胃までチューブをいれなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>140</phraseID>
+<catID>7</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>You need to swallow while I put this tube in your nose.</englishPhrase>
+<romanized>aanaataa no haanaa nee kono chubu wo ee re ru aeeda tsooba wo nomiko maanaa ke re baa naa reemaasen</romanized>
+<unicode>あなたの鼻にこのチューブをいれる間つばを飲み込まなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>141</phraseID>
+<catID>7</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Drink this while I gently place the tube into your nose.</englishPhrase>
+<romanized>aanaataa no haanaa nee ko no chubu wo sot-to ire ru maa neeko re wo non de kudaa saa-ee</romanized>
+<unicode>貴方の鼻にこのチューブをそっと入れる間にこれを飲んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>142</phraseID>
+<catID>7</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>This tube will drain your stomach.</englishPhrase>
+<romanized>ko no chubu waa-ee ka ra ekeetaay wo haishutsu sa se maasu</romanized>
+<unicode>このチューブは胃から液体を排出させます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>143</phraseID>
+<catID>7</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>I have to put a small tube into your neck to give you fluid.</englishPhrase>
+<romanized>aanaataa nee yoo-ehkee wo sooroo taame nee kubee no naakaa nee chee saa-ee chubu wo eere na ke re ba naaree maasen</romanized>
+<unicode>あなたに輸液をするために、首の中に小さいチューブをいれなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>144</phraseID>
+<catID>7</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>I need to put a tube in your chest.</englishPhrase>
+<romanized>mune nee chubu wo-ee re na ke re baa naaree maasen</romanized>
+<unicode>胸にチューブをいれなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>145</phraseID>
+<catID>7</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>This needle will release the air from your chest.</englishPhrase>
+<romanized>ko no haaree ga muneh ka ra kookee wo haayshutsu saa se maasu</romanized>
+<unicode>この針が胸から空気を排出させます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>146</phraseID>
+<catID>7</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>This will help your burns.</englishPhrase>
+<romanized>korey gaa yaa ke do nee yaaku nee taa chee maasu</romanized>
+<unicode>これがやけどに役にたちます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>147</phraseID>
+<catID>7</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>I need to cut your skin.</englishPhrase>
+<romanized>aanaataa no heefoo wo kee raa naa ke re baa naaree maasen</romanized>
+<unicode>あなたの皮膚をきらなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>148</phraseID>
+<catID>7</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>We have to restrain you for your safety.</englishPhrase>
+<romanized>aanaataa no aanzen no tamenee aanaataa wo seishee shee naa ke re baa naaree maasen</romanized>
+<unicode>あなたの安全の為にあなたを制止しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>149</phraseID>
+<catID>7</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>You have been burned by a chemical.</englishPhrase>
+<romanized>aanaataa waa kaagaaku seyhin nee yo ru yaakedo des</romanized>
+<unicode>あなたは化学製品による火傷です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>150</phraseID>
+<catID>7</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>We need to wash the chemicals from your skin.</englishPhrase>
+<romanized>aanaataa no haadaa kaaraa kaagaaku seyhin wo a raw a na ke re ba naaree maasen</romanized>
+<unicode>あなたの肌から化学製品をあらわなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>151</phraseID>
+<catID>7</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>You will need to be completely washed.</englishPhrase>
+<romanized>aanaataa wo kaanzen neeyaara wa na ke re ba naaree maasen</romanized>
+<unicode>あなたを完全にあらわなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>152</phraseID>
+<catID>7</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Hold this dressing and apply pressure.</englishPhrase>
+<romanized>ko no hotaay wo mot te kyut-to oshee te ku daasaa-ee</romanized>
+<unicode>この包帯を持って、きゅっと押してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>153</phraseID>
+<catID>7</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>I need to splint your arm. </englishPhrase>
+<romanized>udeh nee so-ehgee wo aateh na ke re baa naaree maasen</romanized>
+<unicode>腕に添え木を当てなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>154</phraseID>
+<catID>7</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>I need to splint your leg.</englishPhrase>
+<romanized>aashee nee so-ehgee wo ateh na ke re ba naaree maasen</romanized>
+<unicode>足に添え木を当てなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>155</phraseID>
+<catID>7</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>I am applying a tourniquet to stop the bleeding.</englishPhrase>
+<romanized>chee wo to me ru taamenee sheeketsu taay wo ateh naa ke re baa naaree maasen</romanized>
+<unicode>血を止める為に止血帯を当てなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>156</phraseID>
+<catID>8</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Have you urinated today?</englishPhrase>
+<romanized>kyoh o-sheek-koh shee maashtakaa?</romanized>
+<unicode>今日、おしっこしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>157</phraseID>
+<catID>8</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Does your bladder feel full?</englishPhrase>
+<romanized>bo ko gaa gees-shee ree to tsu maat-ta yo u nee kaanjee maaskaa?</romanized>
+<unicode>膀胱がぎっしりと詰まったように感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>158</phraseID>
+<catID>8</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Do you have problems starting to urinate?</englishPhrase>
+<romanized>o-sheek-ko wo su ru no nee mondaay gaa aaree maaskaa?</romanized>
+<unicode>おしっこをするのに問題がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>159</phraseID>
+<catID>8</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Do you have an urge to urinate but are unable to pass urine?</englishPhrase>
+<romanized>o-sheek-ko gaa deh soh na no nee dehmaasen ka?</romanized>
+<unicode>おしっこが出そうなのに出ませんか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>160</phraseID>
+<catID>8</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do you have any pain with urination?</englishPhrase>
+<romanized>o-sheek-ko su ru tokee-eetaa-ee desukaa?</romanized>
+<unicode>おしっこする時、痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>161</phraseID>
+<catID>8</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Urinate into this container.</englishPhrase>
+<romanized>ko no yohkee nee o-sheek-ko shteh kudaa saa-ee</romanized>
+<unicode>この容器におしっこしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>162</phraseID>
+<catID>8</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>You need a tube in your bladder.</englishPhrase>
+<romanized>boko nee ko no chubu gaa heetsuyo des</romanized>
+<unicode>膀胱にこのチューブが必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>163</phraseID>
+<catID>8</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>I am going to insert a tube into your bladder to drain urine.</englishPhrase>
+<romanized>o-sheek-ko wo dasoo taame nee bohkoh nee chu bu wo sonyu sheemas</romanized>
+<unicode>おしっこを出すために膀胱にチューブを挿入します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>164</phraseID>
+<catID>8</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>This tube will empty the urine from your bladder.</englishPhrase>
+<romanized>ko no chu bu gaa bohkoh karaa o-sheek-ko wo toreedaashee maasu</romanized>
+<unicode>このチューブが膀胱からおしっこを取り出します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>165</phraseID>
+<catID>8</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>This tube will feel uncomfortable in you.</englishPhrase>
+<romanized>ko no chubu waa kokochee waaru ku kaanjee raa re rukaa mo sheereh maasen</romanized>
+<unicode>このチューブは心地悪く感じられるかもしれません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>166</phraseID>
+<catID>8</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Do not touch this tube.</englishPhrase>
+<romanized>chubu wo saawaa raa naa-ee de kudaa saa-ee</romanized>
+<unicode>チューブを触らないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>167</phraseID>
+<catID>9</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do not eat or drink until the surgery.</englishPhrase>
+<romanized>shujutsu maa de naanee mo taa be naa-ee de ku daa saa-ee</romanized>
+<unicode>手術まで何も食べないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>168</phraseID>
+<catID>9</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Do not eat or drink anything after midnight tonight.</englishPhrase>
+<romanized>kyo no maayonaakaa no aato neewaa, naanee mo taa be naa-ee de kudaa saa-ee</romanized>
+<unicode>今日の真夜中の後には、何も食べないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>169</phraseID>
+<catID>9</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Take this medicine.</englishPhrase>
+<romanized>ko no kusuree wo non de kuda saa-ee</romanized>
+<unicode>この薬を飲んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>170</phraseID>
+<catID>9</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>You must remain in bed.</englishPhrase>
+<romanized>bed-do nee ee naa ke re baa naaree maasen</romanized>
+<unicode>ベッドにいなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>171</phraseID>
+<catID>9</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do not move at all.</englishPhrase>
+<romanized>zenzen u go kaa naa-ee de kuda saa-ee</romanized>
+<unicode>全然うごかないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>172</phraseID>
+<catID>9</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>You must stay in this room.</englishPhrase>
+<romanized>aanaataa waa ko no heyaa nee naa ke re baa naaree maasen</romanized>
+<unicode>あなたはこの部屋にいなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>173</phraseID>
+<catID>9</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>You must not smoke.</englishPhrase>
+<romanized>taabaako wo sut-teh waa naaree maasen</romanized>
+<unicode>たばこを吸ってはなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>174</phraseID>
+<catID>9</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>We have to cut your hair off here.</englishPhrase>
+<romanized>ko ko de kaminoke wo keeraa naa ke re baa naaree maasen</romanized>
+<unicode>ここで髪の毛を切らなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>175</phraseID>
+<catID>9</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>You may get up to go to the toilet.</englishPhrase>
+<romanized>taachee aagaat-teh to-ee re nee-eet-te mo ee des</romanized>
+<unicode>立ち上がってトイレに行ってもいいです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>176</phraseID>
+<catID>9</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We cannot give you anything to eat or drink.</englishPhrase>
+<romanized>aanaataa nee taa beh mo no ya nomee mono wo aataa-eh raa rey maasen</romanized>
+<unicode>あなたにたべものや飲み物を与えられません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>177</phraseID>
+<catID>9</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>If you need surgery, your stomach must be empty.</englishPhrase>
+<romanized>moshee, shujutsu gaa hitsuyo naaraa, ee wo kaaraa nee shee naa ke re baa naaree maasen</romanized>
+<unicode>もし、手術が必要なら、胃を空にしなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>178</phraseID>
+<catID>9</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>We will give you food and drink as soon as it is safe to do so.</englishPhrase>
+<romanized>taabe-teh mo daaee jyoh boo nee naat-taara soogoo mot-te keemas</romanized>
+<unicode>食べても大丈夫になったら、すぐ持ってきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>179</phraseID>
+<catID>10</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Are you having pain?</englishPhrase>
+<romanized>eetaa-ee desukaa?</romanized>
+<unicode>痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>180</phraseID>
+<catID>10</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Where are you having pain?</englishPhrase>
+<romanized>do ko gaa eetaa-ee desukaa?</romanized>
+<unicode>どこが痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>181</phraseID>
+<catID>10</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Is the pain here?</englishPhrase>
+<romanized>ko ko gaa eetaa-ee desukaa?</romanized>
+<unicode>ここが痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>182</phraseID>
+<catID>10</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Does anything make the pain better?</englishPhrase>
+<romanized>naanee kaa eetaamee wo yaawaa raa ge ru mo no gaa aaree maasukaa?</romanized>
+<unicode>何か、痛みを和らげるものがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>183</phraseID>
+<catID>10</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Does anything make the pain worse?</englishPhrase>
+<romanized>naanee kaa eetaamee wo yo ree waaru ku su ru mono gaaree maaskaa?</romanized>
+<unicode>何か、痛みをより悪くする物がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>184</phraseID>
+<catID>10</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Did the pain start today?</englishPhrase>
+<romanized>kyo kaa raa eetaamee ga hajimaaree maashtakaa?</romanized>
+<unicode>今日から、痛みが始まりましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>185</phraseID>
+<catID>10</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>How many days have you had the pain?</englishPhrase>
+<romanized>nan neechi gu raa-ee mae kara eetaamee gaa tsuzueete eemas ka ?</romanized>
+<unicode>何日ぐらい前から、痛みが続いていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>186</phraseID>
+<catID>10</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Describe the pain on a scale from 1 to 10.</englishPhrase>
+<romanized>eetaamee wo eechee kaa raa ju maa de no dankai de sheemeh shte kudaa saa-ee</romanized>
+<unicode>痛みを１から１０までの段階で示してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>187</phraseID>
+<catID>10</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>10 is the worst possible pain, and 1 is no pain at all.</englishPhrase>
+<romanized>juu wa mot-tomo waaruee eetaamee,eechee waa eetaamee wo zenzen kaanji naa-ee johtaay des</romanized>
+<unicode>１０は最も悪い痛み、１は痛みを全然感じない状態です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>188</phraseID>
+<catID>10</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Hold up the number of fingers.</englishPhrase>
+<romanized>yubee wo taate te soojee wo sheemeh shteh kudaa saa-ee</romanized>
+<unicode>指を立てて数字を示してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>189</phraseID>
+<catID>10</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>What is the main problem?</englishPhrase>
+<romanized>naanee gaa omonaa mondaay desukaa?</romanized>
+<unicode>なにが主な問題ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>190</phraseID>
+<catID>10</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>How long have you had the pain?</englishPhrase>
+<romanized>eetaamee ga do no gu ra ee tsuzoo eete eemasu ka?</romanized>
+<unicode>痛みがどのぐらい続いていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>191</phraseID>
+<catID>10</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Show me where the pain started.</englishPhrase>
+<romanized>say shoh nee eetaamee haajee mehtaa baashoh wo mee se te kudaa saa-ee</romanized>
+<unicode>最初に痛み始めた場所を見せてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>192</phraseID>
+<catID>10</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Does the pain go to the back?</englishPhrase>
+<romanized>senaakaa mo eetaa-ee deskaa?</romanized>
+<unicode>背中も痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>193</phraseID>
+<catID>10</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Does the pain go to the testicles?</englishPhrase>
+<romanized>koh gaan mo eetaa-ee deskaa?</romanized>
+<unicode>睾丸も痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>194</phraseID>
+<catID>10</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Does this pain go to the groin?</englishPhrase>
+<romanized>kokaan gaa eetaa-ee deskaa?</romanized>
+<unicode>股間が痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>195</phraseID>
+<catID>10</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Is this a sharp pain?</englishPhrase>
+<romanized>sooroo do-ee eetaamee desu ka? </romanized>
+<unicode>するどい痛みですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>196</phraseID>
+<catID>10</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Is this a dull pain?</englishPhrase>
+<romanized>dontsu deskaa?</romanized>
+<unicode>鈍痛ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>197</phraseID>
+<catID>10</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Is this a cramping pain?</englishPhrase>
+<romanized>keiren deskaa?</romanized>
+<unicode>けいれんですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>198</phraseID>
+<catID>10</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Is this a constant pain?</englishPhrase>
+<romanized>eet-tey no eetaamee deskaa?</romanized>
+<unicode>一定の痛みですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>199</phraseID>
+<catID>10</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Is this an intermittent pain?</englishPhrase>
+<romanized>renzoku tekee naa eetaamee deskaa?</romanized>
+<unicode>連続的な痛みですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>200</phraseID>
+<catID>10</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Is this a mild pain?</englishPhrase>
+<romanized>haageh shee ku naa-ee eetaamee deskaa?</romanized>
+<unicode>激しくない痛みですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>201</phraseID>
+<catID>10</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Is this a moderate pain?</englishPhrase>
+<romanized>choo goorai no eetaamee des kaa?</romanized>
+<unicode>中ぐらいの痛みですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>202</phraseID>
+<catID>10</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Is this a severe pain?</englishPhrase>
+<romanized>haageh shee-ee eetaamee deskaa?</romanized>
+<unicode>激しい痛みですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>203</phraseID>
+<catID>10</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Is this the worst pain you ever had?</englishPhrase>
+<romanized>eemaa maadeh kaanjee taa eetaamee no naakaa desaay aaku deskaa?</romanized>
+<unicode>今まで感じた痛みの中で最悪ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>204</phraseID>
+<catID>10</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Is there anything that relieves the pain symptom?</englishPhrase>
+<romanized>naa nee kaa eetaamee wo yaawaa raa ge ru no gaa aaree maaskaa?</romanized>
+<unicode>なにか、痛みを和らげるのがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>205</phraseID>
+<catID>10</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Is there anything that worsens the pain symptom?</englishPhrase>
+<romanized>naa nee kaa eetaamee wo yo ree waaru ku su ru no gaa aaree maaskaa?</romanized>
+<unicode>なにか、痛みをより悪くするのがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>206</phraseID>
+<catID>10</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Have you seen a doctor or anyone about this?</englishPhrase>
+<romanized>ko re nee taa-ee shteh o eeshaa saam maataa waa daa re ka to haanaashee at-taa ko to gaa aaree maaskaa?</romanized>
+<unicode>これに対して、お医者さんまたは、だれかと話し合ったことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>207</phraseID>
+<catID>10</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>What medicines are you taking?</englishPhrase>
+<romanized>don naa kusuree wo non de-ee maaskaa?</romanized>
+<unicode>どんな薬を飲んでいますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>208</phraseID>
+<catID>10</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Are you experiencing fevers?</englishPhrase>
+<romanized>netsu wa aree maaska?</romanized>
+<unicode>熱はありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>209</phraseID>
+<catID>10</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Are you experiencing chills?</englishPhrase>
+<romanized>saamukeh ga sheemas ka?</romanized>
+<unicode>寒気がしますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>210</phraseID>
+<catID>10</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Are you experiencing nausea?</englishPhrase>
+<romanized>haakeekeh ga sheemas ka?</romanized>
+<unicode>吐き気がしますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>211</phraseID>
+<catID>10</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Are you experiencing vomiting?</englishPhrase>
+<romanized>haakee maashtakaa?</romanized>
+<unicode>吐きましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>212</phraseID>
+<catID>10</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Are you experiencing diarrhea?</englishPhrase>
+<romanized>gehree wo shte eemaas kaa?</romanized>
+<unicode>下痢をしていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>213</phraseID>
+<catID>10</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Are you experiencing loss of appetite?</englishPhrase>
+<romanized>shoku yoku wa o-chee teh maaskaa?</romanized>
+<unicode>食欲は落ちてますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>214</phraseID>
+<catID>10</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Are you experiencing headaches?</englishPhrase>
+<romanized>zutsu wo kaanjee maaskaa?</romanized>
+<unicode>頭痛を感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>215</phraseID>
+<catID>10</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Are you experiencing visual disturbances?</englishPhrase>
+<romanized>maaeh ga kasoomee maaskaa?</romanized>
+<unicode>前がかすみますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>216</phraseID>
+<catID>10</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Are you experiencing numbness or tingling?</englishPhrase>
+<romanized>shbeereh maaata wa, u zu ku no wo kaanjee maaskaa?</romanized>
+<unicode>痺れまたは、うずくのを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>217</phraseID>
+<catID>10</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Are you experiencing bleeding by mouth or rectum?</englishPhrase>
+<romanized>koochee yaa chokuchoh kaaraa chee gaa dehroo koto ga aree maaskaa?</romanized>
+<unicode>口や直腸から血が出ることがありますか?</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>218</phraseID>
+<catID>11</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you feel sick?</englishPhrase>
+<romanized>kaaraadaa no guwaay gaa waaru ee deskaa?</romanized>
+<unicode>体の具合が悪いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>219</phraseID>
+<catID>11</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Did you begin to feel sick today?</englishPhrase>
+<romanized>kyu, guaay gaa waaruku naaree mashtakaa?</romanized>
+<unicode>今日、具合がわるくなりましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>220</phraseID>
+<catID>11</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>How many days have you felt sick?</englishPhrase>
+<romanized>naan neechee guraay guaay gaa aaroo-ee desukaa?</romanized>
+<unicode>何日ぐらい、具合が悪いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>221</phraseID>
+<catID>11</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Is the sickness here?</englishPhrase>
+<romanized>koko no guaay gaa waaroo-ee desukaa?</romanized>
+<unicode>ここの具合がわるいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>222</phraseID>
+<catID>11</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do you feel nauseated?</englishPhrase>
+<romanized>haakeeke gaa shee maasukaa?</romanized>
+<unicode>吐き気がしますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>223</phraseID>
+<catID>11</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Did the nausea start today?</englishPhrase>
+<romanized>kyu kaaraa haakeekeh ga haajimaarwee maashtakaa?</romanized>
+<unicode>今日から吐き気が始まりましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>224</phraseID>
+<catID>11</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>How many days have you had the nausea?</englishPhrase>
+<romanized>naan neechee guraay haakeekeh gaa tsuzukee mashtakaa?</romanized>
+<unicode>何日ぐらい、吐き気が続きましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>225</phraseID>
+<catID>11</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Have you been vomiting?</englishPhrase>
+<romanized>haay taa koto ga aaree maasu kaa?</romanized>
+<unicode>吐いたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>226</phraseID>
+<catID>11</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Is there any blood in your vomit?</englishPhrase>
+<romanized>oto butsu nee chee gaa aaree mashtakaa?</romanized>
+<unicode>嘔吐物に血がありましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>227</phraseID>
+<catID>11</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Is there any black color in your vomit?</englishPhrase>
+<romanized>oto butsu nee kuroy eero gaa aaree mashtakaa?</romanized>
+<unicode>嘔吐物に黒い色がありましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>228</phraseID>
+<catID>11</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Have you had any diarrhea?</englishPhrase>
+<romanized>geree wo shee taa koto gaa aaree maaskaa?</romanized>
+<unicode>下痢をしたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>229</phraseID>
+<catID>11</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>How many times have you had diarrhea today?</englishPhrase>
+<romanized>kyo, naan kaay guraay geree wo shee maashtakaa?</romanized>
+<unicode>今日、何回ぐらい下痢をしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>230</phraseID>
+<catID>11</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Would your diarrhea today fill this?</englishPhrase>
+<romanized>kyo geree shee taa no ga korey guraay nee naaree maasukaa?</romanized>
+<unicode>今日、下痢したのがこれぐらいになりますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>231</phraseID>
+<catID>11</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>What color is the diarrhea?</englishPhrase>
+<romanized>geree waa don-naa eero desukaa?</romanized>
+<unicode>下痢はどんな色ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>232</phraseID>
+<catID>11</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Is it red?</englishPhrase>
+<romanized>aakaay desukaa?</romanized>
+<unicode>赤いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>233</phraseID>
+<catID>11</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Is it yellow?</englishPhrase>
+<romanized>kee-eeroy desukaa?</romanized>
+<unicode>黄色いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>234</phraseID>
+<catID>11</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Is it green?</englishPhrase>
+<romanized>midoree eero desukaa?</romanized>
+<unicode>緑色ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>235</phraseID>
+<catID>11</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Is it black?</englishPhrase>
+<romanized>kuroy desukaa?</romanized>
+<unicode>黒いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>236</phraseID>
+<catID>11</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>When was the last time you had a bowel movement?</englishPhrase>
+<romanized>ee tsu saaygo nee haayben wo shee maashtakaa?</romanized>
+<unicode>いつ、最後に排便をしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>237</phraseID>
+<catID>11</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Has there been any blood in your stool?</englishPhrase>
+<romanized>daayben nee chee gaa aaree maashtakaa?</romanized>
+<unicode>大便に血がありましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>238</phraseID>
+<catID>11</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Are you bleeding from your rectum?</englishPhrase>
+<romanized>chokuchoh kaaraa chee ga dehteh eemaaskaa?</romanized>
+<unicode>直腸から血が出ていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>239</phraseID>
+<catID>11</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Have your stools been black?</englishPhrase>
+<romanized>kuroy daayben wo shee taa koto ga aaree maaskaa?</romanized>
+<unicode>黒い大便をしたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>240</phraseID>
+<catID>11</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Do you have fever?</englishPhrase>
+<romanized>netsu gaa aaree maaskaa?</romanized>
+<unicode>熱がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>241</phraseID>
+<catID>11</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>For how many days have you had a fever?</englishPhrase>
+<romanized>naan neechee guraay netsu gaa tsudzoo eete eemas ka?</romanized>
+<unicode>何日ぐらい、熱が続いていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>242</phraseID>
+<catID>11</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Does it burn when you urinate?</englishPhrase>
+<romanized>o-sheek-ko suru tokee heereeheeree shee maaskaa?</romanized>
+<unicode>おしっこする時、ひりひりしますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>243</phraseID>
+<catID>11</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Does it hurt when you urinate?</englishPhrase>
+<romanized>o-sheek-ko suru tokee eetaay deskaa?</romanized>
+<unicode>おしっこする時、痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>244</phraseID>
+<catID>11</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Are you urinating more than usual?</englishPhrase>
+<romanized>fudaan yoree o-sheek-ko ga takusan deh maaska?</romanized>
+<unicode>普段よりおしっこがたくさん出ますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>245</phraseID>
+<catID>11</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Is there blood in the urine?</englishPhrase>
+<romanized>o-sheek-ko nee chee gaa majeet-te eemaas kaa?</romanized>
+<unicode>おしっこに血が混じっていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>246</phraseID>
+<catID>11</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>When did you eat last?</englishPhrase>
+<romanized>saaygo nee shokujee wo shee taa no waa-ee tsu deskaa?</romanized>
+<unicode>最後に、食事をしたのはいつですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>247</phraseID>
+<catID>11</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Are you hungry?</englishPhrase>
+<romanized>o naa kaa gaa su-ee te-ee maaskaa?</romanized>
+<unicode>お腹が空いていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>248</phraseID>
+<catID>11</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Do you have worms?</englishPhrase>
+<romanized>keeseichu gaa aaree maaskaa?</romanized>
+<unicode>寄生虫病がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>249</phraseID>
+<catID>11</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Do you have malaria?</englishPhrase>
+<romanized>maa raa ree aa deskaa?</romanized>
+<unicode>マラリアですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>250</phraseID>
+<catID>11</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Do you have tuberculosis?</englishPhrase>
+<romanized>kek-kaaku desukaa?</romanized>
+<unicode>結核ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>251</phraseID>
+<catID>11</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Do you know what I mean by the term HIV?</englishPhrase>
+<romanized>ehch aay bee gaa naanee wo eemee su ru no kaa wa kaaree maaskaa?</romanized>
+<unicode>HIVがなにを意味するのかわかりますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>252</phraseID>
+<catID>11</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Do you know what I mean by the term AIDS?</englishPhrase>
+<romanized>aidz gaa naa nee wo eemee su ru no kaa waa kaaree maaskaa?</romanized>
+<unicode>AIDSがなにを意味するのかわかりますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>253</phraseID>
+<catID>11</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Are you infected with the HIV virus?</englishPhrase>
+<romanized>ehch aay bee ru su nee kaansen saa re maashtakaa?</romanized>
+<unicode>HIVビールスに感染されましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>254</phraseID>
+<catID>11</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Do you have AIDS?</englishPhrase>
+<romanized>aidz deskaa?</romanized>
+<unicode>AIDSですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>255</phraseID>
+<catID>11</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>You need a blood test for the HIV virus.</englishPhrase>
+<romanized>aidz bee ru su no taa me nee ketsuekee no kensa gaa hitsuyo-o de su</romanized>
+<unicode>AIDSビールスのために血液の検査が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>256</phraseID>
+<catID>12</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you have pain in this joint I'm touching?</englishPhrase>
+<romanized>waataashee gaa saawaa ru kaansetsu nee eetaamee wo kaanjee maaskaa?</romanized>
+<unicode>私が触る関節に痛みを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>257</phraseID>
+<catID>12</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Do you have pain in any other joint?</englishPhrase>
+<romanized>ho ka no kansetsu nee eetaamee wo kanjee maaskaa?</romanized>
+<unicode>ほかの関節に痛みを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>258</phraseID>
+<catID>12</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Which joint hurts the most?</englishPhrase>
+<romanized>do no kaansetsu gaa eecheebaan itaa-ee deskaa?</romanized>
+<unicode>どの関節が一番、痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>259</phraseID>
+<catID>12</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Do you have pain in this muscle I'm touching?</englishPhrase>
+<romanized>waataashee gaa saawaa ru keen-neeku nee eetaamee wo kaanjee maaskaa?</romanized>
+<unicode>私が触る筋肉に痛みを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>260</phraseID>
+<catID>12</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do you have pain in any other muscle?</englishPhrase>
+<romanized>ho ka no keen-neeku nee mo eetaamee wo kanjee maaskaa?</romanized>
+<unicode>ほかの筋肉にも痛みを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>261</phraseID>
+<catID>12</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Where is the muscle pain?</englishPhrase>
+<romanized>doko no keen-neeku gaa eetaa-ee deskaa?</romanized>
+<unicode>どこの筋肉が痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>262</phraseID>
+<catID>12</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Is this muscle cramping?</englishPhrase>
+<romanized>keen-neeku gaa heekee tsooree maaskaa?</romanized>
+<unicode>筋肉が引きつりますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>263</phraseID>
+<catID>12</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Have you ever had any broken bones?</englishPhrase>
+<romanized>honeh gaa oreh taa ko to gaa aaree maaskaa?</romanized>
+<unicode>骨が折れたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>264</phraseID>
+<catID>12</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>What bones have you broken?</englishPhrase>
+<romanized>dono honeh gaa oreh maashtakaa?</romanized>
+<unicode>どの骨が折れましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>265</phraseID>
+<catID>12</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Does it hurt when I do this?</englishPhrase>
+<romanized>koh su ru toh eetaa-ee deskaa?</romanized>
+<unicode>こうすると痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>266</phraseID>
+<catID>12</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Do this.</englishPhrase>
+<romanized>korey wo sheeteh</romanized>
+<unicode>これをして。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>267</phraseID>
+<catID>12</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>You need an X-ray of your bone.</englishPhrase>
+<romanized>honeh no ren toh gen shaasheen gaa eeree maasu</romanized>
+<unicode>骨のレントゲン写真が要ります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>268</phraseID>
+<catID>12</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>I will examine the X-ray and tell you what I see.</englishPhrase>
+<romanized>ren toh gen shaasheen wo meeteh wakat-ta koto wo o-tsoo taeh sheemas</romanized>
+<unicode>レントゲン写真を見て分かったことをお伝えします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>269</phraseID>
+<catID>12</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>The bone is broken here.</englishPhrase>
+<romanized>honeh no ko ko gaa oreh maa sheetaa</romanized>
+<unicode>骨のここが折れました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>270</phraseID>
+<catID>12</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>The bone is not broken here.</englishPhrase>
+<romanized>honeh no ko no bubun waa oreh te-ee maasen</romanized>
+<unicode>骨のこの部分は折れていません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>271</phraseID>
+<catID>12</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>You need a cast to help the bone heal.</englishPhrase>
+<romanized>honeh wo naa-o sutaa me nee geepu su gaa hitsuyo des</romanized>
+<unicode>骨を治すためにギプスが必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>272</phraseID>
+<catID>12</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Do not remove the cast.</englishPhrase>
+<romanized>gee pu su wo toh-ra naa-ee de kudaa saa-ee</romanized>
+<unicode>ギプスを取らないで下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>273</phraseID>
+<catID>12</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Do not get the cast wet.</englishPhrase>
+<romanized>gee pu su wo nu raa saa naa-ee de ku daasaa-ee</romanized>
+<unicode>ギプスをぬらさないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>274</phraseID>
+<catID>12</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>You need a splint to help the injury heal.</englishPhrase>
+<romanized>kegaa wo na-osu ta me nee so-egee gaa hitsuyou de su</romanized>
+<unicode>怪我を治すために添え木が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>275</phraseID>
+<catID>12</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>You may take the splint off to clean yourself.</englishPhrase>
+<romanized>araa u tokee waa so-egee wo haa zu sheeteh mo-ee desu</romanized>
+<unicode>洗うときは添え木をはずしてもいいです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>276</phraseID>
+<catID>12</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>The splint must be replaced after you have cleaned yourself.</englishPhrase>
+<romanized>araa-ee o-waat-taaraa so-egee wo moto nee modosheeteh kuda sa-ee</romanized>
+<unicode>洗い終わったら、添え木を元に戻してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>277</phraseID>
+<catID>12</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>You need a metal plate and screws to help the healing of your bone.</englishPhrase>
+<romanized>hone wo na-osu taa me nee keenzoku baan to nejee gaa heetsuyoh desu</romanized>
+<unicode>骨を治すために金属板とねじが必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>278</phraseID>
+<catID>12</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>We need to take you to the Operating Room to perform an operation on you.</englishPhrase>
+<romanized>aanaataa nee shujutsu wo okonau taameh nee aanaataa wo shujutsu sheetsu nee haakoba naakere baa naaree maasen</romanized>
+<unicode>貴方に手術を行う為に貴方を手術室に運ばなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>279</phraseID>
+<catID>13</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you have an intrauterine device (birth control device)?</englishPhrase>
+<romanized>shikyuunaa-ee nee heeningu gaa aaree maaskaa?</romanized>
+<unicode>子宮内に避妊具がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>280</phraseID>
+<catID>13</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Have you had missed periods of menstruation recently?</englishPhrase>
+<romanized>gek-keyfujun gaa aaree maaskaa?</romanized>
+<unicode>月経不順がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>281</phraseID>
+<catID>13</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Do you use pills for birth control?</englishPhrase>
+<romanized>heeneen no taame nee pee-ru wo nohnde eemaaskaa?</romanized>
+<unicode>避妊のためにピルを飲んでいますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>282</phraseID>
+<catID>13</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Are you pregnant?</englishPhrase>
+<romanized>neensheen sheete-ee maaskaa?</romanized>
+<unicode>妊娠していますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>283</phraseID>
+<catID>13</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Could you be pregnant?</englishPhrase>
+<romanized>neensheen shte eemaashta kaa?</romanized>
+<unicode>妊娠していましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>284</phraseID>
+<catID>13</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>When was your last period?</englishPhrase>
+<romanized>saaygo no gek-key waa eetsu deskaa?</romanized>
+<unicode>最後の月経はいつですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>285</phraseID>
+<catID>13</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>How many pregnancies have you had?</englishPhrase>
+<romanized>nankaay neensheen shee maashtakaa?</romanized>
+<unicode>何回妊娠しましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>286</phraseID>
+<catID>13</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Are you having any vaginal discharge?</englishPhrase>
+<romanized>chitsu kaaraa no oree mo no gaa aaree maaskaa?</romanized>
+<unicode>膣からのおりものがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>287</phraseID>
+<catID>13</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Are you having vaginal bleeding?</englishPhrase>
+<romanized>chitsu kaaraa chee gaa de ru ko to gaa aaree maaskaa?</romanized>
+<unicode>膣から血がでることがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>288</phraseID>
+<catID>13</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>How long have you had vaginal bleeding?</englishPhrase>
+<romanized>naan neechi ku raa-ee chitsu kaaraa chee gaa de maashtakaa?</romanized>
+<unicode>何日くらい、膣から血がでましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>289</phraseID>
+<catID>13</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Does the vaginal bleeding come and go?</englishPhrase>
+<romanized>chitsu kaaraa chee gaa de taa ree to maat-taa ree shee maaskaa?</romanized>
+<unicode>膣から血が出たり止まったりしますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>290</phraseID>
+<catID>13</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Is the vaginal bleeding constant?</englishPhrase>
+<romanized>chitsu shuk-ketsu gaa tsuzukee maaskaa?</romanized>
+<unicode>膣出血が続きますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>291</phraseID>
+<catID>13</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Do you feel dizzy?</englishPhrase>
+<romanized>me maa ee gaa shee maaskaa?</romanized>
+<unicode>めまいがしますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>292</phraseID>
+<catID>13</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>How many months have you been pregnant?</englishPhrase>
+<romanized>neensheen nankaagetsu deskaa?</romanized>
+<unicode>妊娠何ヶ月ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>293</phraseID>
+<catID>13</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>How many children do you have?</englishPhrase>
+<romanized>kodomo waa naan nin eemaaskaa?</romanized>
+<unicode>子供は何人いますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>294</phraseID>
+<catID>13</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Have you been raped?</englishPhrase>
+<romanized>go kaan saa re taa ko to gaa aaree maaskaa?</romanized>
+<unicode>強姦されたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>295</phraseID>
+<catID>13</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>We need to examine you carefully.</englishPhrase>
+<romanized>aanaataa wo mem-mitsu nee sheensaatsu su ru hitsuyoh gaa aaree maas</romanized>
+<unicode>貴方を綿密に診察する必要があります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>296</phraseID>
+<catID>13</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>We will protect your privacy as much as we can.</englishPhrase>
+<romanized>waareywaarey gaa dekeeru kaa gee ree aanaataa no pu raa-ee be to wo hogo sheemaas</romanized>
+<unicode>我々ができるかぎり、貴方のプライベートを保護します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>297</phraseID>
+<catID>13</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Does this hurt?</englishPhrase>
+<romanized>ko re gaa itaa ee deskaa?</romanized>
+<unicode>これが痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>298</phraseID>
+<catID>13</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Do not push yet.</englishPhrase>
+<romanized>maa daa ee kee maa naa-ee de ku daasaa-ee</romanized>
+<unicode>まだ、いきまないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>299</phraseID>
+<catID>13</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Push now.</englishPhrase>
+<romanized>eemaa ee keen de</romanized>
+<unicode>今、いきんで。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>300</phraseID>
+<catID>13</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Push now as hard as you can.</englishPhrase>
+<romanized>de kee ru daa ke ee keen de</romanized>
+<unicode>出来るだけいきんで。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>301</phraseID>
+<catID>13</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>The baby is here.</englishPhrase>
+<romanized>aakaachaan waa ko ko nee maas</romanized>
+<unicode>赤ちゃんはここにいます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>302</phraseID>
+<catID>13</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>It is a boy.</englishPhrase>
+<romanized>otokonoko desu</romanized>
+<unicode>男の子です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>303</phraseID>
+<catID>13</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>It is a girl.</englishPhrase>
+<romanized>on-naanoko desu</romanized>
+<unicode>女の子です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>304</phraseID>
+<catID>13</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>The baby looks healthy.</englishPhrase>
+<romanized>aakaachaan waa genkee desu</romanized>
+<unicode>赤ちゃんは元気です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>305</phraseID>
+<catID>13</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>We will take good care of the baby.</englishPhrase>
+<romanized>aakaachaan no mendo wo meemaas</romanized>
+<unicode>赤ちゃんの面倒をみます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>306</phraseID>
+<catID>14</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Your child is sick.</englishPhrase>
+<romanized>aanaataa no kodomo wa byoukee de s</romanized>
+<unicode>貴方の子供は病気です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>307</phraseID>
+<catID>14</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Your child is hurt.</englishPhrase>
+<romanized>aanaataa no kodomo gaa kega wo shee maa shee taa</romanized>
+<unicode>貴方の子供が怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>308</phraseID>
+<catID>14</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>We need to care for your child.</englishPhrase>
+<romanized>waareywaarey gaa aanaataa no kodomo no mendu wo mi na ke re baa naaree maasen</romanized>
+<unicode>我々が貴方の子供の面倒をみなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>309</phraseID>
+<catID>14</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>You need to let us keep your child here.</englishPhrase>
+<romanized>aanaataa no kodomo wa koko nee oeete okoo heetsuyoh ga areemas</romanized>
+<unicode>貴方の子供はここに置いておく必要があります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>310</phraseID>
+<catID>14</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>You may stay with your child.</englishPhrase>
+<romanized>aanaataa wa kodomo to is-sho nee i-te mo ee-ee de s</romanized>
+<unicode>貴方は子供と一緒にいてもいいです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>311</phraseID>
+<catID>14</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Let us examine your child in private.</englishPhrase>
+<romanized>aanaataa no kodomo wo kobetsu nee sheensaatsu shee maas</romanized>
+<unicode>貴方の子供を個別に診察します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>312</phraseID>
+<catID>14</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Your child will get better soon.</englishPhrase>
+<romanized>aanaataa no kodomo wa su gu yoku naa ree maas</romanized>
+<unicode>貴方の子供はすぐよくなります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>313</phraseID>
+<catID>14</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>This medicine will help your child.</englishPhrase>
+<romanized>ko no kusuree gaa aanaataa no ko do mo nee yaaku nee taachee maas</romanized>
+<unicode>この薬が貴方のこどもに役にたちます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>314</phraseID>
+<catID>14</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Did your child eat today?</englishPhrase>
+<romanized>kyoh o-koh-san wa shokoojee sheemaashtaa ka?</romanized>
+<unicode>今日、お子さんは食事しましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>315</phraseID>
+<catID>14</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Did your child eat yesterday?</englishPhrase>
+<romanized>keenoh o-koh-san wa shokoojee sheemaashtaa ka?</romanized>
+<unicode>昨日、お子さんは食事しましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>316</phraseID>
+<catID>14</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Has your child passed urine today?</englishPhrase>
+<romanized>kyoh o-koh-san waa o-sheek-ko shee maashtaa kaa?</romanized>
+<unicode>今日、お子さんはおしっこしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>317</phraseID>
+<catID>14</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Has your child passed any stool today?</englishPhrase>
+<romanized>kyoh o-koh-san wa oonchee shee maashtaa kaa?</romanized>
+<unicode>今日、お子さんはうんちしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>318</phraseID>
+<catID>14</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Did your child pass any stool yesterday?</englishPhrase>
+<romanized>keenoh o-koh-san wa oonchee shee maashtaa kaa?</romanized>
+<unicode>昨日、お子さんはうんちしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>319</phraseID>
+<catID>14</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Has your child had any diarrhea?</englishPhrase>
+<romanized>o-koh-san wa gehree wo shee maashtaakaa?</romanized>
+<unicode>お子さんは下痢をしましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>320</phraseID>
+<catID>14</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Has your child been vomiting?</englishPhrase>
+<romanized>o-koh-san waa haa eeta ko to gaa aaree maaskaa?</romanized>
+<unicode>お子さんは吐いたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>321</phraseID>
+<catID>14</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Your child looks healthy.</englishPhrase>
+<romanized>aanaataa no kodomo wa genkee so-u desu</romanized>
+<unicode>貴方の子供は元気そうです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>322</phraseID>
+<catID>14</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Your child will be fine.</englishPhrase>
+<romanized>aanaataa no kodomo waa daay jo bu de sho-u</romanized>
+<unicode>貴方の子供は大丈夫でしょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>323</phraseID>
+<catID>14</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Your child will be ill for a long time.</englishPhrase>
+<romanized>aanaataa no kodomo no shoh joh wa nagabeekee soh des</romanized>
+<unicode>貴方の子供の症状は長引きそうです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>324</phraseID>
+<catID>14</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>This illness will pass slowly, but your child's health will return completely.</englishPhrase>
+<romanized>o-koh-san no byoh-kee wa jeekan ga kakaree maasu ga kanzen nee naao-ree masu</romanized>
+<unicode>お子さんの病気は時間がかかりますが、完全に治ります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>325</phraseID>
+<catID>14</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Feed the child small portions every few hours.</englishPhrase>
+<romanized>soojeekaan goto nee shoh ryoh wo kodomo nee taa be saa se te kuda saa-ee</romanized>
+<unicode>数時間ごとに、少量を子供にたべさせてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>326</phraseID>
+<catID>14</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Help your child drink this every few hours.</englishPhrase>
+<romanized>soojeekaan goto nee kodomo ga ko re wo nohmoo yoh nee shte kuda sa-ee</romanized>
+<unicode>数時間ごとに子供がこれを飲むようにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>327</phraseID>
+<catID>14</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Feed this medicine to your child every four hours.</englishPhrase>
+<romanized>yon jeekaan goto nee kono kusuree wo kodomo nee no ma se te kuda saa-ee</romanized>
+<unicode>４時間ごとにこの薬を子供に飲ませてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>328</phraseID>
+<catID>14</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Allow your child to sleep.</englishPhrase>
+<romanized>o-koh-san wa nekasehte oeete kuda saa-ee</romanized>
+<unicode>お子さんは寝かせておいてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>329</phraseID>
+<catID>14</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>You need to sleep as much as the child does.</englishPhrase>
+<romanized>aanaata mo o-koh-san toh onajee dahke sheek-karee nena-kehreba naree masen</romanized>
+<unicode>貴方もお子さんと同じだけしっかり寝なければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>330</phraseID>
+<catID>14</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Bring your child back here tomorrow.</englishPhrase>
+<romanized>aasheetaa mo o-koh-san wo koko nee tsu re te kee te kuda saa-ee</romanized>
+<unicode>明日もお子さんをここにつれてきてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>331</phraseID>
+<catID>14</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Bring your child back if there is no improvement by tomorrow.</englishPhrase>
+<romanized>asheeta madey nee, yoku naa raa naa kat-ta raa mata o-koh-san wo koko nee tsu re te kee te kuda saa-ee</romanized>
+<unicode>明日までによくならなかったら、またお子さんをここにつれてきてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>332</phraseID>
+<catID>14</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>We will continue to follow the health of your child with you.</englishPhrase>
+<romanized>waareywaarey wa aanaataa to is-sho nee kongo mo o-koh-san no yoh-soo wo meeteh eekeemas</romanized>
+<unicode>我々は貴方と一緒に今後もお子さんの様子を見ていきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>333</phraseID>
+<catID>15</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you have any chest pain or tightness?</englishPhrase>
+<romanized>mune nee itaami yaa muna guru shee saa wo kaanjee maaskaa?</romanized>
+<unicode>胸に痛みや胸苦しさを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>334</phraseID>
+<catID>15</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Are you having trouble trying to breathe?</englishPhrase>
+<romanized>kokyoo wo su ru no nee mondaay gaa aaree maaskaa?</romanized>
+<unicode>呼吸をするのに問題がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>335</phraseID>
+<catID>15</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Do you have chest pain over your entire chest?</englishPhrase>
+<romanized>mooneh zentaee nee eetaamee wo kaanjee maaskaa?</romanized>
+<unicode>胸全体に痛みを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>336</phraseID>
+<catID>15</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Do you have pain from your chest into your arm?</englishPhrase>
+<romanized>mooneh kaaraa ude maadeh eetaamee ga aaree maaskaa?</romanized>
+<unicode>胸から腕まで痛みがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>337</phraseID>
+<catID>15</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Have you had this type of chest pain before?</englishPhrase>
+<romanized>eezen nee ko re to onaajee yoh naa mune no eetaamee wo kaanjee ta ko to gaa aaree maaskaa?</romanized>
+<unicode>以前にこれと同じような胸の痛みを感じたことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>338</phraseID>
+<catID>15</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Do you feel light-headed with the chest pain?</englishPhrase>
+<romanized>mune nee eetaamee wo kaanjee naa gaa raa aataa maa gaa bot-to shee maaskaa?</romanized>
+<unicode>胸に痛みを感じながら、あたまがぼっとしますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>339</phraseID>
+<catID>15</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Do you sweat with the chest pain?</englishPhrase>
+<romanized>mune no eetaamnee to is-sho nee ase wo kaa kee maaskaa?</romanized>
+<unicode>胸の痛みと一緒に汗をかきますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>340</phraseID>
+<catID>15</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>This heart pill may give you a headache.</englishPhrase>
+<romanized>ko no sheenzou no koosooree wa dzutsoo ga suru ka mo shee re maasen</romanized>
+<unicode>この心臓の薬は頭痛がするかもしれません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>341</phraseID>
+<catID>15</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>This will go under your tongue.</englishPhrase>
+<romanized>korey wo sheeta no shta nee I re te kuda saa-ee</romanized>
+<unicode>これを舌の下にいれてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>342</phraseID>
+<catID>15</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Chew this and swallow it.</englishPhrase>
+<romanized>korey wo kaande nomeekon de kuda saa-ee</romanized>
+<unicode>これを噛んで飲み込んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>343</phraseID>
+<catID>15</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Let us take care of you.</englishPhrase>
+<romanized>sheensaatsu shee te mee maa sho-u</romanized>
+<unicode>診察してみましょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>344</phraseID>
+<catID>16</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Open your eyes.</englishPhrase>
+<romanized>mey wo ake te</romanized>
+<unicode>目をあけて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>345</phraseID>
+<catID>16</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Close your eyes.</englishPhrase>
+<romanized>mey wo tojee te kuda saa-ee</romanized>
+<unicode>目を閉じてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>346</phraseID>
+<catID>16</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Do you have any pain in your eyes?</englishPhrase>
+<romanized>mey gaa eetaay deskaa?</romanized>
+<unicode>目が痛いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>347</phraseID>
+<catID>16</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Do you wear corrective glasses?</englishPhrase>
+<romanized>megaaneh wo kaakey te-ee maaskaa?</romanized>
+<unicode>めがねをかけていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>348</phraseID>
+<catID>16</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do you wear contact lenses?</englishPhrase>
+<romanized>kontakuto renzu wo tsuke te-ee maasoo kaa?</romanized>
+<unicode>コンタクトレンズをつけていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>349</phraseID>
+<catID>16</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Is your vision clear in both eyes?</englishPhrase>
+<romanized>shee-ryoku waa ryoh meh to mo ee deskaa?</romanized>
+<unicode>視力は両目ともいいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>350</phraseID>
+<catID>16</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Which eye has a new problem?</englishPhrase>
+<romanized>docheera no meh no goo-ay gaa warooee desu kaa?</romanized>
+<unicode>どちらの目の具合が悪いですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>351</phraseID>
+<catID>16</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Do you see my fingers?</englishPhrase>
+<romanized>waataakushee no yubee ga mee-eh maasoo ka?</romanized>
+<unicode>私の指が見えますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>352</phraseID>
+<catID>16</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Are they clear?</englishPhrase>
+<romanized>yoku mie maasoo kaa?</romanized>
+<unicode>よく見えますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>353</phraseID>
+<catID>16</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>How many fingers do you see right now?</englishPhrase>
+<romanized>eema yubee ga eekootsoo mee-eh maasu kaa?</romanized>
+<unicode>今、指がいくつ見えますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>354</phraseID>
+<catID>16</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>I am going to be looking into your eyes with this.</englishPhrase>
+<romanized>korey de aanaataa no me wo sheeraabe maasu</romanized>
+<unicode>これで貴方の目を調べます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>355</phraseID>
+<catID>16</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Keep your head still.</englishPhrase>
+<romanized>aataamaa wo ugo kaa saa naa ee de kuda saa-ee</romanized>
+<unicode>頭を動かさないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>356</phraseID>
+<catID>16</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Look straight ahead and focus on an object.</englishPhrase>
+<romanized>shohmen nee aroo mono wo jeet-to meet-teh kuda saa-ee</romanized>
+<unicode>正面にあるものをじっと見てださい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>357</phraseID>
+<catID>16</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>While I am looking into your eyes, continue to focus on that object.</englishPhrase>
+<romanized>waataashee ga aanaataa no meh wo sheerabe ru a-eeda zoot-toh meetsoo meta mama de eete kuda saa-ee</romanized>
+<unicode>私が貴方の目を調べる間、ずっと見つめたままでいてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>358</phraseID>
+<catID>16</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>I am going to put some drops into your eye.</englishPhrase>
+<romanized>me nee megusooree wo sukoshee saa shee maa su</romanized>
+<unicode>目に目薬を少しさします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>359</phraseID>
+<catID>16</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>I am going to blow a puff of air into your eye.</englishPhrase>
+<romanized>me nee put-to fu kee kaa ke maa su</romanized>
+<unicode>目にぷっと吹きかけます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>360</phraseID>
+<catID>16</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Hold very still while I remove the foreign body in your eye.</englishPhrase>
+<romanized>eebutsu wo toree nozoku aa-eeda jit-to shte ee te ku dasaay</romanized>
+<unicode>異物を取り除く間じっとしていてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>361</phraseID>
+<catID>17</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Does this feel normal?</englishPhrase>
+<romanized>daijoubu deskaa?</romanized>
+<unicode>大丈夫ですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>362</phraseID>
+<catID>17</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Do this.</englishPhrase>
+<romanized>kono yo nee shee te kuda saa-ee</romanized>
+<unicode>このようにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>363</phraseID>
+<catID>17</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Move your toes.</englishPhrase>
+<romanized>ashee no yubi wo ugokashee te kudasaay</romanized>
+<unicode>足の指を動かしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>364</phraseID>
+<catID>17</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Do you have numbness or tingling?</englishPhrase>
+<romanized>sheebee-reh taaree heereeheeree shtaaree suru no wo kaanjee maasu kaa?</romanized>
+<unicode>しびれたり、ひりひりしたりするのを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>365</phraseID>
+<catID>17</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Where do you feel the numbness or tingling?</englishPhrase>
+<romanized>doko nee sheebee-reh ya heeree heeree suru no wo kaanjee maaskaa?</romanized>
+<unicode>どこにしびれやひりひりするのを感じますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>366</phraseID>
+<catID>17</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Did the numbness or tingling start today?</englishPhrase>
+<romanized>sheebee-reh ya heeree heeree suru no wa kyoh kaara haajimaaree maashee ta ka?</romanized>
+<unicode>しびれやひりひりするのは今日から始まりましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>367</phraseID>
+<catID>17</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>How many days have you have the numbness or tingling?</englishPhrase>
+<romanized>nan neechee guraay sheebee-reh ya heeree heeree suru no gaa tsuzu eeteh eemaaskaa?</romanized>
+<unicode>何日ぐらいしびれやひりひりするのが続いていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>368</phraseID>
+<catID>17</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Do you feel weak?</englishPhrase>
+<romanized>cheekaara gaa haaeera naaee des kaa?</romanized>
+<unicode>力が入らないですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>369</phraseID>
+<catID>17</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Did the weakness start today?</englishPhrase>
+<romanized>kyo kaaraa datsuryoku wo kaanjee maa shee taa kaa?</romanized>
+<unicode>今日から脱力を感じましたか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>370</phraseID>
+<catID>17</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>How many days have you had the weakness?</englishPhrase>
+<romanized>nan neechi guraay cheekara ga haaeera naaee joh-taay ga tsudzu eeteh eemaaska?</romanized>
+<unicode>何日ぐらい、力が入らない状態が続いていますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>371</phraseID>
+<catID>18</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Bend your arm.</englishPhrase>
+<romanized>ude wo maagey te kuda saa-ee</romanized>
+<unicode>腕を曲げてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>372</phraseID>
+<catID>18</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Bend your leg.</englishPhrase>
+<romanized>aashee wo maage te kuda saa-ee</romanized>
+<unicode>足を曲げてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>373</phraseID>
+<catID>18</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Breathe normally.</englishPhrase>
+<romanized>futsoo nee kokyoo shee te kuda saa-ee</romanized>
+<unicode>普通に呼吸してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>374</phraseID>
+<catID>18</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Close your eyes.</englishPhrase>
+<romanized>me wo to jee te</romanized>
+<unicode>目を閉じて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>375</phraseID>
+<catID>18</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Close your hand.</englishPhrase>
+<romanized>te wo neegeet-te kuda saa-ee</romanized>
+<unicode>手を握ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>376</phraseID>
+<catID>18</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Close your mouth.</englishPhrase>
+<romanized>kuchee wo to jee te kuda saa-ee</romanized>
+<unicode>口を閉じてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>377</phraseID>
+<catID>18</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Cough.</englishPhrase>
+<romanized>sekee wo shee te</romanized>
+<unicode>せきをして。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>378</phraseID>
+<catID>18</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Cough some phlegm into this cup.</englishPhrase>
+<romanized>kono ka ppu nee tan wo haa-ee te kuda saa-ee</romanized>
+<unicode>このカップに痰を吐いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>379</phraseID>
+<catID>18</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Hold this under your tongue.</englishPhrase>
+<romanized>ko re wo sheeta no sheeta nee ire te kuda saa-ee</romanized>
+<unicode>これを舌の下に入れてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>380</phraseID>
+<catID>18</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Hold your breath.</englishPhrase>
+<romanized>eekee wo tome te kuda saa-ee</romanized>
+<unicode>息を止めてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>381</phraseID>
+<catID>18</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Lie down.</englishPhrase>
+<romanized>yoko nee naat-te kuda saa-ee</romanized>
+<unicode>横になってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>382</phraseID>
+<catID>18</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Lie flat.</englishPhrase>
+<romanized>aa-omuke nee naat-te kuda saa-ee</romanized>
+<unicode>仰向けになってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>383</phraseID>
+<catID>18</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Lie on your abdomen.</englishPhrase>
+<romanized>haaraa baa-ee nee naat-te kuda saa-ee</romanized>
+<unicode>腹ばいになってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>384</phraseID>
+<catID>18</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Lie on your back.</englishPhrase>
+<romanized>senaaka wo sheeta nee sheet e yoko nee naat-te kuda saa-ee</romanized>
+<unicode>背中を下にして横になってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>385</phraseID>
+<catID>18</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Look at my finger as it moves.</englishPhrase>
+<romanized>waataashee no yubee no ugokee wo meh de oht-te kuda saee</romanized>
+<unicode>私の指の動きを目で追ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>386</phraseID>
+<catID>18</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Look down.</englishPhrase>
+<romanized>shta wo mee te</romanized>
+<unicode>下をみて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>387</phraseID>
+<catID>18</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Look straight.</englishPhrase>
+<romanized>shohmen wo mee te</romanized>
+<unicode>正面をみて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>388</phraseID>
+<catID>18</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Look up.</englishPhrase>
+<romanized>u-ee wo mi te</romanized>
+<unicode>上をみて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>389</phraseID>
+<catID>18</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Open.</englishPhrase>
+<romanized>aake te</romanized>
+<unicode>あけて。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>390</phraseID>
+<catID>18</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Open your eyes.</englishPhrase>
+<romanized>mey wo aa ke te kuda saa-ee</romanized>
+<unicode>目をあけてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>391</phraseID>
+<catID>18</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Open your hand.</englishPhrase>
+<romanized>te wo hira i te kuda saa-ee</romanized>
+<unicode>手を開いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>392</phraseID>
+<catID>18</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Open your mouth.</englishPhrase>
+<romanized>kuchee wo a ke te kuda saa-ee</romanized>
+<unicode>口をあけてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>393</phraseID>
+<catID>18</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Push here.</englishPhrase>
+<romanized>ko ko wo oshee te</romanized>
+<unicode>ここを押して。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>394</phraseID>
+<catID>18</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Sit down.</englishPhrase>
+<romanized>suwaat-tey ku dasaay</romanized>
+<unicode>座ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>395</phraseID>
+<catID>18</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Sit up.</englishPhrase>
+<romanized>suwaat-tey ku dasaay</romanized>
+<unicode>座ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>396</phraseID>
+<catID>18</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Squeeze here.</englishPhrase>
+<romanized>ko ko wo kyut-to nigit-te kuda saa-ee</romanized>
+<unicode>ここをきゅっと握ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>397</phraseID>
+<catID>18</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Stand on the scale.</englishPhrase>
+<romanized>tai joo kei nee a gaat-te kuda saa-ee</romanized>
+<unicode>体重計にあがってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>398</phraseID>
+<catID>18</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Stand up.</englishPhrase>
+<romanized>taat-te kuda saa-ee</romanized>
+<unicode>立ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>399</phraseID>
+<catID>18</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Take a deep breath in and out.</englishPhrase>
+<romanized>sheen ko kyoo wo shee te ku da saa-ee</romanized>
+<unicode>深呼吸をしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>400</phraseID>
+<catID>18</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Touch my finger with this finger.</englishPhrase>
+<romanized>kono yubi de watashee no yubi wo sawa tte kuda saa-ee</romanized>
+<unicode>この指で私の指を触ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>401</phraseID>
+<catID>18</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Touch your finger to your nose like this.</englishPhrase>
+<romanized>kono yo u nee yubee de haanaa wo sawaat-teh kuda saa-ee</romanized>
+<unicode>このように、指で鼻を触ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>402</phraseID>
+<catID>18</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Turn around.</englishPhrase>
+<romanized>mukee wo kaa e te kuda saa-ee</romanized>
+<unicode>向きを変えてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>403</phraseID>
+<catID>18</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Turn onto this side.</englishPhrase>
+<romanized>kochi ra nee mawaat-teh kuda saa-ee</romanized>
+<unicode>こちらに回ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>404</phraseID>
+<catID>18</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Walk like this.</englishPhrase>
+<romanized>kono yo u nee aru i te kuda saa-ee</romanized>
+<unicode>このように歩いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>405</phraseID>
+<catID>18</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Walk towards me.</englishPhrase>
+<romanized>waataashee nee mu ka tte aru-ee te kuda saa-ee</romanized>
+<unicode>私に向かって歩いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>406</phraseID>
+<catID>18</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>You need an X-ray of your chest.</englishPhrase>
+<romanized>aanaataa no mune no ren toh gen shaasheen ga hitsuyoh desu</romanized>
+<unicode>貴方の胸のレントゲン写真が必要です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>407</phraseID>
+<catID>19</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Can I do anything to help you?</englishPhrase>
+<romanized>naanee kaa tetsudau koto gaa aaree maaskaa?</romanized>
+<unicode>何か手伝うことがありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>408</phraseID>
+<catID>19</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Come with me.</englishPhrase>
+<romanized>watashee to issho nee kee te kuda saa-ee</romanized>
+<unicode>私と一緒に来てください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>409</phraseID>
+<catID>19</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>I will try not to hurt you.</englishPhrase>
+<romanized>ita ku shee na i yo u nee shee maasu</romanized>
+<unicode>痛くしないようにします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>410</phraseID>
+<catID>19</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>I am going to lift you.</englishPhrase>
+<romanized>aanaataa wo mochi a ge maasu</romanized>
+<unicode>貴方を持ち上げます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>411</phraseID>
+<catID>19</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>I am going to put a needle in your arm to give you medication.</englishPhrase>
+<romanized>kusuree wo tou yaaku su ru ta me nee ude nee haaree wo saa saa naa ke re ba naaree maasen</romanized>
+<unicode>薬を投薬するために、腕に針を刺さなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>412</phraseID>
+<catID>19</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>I am sorry I hurt you.</englishPhrase>
+<romanized>ita ku shee te go me n na saa-ee</romanized>
+<unicode>痛くして、ごめんなさい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>413</phraseID>
+<catID>19</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>I must adjust the tube in your chest.</englishPhrase>
+<romanized>mune nee a ru choobu wo chosetsu shee naa ke re baa naaree maasen</romanized>
+<unicode>胸にあるチューブを調節しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>414</phraseID>
+<catID>19</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>I must change your dressings.</englishPhrase>
+<romanized>hootaay wo kaa-ena ke re baa naaree maasen</romanized>
+<unicode>包帯をかえなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>415</phraseID>
+<catID>19</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>I must cut your hair.</englishPhrase>
+<romanized>kaamee wo kee raa naa ke re ba naaree maasen</romanized>
+<unicode>髪を切らなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>416</phraseID>
+<catID>19</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>I must give you a shave.</englishPhrase>
+<romanized>hee ge wo so raa na ke re baa naaree maasen</romanized>
+<unicode>ひげをそらなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>417</phraseID>
+<catID>19</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>I must give you a suppository into your rectum.</englishPhrase>
+<romanized>komon nee zaayaaku wo-ee re naa ke re baa naaree maasen</romanized>
+<unicode>肛門に座薬を入れなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>418</phraseID>
+<catID>19</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>I must give you an injection with a needle.</englishPhrase>
+<romanized>choosha wo u taa naa ke re baa naaree maasen</romanized>
+<unicode>注射を打たなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>419</phraseID>
+<catID>19</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>I must make your bed.</englishPhrase>
+<romanized>bed-do wo seyree shee naa ke re baa naaree maasen</romanized>
+<unicode>ベッドを整理しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>420</phraseID>
+<catID>19</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>I must wash your hair.</englishPhrase>
+<romanized>aanaataa no kaamee wo aaraa waa naa ke re ba naaree maasen</romanized>
+<unicode>貴方の髪を洗わなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>421</phraseID>
+<catID>19</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>I will help you dress.</englishPhrase>
+<romanized>aanaataa ga fuku wo kee ru no wo tetsudai maasu</romanized>
+<unicode>貴方が服を着るのを手伝います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>422</phraseID>
+<catID>19</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>I will help you undress.</englishPhrase>
+<romanized>fuku wo nu gu no wo tetsudaay maasu</romanized>
+<unicode>服を脱ぐのを手伝います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>423</phraseID>
+<catID>19</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Put the gown on.</englishPhrase>
+<romanized>gaa-un wo kee te kuda saa-ee</romanized>
+<unicode>ガウンを着てください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>424</phraseID>
+<catID>19</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Put your arms around my shoulders.</englishPhrase>
+<romanized>watashee no kata nee aanaataa no udeh wo oyteh kuda saa-ee</romanized>
+<unicode>私の肩に貴方の腕を置いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>425</phraseID>
+<catID>19</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>This medicine will take the pain away.</englishPhrase>
+<romanized>ko no kusuree gaa eetaamee wo toree nozokee maasu</romanized>
+<unicode>この薬が痛みを取り除きます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>426</phraseID>
+<catID>19</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>This will help you feel better.</englishPhrase>
+<romanized>ko no koosooree de eema yoree rak-oo nee nareemas</romanized>
+<unicode>この薬で今より楽になります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>427</phraseID>
+<catID>19</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Would you like more?</englishPhrase>
+<romanized>mot-to ho shee ee deskaa?</romanized>
+<unicode>もっとほしいですか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>428</phraseID>
+<catID>20</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Everything will be done to make you feel better again.</englishPhrase>
+<romanized>kaee fookoo no tah-me nee sa-ee zen wo tsukoosu tsumohree des</romanized>
+<unicode>回復のために最善をつくすつもりです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>429</phraseID>
+<catID>20</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>You are only slightly wounded.</englishPhrase>
+<romanized>karu-ee kega desu</romanized>
+<unicode>軽い怪我です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>430</phraseID>
+<catID>20</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>You will soon be up again.</englishPhrase>
+<romanized>sugu yoku naaru desho </romanized>
+<unicode>すぐ、よくなるでしょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>431</phraseID>
+<catID>20</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Your condition is serious, but you will get better.</englishPhrase>
+<romanized>joutaay waa sheenkoku desu kedo yoku naaru to omoy maasu</romanized>
+<unicode>状態は深刻ですけど、よくなると思います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>432</phraseID>
+<catID>20</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>You will get better if you let us take care of you.</englishPhrase>
+<romanized>chee ryoh wo soorebaa keet-to yokuu nareemas</romanized>
+<unicode>治療をすればきっと良くなります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>433</phraseID>
+<catID>20</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>You are seriously hurt.</englishPhrase>
+<romanized>hee do ee kega desu</romanized>
+<unicode>ひどい怪我です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>434</phraseID>
+<catID>20</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>You are seriously ill.</englishPhrase>
+<romanized>sheenkoku na byoukee desu</romanized>
+<unicode>深刻な病気です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>435</phraseID>
+<catID>20</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>It will probably take a long time for you to get better.</englishPhrase>
+<romanized>kaayfuku su ru ma de nee naagaa ee jikaan ga ka ka ru to omoy maasu</romanized>
+<unicode>回復するまでに長い時間がかかると思います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>436</phraseID>
+<catID>20</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>The surgery was successful.</englishPhrase>
+<romanized>shujutsu waa seykou deshtaa</romanized>
+<unicode>手術は成功でした。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>437</phraseID>
+<catID>20</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We were able to help you.</englishPhrase>
+<romanized>aanaataa wo taasuke raa re maasu</romanized>
+<unicode>貴方を助けられます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>438</phraseID>
+<catID>20</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>We had to remove this.</englishPhrase>
+<romanized>ko re wo jokyo shee naa ke re ba naaree maasen</romanized>
+<unicode>これを除去しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>439</phraseID>
+<catID>20</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>We tried, but we could not save this.</englishPhrase>
+<romanized>doryoku shee maa shee ta ke do, ko re wo suku u koto wa dekee maa se nde sheetaa</romanized>
+<unicode>努力しましたけど、これを救うことはできませんでした。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>440</phraseID>
+<catID>20</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>You were hurt very badly.</englishPhrase>
+<romanized>to te mo hi do ku kega wo shee ma shee ta</romanized>
+<unicode>とてもひどく怪我をしました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>441</phraseID>
+<catID>20</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>You will be fine.</englishPhrase>
+<romanized>daijoubu de sho u</romanized>
+<unicode>大丈夫でしょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>442</phraseID>
+<catID>20</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>You will need time to heal.</englishPhrase>
+<romanized>nao ru ma de nee jeekaan ga ka ka ri ma su</romanized>
+<unicode>治るまでに時間がかかります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>443</phraseID>
+<catID>20</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>We will arrange for your transport back to your country.</englishPhrase>
+<romanized>keekoku dekeeru kotsoo shudan wo jumbi shee maasoo</romanized>
+<unicode>帰国できる交通手段を準備します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>444</phraseID>
+<catID>20</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>We will send you to another place.</englishPhrase>
+<romanized>aanaataa wo hoka no baasho nee okooroo yotey desu</romanized>
+<unicode>貴方を他の場所に送る予定です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>445</phraseID>
+<catID>20</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>You need more care.</englishPhrase>
+<romanized>motto, chiryou shee nakere ba nari masen</romanized>
+<unicode>もっと、治療しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>446</phraseID>
+<catID>20</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>You will return to your Unit when you are better.</englishPhrase>
+<romanized>mot-to kaayfuku suru to aanaataa wa butaay nee kaa-era re maasu</romanized>
+<unicode>もっと回復すると、あなたは部隊に帰られます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>447</phraseID>
+<catID>20</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>I will be back soon.</englishPhrase>
+<romanized>su gu kaa-et-teh kee maasu</romanized>
+<unicode>すぐ、帰ってきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>448</phraseID>
+<catID>20</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>I will check back later to see how you are doing.</englishPhrase>
+<romanized>aanaataa no joutaay gaa do u ka, ato de kakunin shee maasu</romanized>
+<unicode>貴方の状態がどうか、あとで確認します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>449</phraseID>
+<catID>20</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Return tomorrow so we can be sure you get better.</englishPhrase>
+<romanized>yoku naat-a no ka kakunin su ru ta me nee aasheeta ma ta kee maa su</romanized>
+<unicode>よくなったのか確認するために、明日また来ます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>450</phraseID>
+<catID>20</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Return in one week so we can be sure you get better.</englishPhrase>
+<romanized>yoku naat-ta no kaa kakunin shee na ke re ba naa raa naa ee no de is-shookango nee maa ta kee te kuda saa-ee</romanized>
+<unicode>よくなったのか確認しなければならないので、一週間後に、また来てください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>451</phraseID>
+<catID>21</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you have any of the following problems?</englishPhrase>
+<romanized>tsugee no shojo gaa aaree maaskaa?</romanized>
+<unicode>次の症状がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>452</phraseID>
+<catID>21</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Abdominal pain</englishPhrase>
+<romanized>fukutsoo</romanized>
+<unicode>腹痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>453</phraseID>
+<catID>21</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Back pain</englishPhrase>
+<romanized>yoh-tsoo</romanized>
+<unicode>腰痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>454</phraseID>
+<catID>21</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Bleeding from anywhere</englishPhrase>
+<romanized>shuk-ketsu</romanized>
+<unicode>出血</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>455</phraseID>
+<catID>21</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Bloody sputum</englishPhrase>
+<romanized>ket-taan</romanized>
+<unicode>血痰</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>456</phraseID>
+<catID>21</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Bloody stools</englishPhrase>
+<romanized>ketsuben</romanized>
+<unicode>血便</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>457</phraseID>
+<catID>21</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Chest pain</englishPhrase>
+<romanized>mune no eetaamee</romanized>
+<unicode>胸の痛み</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>458</phraseID>
+<catID>21</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Chills</englishPhrase>
+<romanized>okaan</romanized>
+<unicode>悪寒</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>459</phraseID>
+<catID>21</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Confusion inside your head</englishPhrase>
+<romanized>seysheentekee naa konran</romanized>
+<unicode>精神的な混乱</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>460</phraseID>
+<catID>21</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Cough</englishPhrase>
+<romanized>se kee</romanized>
+<unicode>せき</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>461</phraseID>
+<catID>21</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Cramps</englishPhrase>
+<romanized>keyren</romanized>
+<unicode>痙攣</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>462</phraseID>
+<catID>21</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Dark urine</englishPhrase>
+<romanized>ko-ee shoh-ben</romanized>
+<unicode>濃い小便</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>463</phraseID>
+<catID>21</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Diarrhea</englishPhrase>
+<romanized>gehree</romanized>
+<unicode>下痢</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>464</phraseID>
+<catID>21</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Ear pain</englishPhrase>
+<romanized>jeetsoo</romanized>
+<unicode>耳痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>465</phraseID>
+<catID>21</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Fever</englishPhrase>
+<romanized>netsu</romanized>
+<unicode>熱</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>466</phraseID>
+<catID>21</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Headache</englishPhrase>
+<romanized>dzutsoo</romanized>
+<unicode>頭痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>467</phraseID>
+<catID>21</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Hemorrhoids</englishPhrase>
+<romanized>jee</romanized>
+<unicode>痔</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>468</phraseID>
+<catID>21</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Infection</englishPhrase>
+<romanized>kansen</romanized>
+<unicode>感染</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>469</phraseID>
+<catID>21</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Insect bite</englishPhrase>
+<romanized>mushee saa saa re</romanized>
+<unicode>虫さされ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>470</phraseID>
+<catID>21</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Itching</englishPhrase>
+<romanized>kaa yu mee</romanized>
+<unicode>かゆみ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>471</phraseID>
+<catID>21</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Joint pain</englishPhrase>
+<romanized>kansetsutsoo</romanized>
+<unicode>関節痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>472</phraseID>
+<catID>21</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Loss of consciousness</englishPhrase>
+<romanized>isheekeefumey</romanized>
+<unicode>意識不明</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>473</phraseID>
+<catID>21</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Menstrual cramps</englishPhrase>
+<romanized>seireetsoo</romanized>
+<unicode>生理痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>474</phraseID>
+<catID>21</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Muscle pains</englishPhrase>
+<romanized>keen-nikutsoo</romanized>
+<unicode>筋肉痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>475</phraseID>
+<catID>21</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Nausea</englishPhrase>
+<romanized>haakeekey</romanized>
+<unicode>吐き気</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>476</phraseID>
+<catID>21</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Rash</englishPhrase>
+<romanized>has-shin</romanized>
+<unicode>発疹</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>477</phraseID>
+<catID>21</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Throat pain</englishPhrase>
+<romanized>nodo no eetaamee</romanized>
+<unicode>喉の痛み</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>478</phraseID>
+<catID>21</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Tooth pain</englishPhrase>
+<romanized>sheetsoo</romanized>
+<unicode>歯痛</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>479</phraseID>
+<catID>21</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Yellow eyes</englishPhrase>
+<romanized>oh-daan</romanized>
+<unicode>黄疸</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>480</phraseID>
+<catID>21</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Vaginal bleeding</englishPhrase>
+<romanized>chitsu shuk-ketsu</romanized>
+<unicode>膣出血</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>481</phraseID>
+<catID>21</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Voices inside your head</englishPhrase>
+<romanized>genchoo</romanized>
+<unicode>幻聴</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>482</phraseID>
+<catID>21</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Vomiting</englishPhrase>
+<romanized>ooto</romanized>
+<unicode>嘔吐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>483</phraseID>
+<catID>22</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>I need to give you some medicine.</englishPhrase>
+<romanized>kusuree wo shohou shee naa ke re baa naa ree maasen</romanized>
+<unicode>薬を処方しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>484</phraseID>
+<catID>22</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>This medicine is for pain.</englishPhrase>
+<romanized>chintsoozaay des</romanized>
+<unicode>鎮痛剤です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>485</phraseID>
+<catID>22</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>This medicine will fight infection.</englishPhrase>
+<romanized>koh-sey-zaay des</romanized>
+<unicode>抗生剤です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>486</phraseID>
+<catID>22</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Avoid alcohol while taking medicine.</englishPhrase>
+<romanized>kusuree wo no nde ee ru aayda waa o sake wa no maa naa ee de kuda saa-ee</romanized>
+<unicode>薬を飲んでいる間はお酒は飲まないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>487</phraseID>
+<catID>22</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Take until finished.</englishPhrase>
+<romanized>saaygo maa de non de kuda saa-ee</romanized>
+<unicode>最後まで飲んで下さい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>488</phraseID>
+<catID>22</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Take with food.</englishPhrase>
+<romanized>tabey mono to ees-sho nee fukuyou shee te kuda saa-ee</romanized>
+<unicode>食べ物と一緒に服用してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>489</phraseID>
+<catID>22</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Take on an empty stomach (one hour before or two hours after a meal).</englishPhrase>
+<romanized>koofukuji nee fukuyou shee te ku da sa i (shokugo ichijeekaan ma ta wa neejeekaan go nee)</romanized>
+<unicode>空腹時に服用してください〈食後一時間または二時間後に）。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>490</phraseID>
+<catID>22</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Drink plenty of fluids.</englishPhrase>
+<romanized>o meezu wo taa ku saan no nde kuda saa-ee</romanized>
+<unicode>お水をたくさん飲んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>491</phraseID>
+<catID>22</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Avoid taking at the same time as dairy products.</englishPhrase>
+<romanized>nyooseihin to issho nee fukuyou shee na i de ku saa-ee</romanized>
+<unicode>乳製品と一緒に服用しないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>492</phraseID>
+<catID>22</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>This medicine may change the color of urine or stool.</englishPhrase>
+<romanized>ko no kusuri no taa me nee shouben yaa daayben no iro gaa kaa waa ru kaa mo sheerey maasen</romanized>
+<unicode>この薬のために小便や大便の色が変わるかもしれません。　</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>493</phraseID>
+<catID>22</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Avoid sunlight.</englishPhrase>
+<romanized>chokusha nik-ko wo sa ke te kuda saa-ee</romanized>
+<unicode>直射日光を避けてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>494</phraseID>
+<catID>22</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Shake well.</englishPhrase>
+<romanized>yoku fu tte ku daa saa-ee</romanized>
+<unicode>よく振ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>495</phraseID>
+<catID>22</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Refrigerate (do not freeze).</englishPhrase>
+<romanized>reyzooko nee hokaan sheetey kuda saa-ee (rey toh shi naay de kuda saa-ee)</romanized>
+<unicode>冷蔵庫に保管してください（冷凍しないでください）。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>496</phraseID>
+<catID>22</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>May cause heat injury.</englishPhrase>
+<romanized>yaakedo wo su ru ka mo sheere maasen</romanized>
+<unicode>火傷をするかもしれません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>497</phraseID>
+<catID>22</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>May cause drowsiness (avoid using dangerous machinery).</englishPhrase>
+<romanized>nemuke ga sa su ka mo shee re maasen</romanized>
+<unicode>眠気がさすかもしれません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>498</phraseID>
+<catID>22</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Take by mouth.</englishPhrase>
+<romanized>kuchee kaa ra no nde kuda saa-ee</romanized>
+<unicode>口から飲んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>499</phraseID>
+<catID>22</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Place drops in affected ear.</englishPhrase>
+<romanized>kansen sheetaa mimi nee sukoshee ire te kuda saa-ee</romanized>
+<unicode>感染した耳に少し入れてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>500</phraseID>
+<catID>22</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Inject subcutaneously.</englishPhrase>
+<romanized>hikachoosha</romanized>
+<unicode>皮下注射。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>501</phraseID>
+<catID>22</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Unwrap and insert one suppository rectally.</englishPhrase>
+<romanized>ake te, zaayaaku wo hitotsu chokuchou nee saasheeko nde kuda saa-ee</romanized>
+<unicode>あけて、座薬をひとつ直腸に差し込んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>502</phraseID>
+<catID>22</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Spray in nose.</englishPhrase>
+<romanized>haanaa nee supureh shee te kuda saa-ee</romanized>
+<unicode>鼻にスプレーしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>503</phraseID>
+<catID>22</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Inhale by mouth.</englishPhrase>
+<romanized>kuchi de suiko nde kuda saa-ee</romanized>
+<unicode>口で吸い込んでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>504</phraseID>
+<catID>22</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Insert vaginally.</englishPhrase>
+<romanized>chitsu no naka nee ire te kuda saa-ee</romanized>
+<unicode>膣の中に入れてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>505</phraseID>
+<catID>22</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Place in affected eye.</englishPhrase>
+<romanized>kansen sheetaa me nee ee re te ku da saa-ee</romanized>
+<unicode>感染した目にいれてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>506</phraseID>
+<catID>22</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Apply to skin.</englishPhrase>
+<romanized>haadaa nee nut-te kuda saa-ee</romanized>
+<unicode>肌に塗ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>507</phraseID>
+<catID>22</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Allow to dissolve under tongue without swallowing (sublingual).</englishPhrase>
+<romanized>nomee koma na ee de sheeta no shta de toka shte ku da saa-ee</romanized>
+<unicode>飲み込まないで、舌の下で溶かしてください（舌の下）。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>508</phraseID>
+<catID>22</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Tablet</englishPhrase>
+<romanized>joozaay</romanized>
+<unicode>錠剤</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>509</phraseID>
+<catID>22</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Capsule</englishPhrase>
+<romanized>kaapuseru</romanized>
+<unicode>カプセル</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>510</phraseID>
+<catID>22</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Teaspoonful</englishPhrase>
+<romanized>chaa saa jee de</romanized>
+<unicode>茶さじで</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>511</phraseID>
+<catID>22</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Ounce</englishPhrase>
+<romanized>onsu</romanized>
+<unicode>オンス</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>512</phraseID>
+<catID>22</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Puff</englishPhrase>
+<romanized>heeto su-ee</romanized>
+<unicode>一吸い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>513</phraseID>
+<catID>22</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Spray</englishPhrase>
+<romanized>supureh</romanized>
+<unicode>スプレー</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>514</phraseID>
+<catID>22</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Patch</englishPhrase>
+<romanized>gaantaay</romanized>
+<unicode>眼帯</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>515</phraseID>
+<catID>22</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Drop</englishPhrase>
+<romanized>shee zu ku</romanized>
+<unicode>しずく</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>516</phraseID>
+<catID>22</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Suppository</englishPhrase>
+<romanized>zaayaaku</romanized>
+<unicode>座薬</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>517</phraseID>
+<catID>22</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Once daily</englishPhrase>
+<romanized>ichi neechee nee ik-kaay</romanized>
+<unicode>一日に一回</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>518</phraseID>
+<catID>22</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Twice daily</englishPhrase>
+<romanized>ichi neechee nee nikaay</romanized>
+<unicode>一日に二回</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>519</phraseID>
+<catID>22</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Three times daily</englishPhrase>
+<romanized>ichi neechee nee sankaay</romanized>
+<unicode>一日に三回</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>520</phraseID>
+<catID>22</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Four times daily</englishPhrase>
+<romanized>ichi neechee nee yon kaay</romanized>
+<unicode>一日に四回</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>521</phraseID>
+<catID>22</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Five times daily</englishPhrase>
+<romanized>ichi neechee nee go kaay</romanized>
+<unicode>一日に五回</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>522</phraseID>
+<catID>22</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Every twelve hours</englishPhrase>
+<romanized>joonee jeekaan goto nee</romanized>
+<unicode>十二時間ごとに</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>523</phraseID>
+<catID>22</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Every eight hours</englishPhrase>
+<romanized>hachi jikan goto nee</romanized>
+<unicode>八時間ごとに</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>524</phraseID>
+<catID>22</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Every four hours</englishPhrase>
+<romanized>yojikan goto nee</romanized>
+<unicode>四時間ごとに</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>525</phraseID>
+<catID>22</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Every two hours</englishPhrase>
+<romanized>ni jeekaan goto nee</romanized>
+<unicode>二時間ごとに</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>526</phraseID>
+<catID>22</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Every hour</englishPhrase>
+<romanized>ichi jeekaan goto nee</romanized>
+<unicode>一時間ごとに</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>527</phraseID>
+<catID>22</catID>
+<phraseOrder>45</phraseOrder>
+<englishPhrase>Every morning</englishPhrase>
+<romanized>maay asa</romanized>
+<unicode>毎朝</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>528</phraseID>
+<catID>22</catID>
+<phraseOrder>46</phraseOrder>
+<englishPhrase>Every night</englishPhrase>
+<romanized>maay baan</romanized>
+<unicode>毎晩</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>529</phraseID>
+<catID>22</catID>
+<phraseOrder>47</phraseOrder>
+<englishPhrase>For one week</englishPhrase>
+<romanized>eesshookaan</romanized>
+<unicode>一週間</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>530</phraseID>
+<catID>22</catID>
+<phraseOrder>48</phraseOrder>
+<englishPhrase>For one month</englishPhrase>
+<romanized>eek-kaagetsu</romanized>
+<unicode>一ヶ月</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>531</phraseID>
+<catID>22</catID>
+<phraseOrder>49</phraseOrder>
+<englishPhrase>Today</englishPhrase>
+<romanized>kyoh</romanized>
+<unicode>今日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>532</phraseID>
+<catID>22</catID>
+<phraseOrder>50</phraseOrder>
+<englishPhrase>Now</englishPhrase>
+<romanized>eema</romanized>
+<unicode>今</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>533</phraseID>
+<catID>22</catID>
+<phraseOrder>51</phraseOrder>
+<englishPhrase>Tomorrow</englishPhrase>
+<romanized>aashtaa</romanized>
+<unicode>明日</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>534</phraseID>
+<catID>22</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>As needed</englishPhrase>
+<romanized>hitsuyo naa daa ke</romanized>
+<unicode>必要なだけ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>535</phraseID>
+<catID>22</catID>
+<phraseOrder>53</phraseOrder>
+<englishPhrase>Pain</englishPhrase>
+<romanized>eetaamee</romanized>
+<unicode>痛み</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>536</phraseID>
+<catID>22</catID>
+<phraseOrder>54</phraseOrder>
+<englishPhrase>Fever</englishPhrase>
+<romanized>netsu</romanized>
+<unicode>熱</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>537</phraseID>
+<catID>22</catID>
+<phraseOrder>55</phraseOrder>
+<englishPhrase>Infection</englishPhrase>
+<romanized>kansen</romanized>
+<unicode>感染</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>538</phraseID>
+<catID>22</catID>
+<phraseOrder>56</phraseOrder>
+<englishPhrase>Difficulty breathing</englishPhrase>
+<romanized>kokyookon-naan</romanized>
+<unicode>呼吸困難</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>539</phraseID>
+<catID>22</catID>
+<phraseOrder>57</phraseOrder>
+<englishPhrase>Blood pressure</englishPhrase>
+<romanized>ketsu-aatsu</romanized>
+<unicode>血圧</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>540</phraseID>
+<catID>22</catID>
+<phraseOrder>58</phraseOrder>
+<englishPhrase>High cholesterol</englishPhrase>
+<romanized>ko re su te ro ru ga takai</romanized>
+<unicode>コレステロールが高い</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>541</phraseID>
+<catID>22</catID>
+<phraseOrder>59</phraseOrder>
+<englishPhrase>Allergies</englishPhrase>
+<romanized>aarey roogee</romanized>
+<unicode>アレルギー</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>542</phraseID>
+<catID>22</catID>
+<phraseOrder>60</phraseOrder>
+<englishPhrase>Allergic reaction</englishPhrase>
+<romanized>aarey roogee haan-no</romanized>
+<unicode>アレルギー反応</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>543</phraseID>
+<catID>22</catID>
+<phraseOrder>61</phraseOrder>
+<englishPhrase>Upset stomach, nausea, vomiting</englishPhrase>
+<romanized>fukootsoo, haakeekey, oh-to</romanized>
+<unicode>腹痛、吐き気、嘔吐</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>544</phraseID>
+<catID>22</catID>
+<phraseOrder>62</phraseOrder>
+<englishPhrase>Depression, sadness</englishPhrase>
+<romanized>utsubyo, kaanaasheemee</romanized>
+<unicode>鬱病、悲しみ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>545</phraseID>
+<catID>22</catID>
+<phraseOrder>63</phraseOrder>
+<englishPhrase>Congestion</englishPhrase>
+<romanized>jooketsu</romanized>
+<unicode>充血</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>546</phraseID>
+<catID>22</catID>
+<phraseOrder>64</phraseOrder>
+<englishPhrase>Cough</englishPhrase>
+<romanized>se-ki</romanized>
+<unicode>せき</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>547</phraseID>
+<catID>22</catID>
+<phraseOrder>65</phraseOrder>
+<englishPhrase>Chest pressure</englishPhrase>
+<romanized>mune no aap-paaku</romanized>
+<unicode>胸の圧迫</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>548</phraseID>
+<catID>22</catID>
+<phraseOrder>66</phraseOrder>
+<englishPhrase>Seizure</englishPhrase>
+<romanized>hos-sa</romanized>
+<unicode>発作</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>549</phraseID>
+<catID>22</catID>
+<phraseOrder>67</phraseOrder>
+<englishPhrase>Insomnia</englishPhrase>
+<romanized>fuminshou</romanized>
+<unicode>不眠症</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>550</phraseID>
+<catID>22</catID>
+<phraseOrder>68</phraseOrder>
+<englishPhrase>Discard remainder when finished.</englishPhrase>
+<romanized>o waat-taa raa nokoree wa su te te kudaa saa-ee</romanized>
+<unicode>終わったら、残りは捨ててください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>551</phraseID>
+<catID>22</catID>
+<phraseOrder>69</phraseOrder>
+<englishPhrase>Apply a thin layer to skin.</englishPhrase>
+<romanized>haadaa nee usu ku nuree tsu ke te kudaa saa-ee</romanized>
+<unicode>肌に薄く塗りつけてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>552</phraseID>
+<catID>22</catID>
+<phraseOrder>70</phraseOrder>
+<englishPhrase>Do you understand?</englishPhrase>
+<romanized>wa ka ree ma su ka?</romanized>
+<unicode>わかりますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>553</phraseID>
+<catID>22</catID>
+<phraseOrder>71</phraseOrder>
+<englishPhrase>1</englishPhrase>
+<romanized>eechee</romanized>
+<unicode>一（いち）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>554</phraseID>
+<catID>22</catID>
+<phraseOrder>72</phraseOrder>
+<englishPhrase>2</englishPhrase>
+<romanized>nee</romanized>
+<unicode>二（に）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>555</phraseID>
+<catID>22</catID>
+<phraseOrder>73</phraseOrder>
+<englishPhrase>3</englishPhrase>
+<romanized>san</romanized>
+<unicode>三（さん）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>556</phraseID>
+<catID>22</catID>
+<phraseOrder>74</phraseOrder>
+<englishPhrase>4</englishPhrase>
+<romanized>shee</romanized>
+<unicode>四（し）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>557</phraseID>
+<catID>22</catID>
+<phraseOrder>75</phraseOrder>
+<englishPhrase>5</englishPhrase>
+<romanized>go</romanized>
+<unicode>五（ご）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>558</phraseID>
+<catID>22</catID>
+<phraseOrder>76</phraseOrder>
+<englishPhrase>6</englishPhrase>
+<romanized>roku</romanized>
+<unicode>六（ろく）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>559</phraseID>
+<catID>22</catID>
+<phraseOrder>77</phraseOrder>
+<englishPhrase>7</englishPhrase>
+<romanized>sheechee</romanized>
+<unicode>七（しち）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>560</phraseID>
+<catID>22</catID>
+<phraseOrder>78</phraseOrder>
+<englishPhrase>8</englishPhrase>
+<romanized>haachee</romanized>
+<unicode>八（はち）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>561</phraseID>
+<catID>22</catID>
+<phraseOrder>79</phraseOrder>
+<englishPhrase>9</englishPhrase>
+<romanized>kyoo</romanized>
+<unicode>九（きゅう）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>562</phraseID>
+<catID>22</catID>
+<phraseOrder>80</phraseOrder>
+<englishPhrase>10</englishPhrase>
+<romanized>joo</romanized>
+<unicode>十（じゅう）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>563</phraseID>
+<catID>22</catID>
+<phraseOrder>81</phraseOrder>
+<englishPhrase>11</englishPhrase>
+<romanized>joo-eechee</romanized>
+<unicode>十一（じゅういち）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>564</phraseID>
+<catID>22</catID>
+<phraseOrder>82</phraseOrder>
+<englishPhrase>12</englishPhrase>
+<romanized>joo-nee</romanized>
+<unicode>十二（じゅうに）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>565</phraseID>
+<catID>22</catID>
+<phraseOrder>83</phraseOrder>
+<englishPhrase>13</englishPhrase>
+<romanized>joo-san</romanized>
+<unicode>十三（じゅうさん）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>566</phraseID>
+<catID>22</catID>
+<phraseOrder>84</phraseOrder>
+<englishPhrase>14</englishPhrase>
+<romanized>joo-shee</romanized>
+<unicode>十四（じゅうし）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>567</phraseID>
+<catID>22</catID>
+<phraseOrder>85</phraseOrder>
+<englishPhrase>15</englishPhrase>
+<romanized>joo-go</romanized>
+<unicode>十五（じゅうご）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>568</phraseID>
+<catID>22</catID>
+<phraseOrder>86</phraseOrder>
+<englishPhrase>16</englishPhrase>
+<romanized>joo-roku</romanized>
+<unicode>十六（じゅうろく）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>569</phraseID>
+<catID>22</catID>
+<phraseOrder>87</phraseOrder>
+<englishPhrase>17</englishPhrase>
+<romanized>joo-shichee</romanized>
+<unicode>十七（じゅうしち）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>570</phraseID>
+<catID>22</catID>
+<phraseOrder>88</phraseOrder>
+<englishPhrase>18</englishPhrase>
+<romanized>joo-haachee</romanized>
+<unicode>十八（じゅうはち）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>571</phraseID>
+<catID>22</catID>
+<phraseOrder>89</phraseOrder>
+<englishPhrase>19</englishPhrase>
+<romanized>joo-kyoo</romanized>
+<unicode>十九（じゅうきゅう）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>572</phraseID>
+<catID>22</catID>
+<phraseOrder>90</phraseOrder>
+<englishPhrase>20</englishPhrase>
+<romanized>nee- joo</romanized>
+<unicode>二十（にじゅう）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>573</phraseID>
+<catID>22</catID>
+<phraseOrder>91</phraseOrder>
+<englishPhrase>30</englishPhrase>
+<romanized>sanjoo</romanized>
+<unicode>三十（さんじゅう）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>574</phraseID>
+<catID>22</catID>
+<phraseOrder>92</phraseOrder>
+<englishPhrase>40</englishPhrase>
+<romanized>yonjoo</romanized>
+<unicode>よんじゅう〈四十）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>575</phraseID>
+<catID>22</catID>
+<phraseOrder>93</phraseOrder>
+<englishPhrase>50</englishPhrase>
+<romanized>gojoo</romanized>
+<unicode>五十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>576</phraseID>
+<catID>22</catID>
+<phraseOrder>94</phraseOrder>
+<englishPhrase>60</englishPhrase>
+<romanized>rokujoo</romanized>
+<unicode>六十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>577</phraseID>
+<catID>22</catID>
+<phraseOrder>95</phraseOrder>
+<englishPhrase>70</englishPhrase>
+<romanized>naanaajoo</romanized>
+<unicode>七十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>578</phraseID>
+<catID>22</catID>
+<phraseOrder>96</phraseOrder>
+<englishPhrase>80</englishPhrase>
+<romanized>hachijoo</romanized>
+<unicode>八十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>579</phraseID>
+<catID>22</catID>
+<phraseOrder>97</phraseOrder>
+<englishPhrase>90</englishPhrase>
+<romanized>kyoojoo</romanized>
+<unicode>九十</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>580</phraseID>
+<catID>22</catID>
+<phraseOrder>98</phraseOrder>
+<englishPhrase>100</englishPhrase>
+<romanized>hyaaku</romanized>
+<unicode>百</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>581</phraseID>
+<catID>22</catID>
+<phraseOrder>99</phraseOrder>
+<englishPhrase>500</englishPhrase>
+<romanized>go-hyaaku</romanized>
+<unicode>五百</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>582</phraseID>
+<catID>22</catID>
+<phraseOrder>100</phraseOrder>
+<englishPhrase>1,000</englishPhrase>
+<romanized>ees-sen</romanized>
+<unicode>一千</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>583</phraseID>
+<catID>22</catID>
+<phraseOrder>101</phraseOrder>
+<englishPhrase>10,000</englishPhrase>
+<romanized>eecheemaan</romanized>
+<unicode>一万</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>584</phraseID>
+<catID>22</catID>
+<phraseOrder>102</phraseOrder>
+<englishPhrase>100,000</englishPhrase>
+<romanized>joomaan</romanized>
+<unicode>十万</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>585</phraseID>
+<catID>22</catID>
+<phraseOrder>103</phraseOrder>
+<englishPhrase>1,000,000</englishPhrase>
+<romanized>hyakumaan</romanized>
+<unicode>百万</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>586</phraseID>
+<catID>23</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you have any of the following diseases?</englishPhrase>
+<romanized>tsugee nee no be ru byoh-kee gaa aaree maaskaa?</romanized>
+<unicode>次に述べる病気がありますか？</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>587</phraseID>
+<catID>23</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>AIDS</englishPhrase>
+<romanized>aidz (koten seimen ekee fuzen shokogun)</romanized>
+<unicode>エイズ（後天性免疫不全症候群）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>588</phraseID>
+<catID>23</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Anemia</englishPhrase>
+<romanized>hinketsu</romanized>
+<unicode>貧血</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>589</phraseID>
+<catID>23</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Arthritis</englishPhrase>
+<romanized>kaansetsuen</romanized>
+<unicode>関節炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>590</phraseID>
+<catID>23</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Asthma</englishPhrase>
+<romanized>zensoku</romanized>
+<unicode>喘息</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>591</phraseID>
+<catID>23</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Bronchitis</englishPhrase>
+<romanized>keekaanshien</romanized>
+<unicode>気管支炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>592</phraseID>
+<catID>23</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Cancer</englishPhrase>
+<romanized>gaan</romanized>
+<unicode>癌</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>593</phraseID>
+<catID>23</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Chickenpox</englishPhrase>
+<romanized>suito</romanized>
+<unicode>水痘</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>594</phraseID>
+<catID>23</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Cholera</englishPhrase>
+<romanized>koreeraa</romanized>
+<unicode>コレラ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>595</phraseID>
+<catID>23</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Common cold</englishPhrase>
+<romanized>futsu no kaa ze</romanized>
+<unicode>普通のかぜ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>596</phraseID>
+<catID>23</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Depression</englishPhrase>
+<romanized>utsubyo</romanized>
+<unicode>鬱病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>597</phraseID>
+<catID>23</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Diabetes</englishPhrase>
+<romanized>tonyobyo</romanized>
+<unicode>糖尿病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>598</phraseID>
+<catID>23</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Diphtheria</englishPhrase>
+<romanized>jefutereeya</romanized>
+<unicode>ジフテリア</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>599</phraseID>
+<catID>23</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Disease of the blood</englishPhrase>
+<romanized>ketsuekee shik-kan</romanized>
+<unicode>血液疾患</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>600</phraseID>
+<catID>23</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Eczema</englishPhrase>
+<romanized>shees-sheen</romanized>
+<unicode>湿疹</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>601</phraseID>
+<catID>23</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Fungus</englishPhrase>
+<romanized>keen roo-ee nee yo ru kansen byoh</romanized>
+<unicode>菌類による感染症</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>602</phraseID>
+<catID>23</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Gonorrhea</englishPhrase>
+<romanized>reem byo</romanized>
+<unicode>淋病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>603</phraseID>
+<catID>23</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Heart failure</englishPhrase>
+<romanized>shin fuzen</romanized>
+<unicode>心不全</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>604</phraseID>
+<catID>23</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Heart murmur</englishPhrase>
+<romanized>shinzou zatsuon</romanized>
+<unicode>心臓雑音</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>605</phraseID>
+<catID>23</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Hepatitis</englishPhrase>
+<romanized>kan-en</romanized>
+<unicode>肝炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>606</phraseID>
+<catID>23</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Herpes</englishPhrase>
+<romanized>he ru pe su (taijouhoushin)</romanized>
+<unicode>ヘルペス（帯状疱疹）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>607</phraseID>
+<catID>23</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Infection anywhere</englishPhrase>
+<romanized>kansen shee taa to ko ro</romanized>
+<unicode>感染したところ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>608</phraseID>
+<catID>23</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Influenza</englishPhrase>
+<romanized>een fu ru enza</romanized>
+<unicode>インフルエンザ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>609</phraseID>
+<catID>23</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Insect bite that is serious</englishPhrase>
+<romanized>hee do ku mushee nee saasaa reru</romanized>
+<unicode>ひどく虫にさされる</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>610</phraseID>
+<catID>23</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Yellow skin</englishPhrase>
+<romanized>oodaan</romanized>
+<unicode>黄疸</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>611</phraseID>
+<catID>23</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Malaria</englishPhrase>
+<romanized>maaraareeya</romanized>
+<unicode>マラリア</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>612</phraseID>
+<catID>23</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Measles</englishPhrase>
+<romanized>haa shee kaa</romanized>
+<unicode>はしか</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>613</phraseID>
+<catID>23</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Mental disease</englishPhrase>
+<romanized>seishimbyo</romanized>
+<unicode>精神病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>614</phraseID>
+<catID>23</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Mumps</englishPhrase>
+<romanized>ryu ko sei jee kaa sen en / otaa fuku kaaze</romanized>
+<unicode>流行性耳下腺炎 / おたふくかぜ</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>615</phraseID>
+<catID>23</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Nervous breakdown</englishPhrase>
+<romanized>shin kei sui jaaku</romanized>
+<unicode>神経衰弱</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>616</phraseID>
+<catID>23</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Paratyphoid fever</englishPhrase>
+<romanized>paaraa chee fu su</romanized>
+<unicode>パラチフス</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>617</phraseID>
+<catID>23</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Peritonsillar abscess</englishPhrase>
+<romanized>fukumakuen</romanized>
+<unicode>腹膜炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>618</phraseID>
+<catID>23</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>Plague</englishPhrase>
+<romanized>densembyo</romanized>
+<unicode>伝染病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>619</phraseID>
+<catID>23</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>Pleuritis</englishPhrase>
+<romanized>rokumakuen</romanized>
+<unicode>肋膜炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>620</phraseID>
+<catID>23</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Pneumonia</englishPhrase>
+<romanized>haien</romanized>
+<unicode>肺炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>621</phraseID>
+<catID>23</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Polio</englishPhrase>
+<romanized>shouneemaahee</romanized>
+<unicode>小児麻痺</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>622</phraseID>
+<catID>23</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Rabies</englishPhrase>
+<romanized>kyokembyo</romanized>
+<unicode>狂犬病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>623</phraseID>
+<catID>23</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>Ringworm</englishPhrase>
+<romanized>taamooshee</romanized>
+<unicode>たむし</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>624</phraseID>
+<catID>23</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Scabies</englishPhrase>
+<romanized>kaaysen</romanized>
+<unicode>疥癬</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>625</phraseID>
+<catID>23</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Scarlet fever</englishPhrase>
+<romanized>shoh koh netsu</romanized>
+<unicode>しょう紅熱</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>626</phraseID>
+<catID>23</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Scurvy</englishPhrase>
+<romanized>kaayketsu byoh</romanized>
+<unicode>壊血病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>627</phraseID>
+<catID>23</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>Sexually transmitted disease (STD)</englishPhrase>
+<romanized>sei byoh</romanized>
+<unicode>性病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>628</phraseID>
+<catID>23</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>Skin disease</englishPhrase>
+<romanized>hifu byoh</romanized>
+<unicode>皮膚病</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>629</phraseID>
+<catID>23</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>Smallpox</englishPhrase>
+<romanized>ten-nento</romanized>
+<unicode>天然痘</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>630</phraseID>
+<catID>23</catID>
+<phraseOrder>45</phraseOrder>
+<englishPhrase>Syphilis</englishPhrase>
+<romanized>baaydoku</romanized>
+<unicode>梅毒</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>631</phraseID>
+<catID>23</catID>
+<phraseOrder>46</phraseOrder>
+<englishPhrase>Tapeworm infection</englishPhrase>
+<romanized>saanaa daa mushee kansen</romanized>
+<unicode>サナダムシ感染</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>632</phraseID>
+<catID>23</catID>
+<phraseOrder>47</phraseOrder>
+<englishPhrase>Tetanus</englishPhrase>
+<romanized>hashoufu</romanized>
+<unicode>破傷風</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>633</phraseID>
+<catID>23</catID>
+<phraseOrder>48</phraseOrder>
+<englishPhrase>Tonsillitis</englishPhrase>
+<romanized>hentousen en</romanized>
+<unicode>扁桃腺炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>634</phraseID>
+<catID>23</catID>
+<phraseOrder>49</phraseOrder>
+<englishPhrase>Trench mouth</englishPhrase>
+<romanized>koukoo en</romanized>
+<unicode>口腔炎</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>635</phraseID>
+<catID>23</catID>
+<phraseOrder>50</phraseOrder>
+<englishPhrase>Trichinosis</englishPhrase>
+<romanized>sem-mochu sho</romanized>
+<unicode>旋毛虫症</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>636</phraseID>
+<catID>23</catID>
+<phraseOrder>51</phraseOrder>
+<englishPhrase>Tuberculosis</englishPhrase>
+<romanized>haaykek-kaku</romanized>
+<unicode>肺結核</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>637</phraseID>
+<catID>23</catID>
+<phraseOrder>52</phraseOrder>
+<englishPhrase>Typhoid fever</englishPhrase>
+<romanized>chochifusu</romanized>
+<unicode>腸チフス</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>638</phraseID>
+<catID>23</catID>
+<phraseOrder>53</phraseOrder>
+<englishPhrase>Warts</englishPhrase>
+<romanized>eebo</romanized>
+<unicode>疣（いぼ）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>639</phraseID>
+<catID>23</catID>
+<phraseOrder>54</phraseOrder>
+<englishPhrase>Worms</englishPhrase>
+<romanized>keeseichu</romanized>
+<unicode>寄生虫</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>640</phraseID>
+<catID>23</catID>
+<phraseOrder>55</phraseOrder>
+<englishPhrase>Yellow fever</englishPhrase>
+<romanized>onetsubyo</romanized>
+<unicode>黄熱病</unicode>
+</dbo_langKit>
+</dataroot>

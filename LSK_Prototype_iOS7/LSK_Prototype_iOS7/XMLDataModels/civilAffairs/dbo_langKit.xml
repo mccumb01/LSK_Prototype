@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2011-07-30T08:32:10">
+<dbo_langKit>
+<phraseID>1</phraseID>
+<catID>1</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do you understand this language?</englishPhrase>
+<romanized>kono kotobaa gaa waakaaree maskaa?</romanized>
+<unicode>この言葉が分かりますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>2</phraseID>
+<catID>1</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>We are here to help you.</englishPhrase>
+<romanized>aanaataa wo taasookehnee keemaashtaa</romanized>
+<unicode>あなたを助けに来ました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>3</phraseID>
+<catID>1</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>I do not understand.</englishPhrase>
+<romanized>waakaareemaassehm</romanized>
+<unicode>分かりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>4</phraseID>
+<catID>1</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>There is no one available who speaks Japanese.</englishPhrase>
+<romanized>neehongo gaa haanaasehroo heeto gaa eemaasehm</romanized>
+<unicode>日本語が話せる人がいません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>5</phraseID>
+<catID>1</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>I understand.</englishPhrase>
+<romanized>waakaareemashtaa</romanized>
+<unicode>分かりました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>6</phraseID>
+<catID>1</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Repeat please.</englishPhrase>
+<romanized>kooree kaaeh shteh kudaasaay</romanized>
+<unicode>くり返してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>7</phraseID>
+<catID>1</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Come with me.</englishPhrase>
+<romanized>waataash tow ees-sho nee keeteh kudaasaay</romanized>
+<unicode>私と一緒に来てください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>8</phraseID>
+<catID>1</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Be quiet.</englishPhrase>
+<romanized>sheezookaa nee shteh kudaasaay</romanized>
+<unicode>静かにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>9</phraseID>
+<catID>1</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Describe it with gestures.</englishPhrase>
+<romanized>meebooreedeh oshee ehteh kudaasay</romanized>
+<unicode>身振りで教えてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>10</phraseID>
+<catID>1</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Do not get excited.</englishPhrase>
+<romanized>koh whoon sheenaaee deh kudaasaay</romanized>
+<unicode>興奮しないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>11</phraseID>
+<catID>1</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Do what I ask.</englishPhrase>
+<romanized>waataasheegaa eettaa toreenee shteh kudaasaay</romanized>
+<unicode>私が言った通りにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>12</phraseID>
+<catID>1</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Do you mean "no"?</englishPhrase>
+<romanized>no deskaa?</romanized>
+<unicode>「NO」ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>13</phraseID>
+<catID>1</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Do you mean "yes"?</englishPhrase>
+<romanized>yes deskaa?</romanized>
+<unicode>「YES」ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>14</phraseID>
+<catID>1</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>I will get an interpreter.</englishPhrase>
+<romanized>tsooyaaku wo yoh ee sheemaas</romanized>
+<unicode>通訳を用意します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>15</phraseID>
+<catID>1</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Is this it?</englishPhrase>
+<romanized>koreh deskaa?</romanized>
+<unicode>これですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>16</phraseID>
+<catID>1</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Yes.</englishPhrase>
+<romanized>haay</romanized>
+<unicode>はい。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>17</phraseID>
+<catID>1</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>No.</englishPhrase>
+<romanized>eeyeh</romanized>
+<unicode>いいえ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>18</phraseID>
+<catID>1</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Point to it.</englishPhrase>
+<romanized>soreh wo yoobeesaashteh kudaasaay</romanized>
+<unicode>それを指差してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>19</phraseID>
+<catID>1</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Relax.</englishPhrase>
+<romanized>reeraak-kusu shteh kudaasaay</romanized>
+<unicode>リラックスしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>20</phraseID>
+<catID>1</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Show me.</englishPhrase>
+<romanized>meesehteh kudaasaay</romanized>
+<unicode>見せてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>21</phraseID>
+<catID>1</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Write your answer here.</englishPhrase>
+<romanized>koko nee kotaaeh wo kaayteh kudaasaay</romanized>
+<unicode>ここに答えを書いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>22</phraseID>
+<catID>1</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Please.</englishPhrase>
+<romanized>dohzo</romanized>
+<unicode>どうぞ。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>23</phraseID>
+<catID>1</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Thank you.</englishPhrase>
+<romanized>aareegaatoh gozaaeemas</romanized>
+<unicode>ありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>24</phraseID>
+<catID>1</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>You are welcome.</englishPhrase>
+<romanized>doh eetaashee maashteh</romanized>
+<unicode>どういたしまして。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>25</phraseID>
+<catID>1</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Thank you for talking with me.</englishPhrase>
+<romanized>haanaashteh kureyte aareegaatoh gozaaeemas</romanized>
+<unicode>話してくれてありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>26</phraseID>
+<catID>1</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>I will talk with you again.</englishPhrase>
+<romanized>maataa ees-shoh nee haanaashee maashoh</romanized>
+<unicode>また一緒に話しましょう。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>27</phraseID>
+<catID>1</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Good-bye.</englishPhrase>
+<romanized>saayohnaaraa</romanized>
+<unicode>さようなら。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>28</phraseID>
+<catID>2</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>What is your given name?</englishPhrase>
+<romanized>o naamaaeh waa naan deskaa?</romanized>
+<unicode>お名前は何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>29</phraseID>
+<catID>2</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>What is your family name?</englishPhrase>
+<romanized>myodjeewaa naan deskaa?</romanized>
+<unicode>名字は何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>30</phraseID>
+<catID>2</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>What is your nationality?</englishPhrase>
+<romanized>kokoosekee waa docheeraa deskaa?</romanized>
+<unicode>国籍はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>31</phraseID>
+<catID>2</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>What country were you born in?</englishPhrase>
+<romanized>dono kunee deh oommaaree masheetaakaa?</romanized>
+<unicode>どの国で生まれましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>32</phraseID>
+<catID>2</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>How old are you?</englishPhrase>
+<romanized>naan saaee deskaa?</romanized>
+<unicode>何才ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>33</phraseID>
+<catID>2</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Do you have an identity card?</englishPhrase>
+<romanized>meeboon shohmeysho gaa aareemaaskaa?</romanized>
+<unicode>身分証明書がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>34</phraseID>
+<catID>2</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Show me your identification.</englishPhrase>
+<romanized>meeboon shohmeysho wo meesehteh kudaasaay</romanized>
+<unicode>身分証明書を見せてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>35</phraseID>
+<catID>2</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>How many people live in this area?</englishPhrase>
+<romanized>kono chee eekee no jeengkoh waa?</romanized>
+<unicode>この地域の人口は。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>36</phraseID>
+<catID>2</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Who is the leader of this community?</englishPhrase>
+<romanized>kono chee eekee no sheedohshaa waa daareh deskaa?</romanized>
+<unicode>この地域の指導者は誰ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>37</phraseID>
+<catID>2</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>What is his name?</englishPhrase>
+<romanized>kaareh no naamaaeh waa naan deskaa?</romanized>
+<unicode>彼の名前は何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>38</phraseID>
+<catID>2</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Please write down his name.</englishPhrase>
+<romanized>kaareh no naamaaeh wo kaaeetey kudaasaay</romanized>
+<unicode>彼の名前を書いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>39</phraseID>
+<catID>2</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Show us the leader.</englishPhrase>
+<romanized>sheedohshaa waa doko nee eemaaskaa?</romanized>
+<unicode>指導者はどこにいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>40</phraseID>
+<catID>2</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>How many men and women live in this community?</englishPhrase>
+<romanized>kono chee eekee nee waa otoko no heeto tow on-na no heetogaa naan neen soondeh eemaaskaa?</romanized>
+<unicode>この地域には男の人と女の人が何人住んでいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>41</phraseID>
+<catID>2</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>How many children live here?</englishPhrase>
+<romanized>kodomowaa naan neen soondeh eemaaskaa?</romanized>
+<unicode>子供は何人住んでいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>42</phraseID>
+<catID>2</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Are there schools here for the children?</englishPhrase>
+<romanized>kodomo no gaak-koh gaa aareemaskaa?</romanized>
+<unicode>子供の学校がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>43</phraseID>
+<catID>2</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Is there enough potable water for the people?</englishPhrase>
+<romanized>eeng ryoh suee gaa jyoobun nee aareemaaskaa?</romanized>
+<unicode>飲料水が十分にありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>44</phraseID>
+<catID>2</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Is there a water well?</englishPhrase>
+<romanized>eedogaa aareemaskaa?</romanized>
+<unicode>井戸がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>45</phraseID>
+<catID>2</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Is there a public fountain?</englishPhrase>
+<romanized>meezoonomeebaa gaa aareemaaskaa?it is not match with the audio</romanized>
+<unicode>水飲み場がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>46</phraseID>
+<catID>2</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Are there any medics here?</englishPhrase>
+<romanized>kyoogo een gaa eemaaskaa?</romanized>
+<unicode>救護員がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>47</phraseID>
+<catID>2</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Are there any engineers?</englishPhrase>
+<romanized>geeshee gaa eemaaskaa?</romanized>
+<unicode>技師がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>48</phraseID>
+<catID>2</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Are there any teachers?</englishPhrase>
+<romanized>kyohshee gaa eemaaskaa?</romanized>
+<unicode>教師がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>49</phraseID>
+<catID>2</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Are there empty buildings here?</englishPhrase>
+<romanized>aaeeteh eeroo taatehmono gaa aareemaaskaa?</romanized>
+<unicode>空いている建物がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>50</phraseID>
+<catID>2</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Is there a local police force?</englishPhrase>
+<romanized>keyhsaatsu gaa aareemaaskaa?</romanized>
+<unicode>警察がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>51</phraseID>
+<catID>2</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Who is responsible for public safety here?</englishPhrase>
+<romanized>kono chee eekee no koh aan sekee neenshaa waa daareh deskaa?</romanized>
+<unicode>この地域の公安責任者は誰ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>52</phraseID>
+<catID>2</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Whose responsibility is fire protection?</englishPhrase>
+<romanized>bohkaa waa daareh no sekeeneen deskaa?</romanized>
+<unicode>防火は誰の責任ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>53</phraseID>
+<catID>2</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Do you have fire fighting equipment?</englishPhrase>
+<romanized>shoh boh no taameh no sohbee gaa aareemaaskaa?</romanized>
+<unicode>消防のための装備がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>54</phraseID>
+<catID>2</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Do you have a fire engine?</englishPhrase>
+<romanized>shoh boh shaa gaa aareemaaskaa?</romanized>
+<unicode>消防車がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>55</phraseID>
+<catID>2</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Who do you call in case of an accident? </englishPhrase>
+<romanized>jeeko gaa okeetaaraa daareh wo yobee maaskaa?</romanized>
+<unicode>事故が起きたら誰を呼びますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>56</phraseID>
+<catID>2</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Are there operational emergency vehicles here?</englishPhrase>
+<romanized>koko nee waa kaadoh dehkeeroo keen kyoo shaa ryoh gaa aareemaaskaa?</romanized>
+<unicode>ここには稼働できる緊急車両がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>57</phraseID>
+<catID>2</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>How many telephones do you have in the area?</englishPhrase>
+<romanized>kono chee eekee nee denwaa gaa naan daay aareemaaskaa?</romanized>
+<unicode>この地域に電話が何台ありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>58</phraseID>
+<catID>2</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>How many homes have telephones here?</englishPhrase>
+<romanized>denwaa gaa aaroo oochee waa naan ken aareemaaskaa?</romanized>
+<unicode>電話がある家は何軒ありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>59</phraseID>
+<catID>2</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Is there a functioning police station?</englishPhrase>
+<romanized>sey jyoh nee keenoh shteh eeroo keyhsaatsu sho gaa aareemaaskaa?</romanized>
+<unicode>正常に機能している警察署がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>60</phraseID>
+<catID>2</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>How many personnel are still on the job?</englishPhrase>
+<romanized>maadaa shokumoo nee tsu eeteh eeroo jeeng een waa naan neeng deskaa?</romanized>
+<unicode>まだ職務に就いている人員は何人ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>61</phraseID>
+<catID>2</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>What's the means of communication?</englishPhrase>
+<romanized>tsoosheeng shudaan waa naan deskaa?</romanized>
+<unicode>通信手段は何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>62</phraseID>
+<catID>2</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Can the police station function normally without U.S. assistance?</englishPhrase>
+<romanized>beyhgoon no kyoh ryoku gaa naaktehmo keyh saatsu waa sey jyoh nee keenoh sheemaaskaa?</romanized>
+<unicode>米軍の協力が無くても警察は正常に機能しますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>63</phraseID>
+<catID>2</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Can U.S. forces depend on the local police to perform their duties as needed?</englishPhrase>
+<romanized>heetsuyoh naa neenmoo wo sueekoh suroo taameh beyhgoon waa jeemoto no keyh saatsu wo taayoree nee suroo kotogaa dehkeemaaska?</romanized>
+<unicode>必要な任務を遂行するため米軍は地元の警察を頼りにすることができますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>64</phraseID>
+<catID>2</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>How many vehicles are available?</englishPhrase>
+<romanized>tsukaaeeroo shah ryoh waa naan daay aareemaaskaa?</romanized>
+<unicode>使える車両は何台ありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>65</phraseID>
+<catID>2</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>What is the telephone number?</englishPhrase>
+<romanized>denwaa baangoh waa naam baan deskaa?</romanized>
+<unicode>電話番号は何番ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>66</phraseID>
+<catID>2</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Do you use radio communications?</englishPhrase>
+<romanized>moo sen kee wo tsukaaee maaskaa?</romanized>
+<unicode>無線機を使いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>67</phraseID>
+<catID>3</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Is there a medical facility nearby?</englishPhrase>
+<romanized>cheekaaku nee eeryoh sheesehtsu gaa aareemaaskaa?</romanized>
+<unicode>近くに医療施設がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>68</phraseID>
+<catID>3</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Are there any doctors in the area?</englishPhrase>
+<romanized>sono chee eekee neewaa eeshaa gaa eemaaskaa?</romanized>
+<unicode>その地域には医者がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>69</phraseID>
+<catID>3</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>How many beds do you have at the medical facility?</englishPhrase>
+<romanized>sono eeryoh sheesehtsu neewaa bed-do waa eekutsoo aareemaaskaa?</romanized>
+<unicode>その医療施設にベッドはいくつありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>70</phraseID>
+<catID>3</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>How many people work at the hospital?</englishPhrase>
+<romanized>byoh eeng deewaa naan neeng haataaraaeeteh eemaskaa?</romanized>
+<unicode>病院では何人働いていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>71</phraseID>
+<catID>3</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>How many nurses?</englishPhrase>
+<romanized>kaang goshee waa naan neeng deskaa?</romanized>
+<unicode>看護士は何人ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>72</phraseID>
+<catID>3</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Has there been any infectious disease in the area lately? </englishPhrase>
+<romanized>kono chee eekee deh saaee keeng deng seng byoh gaa okoree maashtaakaa?</romanized>
+<unicode>この地域で最近伝染病が起こりましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>73</phraseID>
+<catID>3</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Is there a pharmacy?</englishPhrase>
+<romanized>yaak-kyoku gaa aareemaaskaa?</romanized>
+<unicode>薬局がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>74</phraseID>
+<catID>3</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Is there a building where we could set up a medical facility?</englishPhrase>
+<romanized>eeryoh sehtsubee wo set-chee dehkeeru taatehmono gaa aareemaaskaa?</romanized>
+<unicode>医療設備を設置できる建物がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>75</phraseID>
+<catID>3</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>We would like to talk to people about immunization.</englishPhrase>
+<romanized>eep-paan sheemeeng tow yoboh sehs-shu nee tsueeteh haanaasheetaay to omoee mas</romanized>
+<unicode>一般市民と予防接種について話したいと思います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>76</phraseID>
+<catID>3</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We would like to talk to people about sanitization.</englishPhrase>
+<romanized>eep-paan sheemeeng tow koh shoo ey sey nee tsueeteh haanaasheetaay tow omoee mas</romanized>
+<unicode>一般市民と公衆衛生について話したいと思います。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>77</phraseID>
+<catID>3</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Is there a medical emergency facility?</englishPhrase>
+<romanized>kyoo kyoo eeryoh sheesehtsu gaa aareemaaskaa?</romanized>
+<unicode>救急医療施設がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>78</phraseID>
+<catID>3</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>We have to establish a safe working environment.</englishPhrase>
+<romanized>aanzen naa saagyoh kangkyoh wo kaakooreetsu sheenaa kehrehbaa naareemaasen</romanized>
+<unicode>安全な作業環境を確立しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>79</phraseID>
+<catID>3</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>We have to hire medical doctors for this facility.</englishPhrase>
+<romanized>kono sheesehtsu nee eeshaa wo yaatowaanaa kehrehbaa naareemaasen</romanized>
+<unicode>この施設に医師を雇わなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>80</phraseID>
+<catID>3</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>We have to hire nurses for this facility.</englishPhrase>
+<romanized>kono sheesehtsu nee kang goshee wo yaatowaanaa kehrehbaa naareemaasen</romanized>
+<unicode>この施設に看護士を雇わなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>81</phraseID>
+<catID>3</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>We have to hire office personnel for this facility.</englishPhrase>
+<romanized>kono sheesehtsu nee jeemooeeng wo yaatowaanaa kehrehbaa naareemaasen</romanized>
+<unicode>この施設に事務員を雇わなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>82</phraseID>
+<catID>3</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>We have to hire a custodian for this facility.</englishPhrase>
+<romanized>kono sheesehtsu nee yohmooeeng wo yaatowaanaa kehrehbaa naareemaasen</romanized>
+<unicode>この施設に用務員を雇わなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>83</phraseID>
+<catID>3</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Are the local facilities and personnel able to care for the current casualties without U.S. aid?</englishPhrase>
+<romanized>beyhgoon no kyoh ryoku gaa naak tehmo byoh eeng waa genzaay no shoh byoh shaa nee taaeesho dehkeemaaskaa?</romanized>
+<unicode>米軍の協力が無くても病院は現在の傷病者に対処できますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>84</phraseID>
+<catID>3</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Is the local drinking water potable?</englishPhrase>
+<romanized>kono chee eekee no meezoo waa nomeh maaskaa?</romanized>
+<unicode>この地域の水は飲めますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>85</phraseID>
+<catID>3</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Who determined that the water is potable?</englishPhrase>
+<romanized>eenryoh suee no haangtey waa daareh gaa okonaay maaskaa?</romanized>
+<unicode>飲料水の判定は誰が行いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>86</phraseID>
+<catID>4</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Who is in charge of repairing roads?</englishPhrase>
+<romanized>dohro hoshoo no tantoh waa docheeraa deskaa?</romanized>
+<unicode>道路補修の担当はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>87</phraseID>
+<catID>4</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Do you have a map of this area?</englishPhrase>
+<romanized>kono chee eekee no chizu gaa aareemaaskaa?</romanized>
+<unicode>この地域の地図がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>88</phraseID>
+<catID>4</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>We will provide assistance in building roads at this location.</englishPhrase>
+<romanized>kono baasho no dohro kensehtsu nee kyoh ryoku sheemaas</romanized>
+<unicode>この場所の道路建設に協力します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>89</phraseID>
+<catID>4</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Can you provide a road map of this area?</englishPhrase>
+<romanized>kono chee eekee no dohro chizu wo eetaadaakeh maaskaa?</romanized>
+<unicode>この地域の道路地図をいただけますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>90</phraseID>
+<catID>4</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Do you have any machinery for road building?</englishPhrase>
+<romanized>dohro wo tsukooroo taameh no kensehtsu keekaay gaa aareemaaskaa?</romanized>
+<unicode>道路を造るための建設機械がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>91</phraseID>
+<catID>4</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Do you have any machinery for road repairs?</englishPhrase>
+<romanized>dohro shooree no taameh no kensehtsu keekaay gaa aareemaaskaa?</romanized>
+<unicode>道路修理のための建設機械がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>92</phraseID>
+<catID>4</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>We have to set up storage locations for supply materials in the area.</englishPhrase>
+<romanized>sono chee eekee no hokyoo boos-shee no shoosehkee baasho wo set-chee sheenaa kehrehbaa naareemaasen</romanized>
+<unicode>その地域の補給物資の集積場所を設置しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>93</phraseID>
+<catID>4</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Are there any railroad tracks in this area?</englishPhrase>
+<romanized>kono chee eekee nee tetsudoh gaa aareemaaskaa?</romanized>
+<unicode>この地域に鉄道がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>94</phraseID>
+<catID>4</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do you have transportation facilities in this area?</englishPhrase>
+<romanized>kono chee eekee nee koh tsoo keekang gaa aareemaaskaa?</romanized>
+<unicode>この地域に交通機関がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>95</phraseID>
+<catID>4</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Are there any airports nearby?</englishPhrase>
+<romanized>cheekaaku nee koo koh gaa aareemaaskaa?</romanized>
+<unicode>近くに空港がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>96</phraseID>
+<catID>4</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Are there any landing fields for smaller aircraft nearby?</englishPhrase>
+<romanized>cheekaaku nee kohgata heekohkee gaa chaaku reeku dehkeeroo baasho gaa aareemaaskaa?</romanized>
+<unicode>近くに小型飛行機が着陸できる場所がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>97</phraseID>
+<catID>4</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Are there any pipelines in the area?</englishPhrase>
+<romanized>sono chee eekee neewaa paaypu raaeen gaa aareemaaskaa?</romanized>
+<unicode>その地域にはパイプラインがありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>98</phraseID>
+<catID>4</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Is the pipeline fenced off in this area?</englishPhrase>
+<romanized>kono chee eekee deh waa paaypu raaeen waa saakoo deh hogo saarehtey eemaaskaa?</romanized>
+<unicode>この地域ではパイプラインは柵で保護されていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>99</phraseID>
+<catID>4</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Is the traffic heavy in this area?</englishPhrase>
+<romanized>kono chee eekee deh waa koh tsoo joo taay gaa heedoy deskaa?</romanized>
+<unicode>この地域では交通渋滞がひどいですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>100</phraseID>
+<catID>4</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Are there bus lines or trains to travel to other places?</englishPhrase>
+<romanized>eedoh no taameh no baasu yaa denshaa gaa aareemaaskaa?</romanized>
+<unicode>移動のためのバスや電車がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>101</phraseID>
+<catID>4</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Are there taxis?</englishPhrase>
+<romanized>taakshee gaa aareemaaskaa?</romanized>
+<unicode>タクシーがありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>102</phraseID>
+<catID>4</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Do these roads get snowed in during the winter?</englishPhrase>
+<romanized>whooyoo waa dohro nee yookee gaa tsoomoree maaskaa?</romanized>
+<unicode>冬は道路に雪が積もりますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>103</phraseID>
+<catID>4</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>How many people own motor vehicles in this area?</englishPhrase>
+<romanized>kono chee eekee deh waa jeedohshaa no shoyoh shaa wa naan neen gooraaee deskaa?</romanized>
+<unicode>この地域では自動車の所有者は何人ぐらいですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>104</phraseID>
+<catID>4</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Are there trucking companies nearby?</englishPhrase>
+<romanized>cheekaakoo nee torak-koo yoosoh gaayshaa gaa aareemaaskaa?</romanized>
+<unicode>近くにトラック輸送会社がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>105</phraseID>
+<catID>4</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Do you have radio contact with people in other places?</englishPhrase>
+<romanized>hoka no baasho nee eeroo heeto tow moo sen deh tsoosheeng deh keemaaskaa?</romanized>
+<unicode>他の場所にいる人と無線で通信できますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>106</phraseID>
+<catID>4</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Can you use these roads during the winter?</englishPhrase>
+<romanized>whooyoo waa kono dohro wo tsookaaeh maaskaa?</romanized>
+<unicode>冬はこの道路を使えますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>107</phraseID>
+<catID>5</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Do not stop if the convoy is attacked!  </englishPhrase>
+<romanized>shaarehtsoo gaa shoogehkee saarehteymo tomat-tey waa eekeh maasen</romanized>
+<unicode>車列が襲撃されても止まってはいけません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>108</phraseID>
+<catID>5</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Drive a minimum of 3 kms before stopping.</englishPhrase>
+<romanized>tomaroo maaeh nee skoonaak tehmo saan keero waa haasht-tey koodaasaay</romanized>
+<unicode>止まる前に少なくとも3キロは走ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>109</phraseID>
+<catID>5</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Following distance is 100m on open highway.</englishPhrase>
+<romanized>koh soku dohro deh no shaa kang kyoree waa hyaaku meyhtoroo des</romanized>
+<unicode>高速道路での車間距離は１００メートルです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>110</phraseID>
+<catID>5</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Following distance is 50m in towns.</englishPhrase>
+<romanized>maachee naakaa deh no shaa kang kyoree waa gojoo meyhtoroo des</romanized>
+<unicode>街中での車間距離は50メートルです。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>111</phraseID>
+<catID>5</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>When stopped on the road, keep enough space between vehicles to drive around if required.</englishPhrase>
+<romanized>tey shaa sooroo tokee waa hokaa no shaaryo gaa tohree nookeh raarehroo kooraay no jooboon naa kyoree wo oeetey koodaasaay</romanized>
+<unicode>停車する時は他の車両が通り抜けられるくらいの十分な距離を置いてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>112</phraseID>
+<catID>5</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>If you lose sight of the convoy, slow down and wait for a military truck to pass you, and follow it.</englishPhrase>
+<romanized>shaa rehtsu wo mee ooshee-nat-taaraa sokudo wo otoshteh oonten wo keyh zokoo shee behtsoo no goon no toraak-ku gaa oynookoo no wo mat-tey sono oosheero nee tsooeetey eekoo yoh nee shtey koodaasaay</romanized>
+<unicode>車列を見失ったら、速度を落として運転を継続し、別の軍のトラックが追い抜くのを待って、その後ろに着いていくようにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>113</phraseID>
+<catID>5</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>No weapons.</englishPhrase>
+<romanized>bookee naashee</romanized>
+<unicode>武器なし。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>114</phraseID>
+<catID>5</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>No cell phone use.</englishPhrase>
+<romanized>keyhtaay denwaa shee yoh keenshee</romanized>
+<unicode>携帯電話使用禁止。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>115</phraseID>
+<catID>5</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do not throw food or water to the locals.</englishPhrase>
+<romanized>shaaryoh kaaraa genchee no heeto nee shokuryoh yaa meezoo wo naagehnaay deh koodaasaay</romanized>
+<unicode>車両から現地の人に食料や水を投げないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>116</phraseID>
+<catID>5</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>No littering or dumping trash on military camps or staging areas.</englishPhrase>
+<romanized>choo tonchee yaa shook eychee deh waa gomee wo naagey sutey naay deh koodaasaay</romanized>
+<unicode>駐屯地や宿営地ではゴミを投げ捨てたりしないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>117</phraseID>
+<catID>5</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Go around any broken down truck in the convoy.</englishPhrase>
+<romanized>shaa rehtsoo choo nee ko shoh shaaryoh wo mee tsukehtehmo yoko wo tohree soogeetey koodaasaay</romanized>
+<unicode>車列中に故障車両を見つけても横を通り過ぎてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>118</phraseID>
+<catID>5</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>No flashing beacons.</englishPhrase>
+<romanized>hak-koh sheeng go sheeyoh keenshee</romanized>
+<unicode>発光信号使用禁止。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>119</phraseID>
+<catID>5</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Fuel vehicle every time vehicle stops.</englishPhrase>
+<romanized>teyshaa sooroo taabee nee kaanaaraazoo nenryo wo eereetey koodaasaay</romanized>
+<unicode>停車する度に必ず燃料を入れてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>120</phraseID>
+<catID>5</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Food is provided at some military camps when available.</englishPhrase>
+<romanized>teykeegee shokuryo wo haaykyu shteh eeroo chootonchee mo aareemaas</romanized>
+<unicode>適宜食料を配給している駐屯地もあります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>121</phraseID>
+<catID>5</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Bring plenty of food and water with you.</englishPhrase>
+<romanized>joo boon na shoky ryoh tow meezoo wo keyh koh sheetey koodaasaay</romanized>
+<unicode>十分な食料と水を携行してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>122</phraseID>
+<catID>5</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>If you have to stop for any reason and the convoy continues, wait for help from the military. </englishPhrase>
+<romanized>dohshteh mo kooroomaa wo tomehtey shaa rehtsoo wo haanaarehnaa kehrehba naaraanaay saay nee waa kaanaaraazoo goon no kyuu jo wo mat-tey koodaasaay</romanized>
+<unicode>どうしても車を止めて車列を離れなければならない際には必ず軍の救助を待ってください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>123</phraseID>
+<catID>5</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>They will escort you back into position.</englishPhrase>
+<romanized>kaarehraa gaa moto no eechee nee eskoh tow sheemas</romanized>
+<unicode>彼等が元の位置にエスコートします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>124</phraseID>
+<catID>5</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>No fighting or arguing with any other driver over position in convoy.</englishPhrase>
+<romanized>shaa rehtsoo choo no eechee wo megoot-tey hoka no doraaybaah tow momeh goto wo okosaanaay yoh nee shteh koodaasaay</romanized>
+<unicode>車列中の位置をめぐって他のドライバーと揉め事を起こさないようにしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>125</phraseID>
+<catID>5</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Drive in a single file.</englishPhrase>
+<romanized>eechee rehtsoo jootaay deh oonten shteh koodaasaay</romanized>
+<unicode>一列縦隊で運転してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>126</phraseID>
+<catID>5</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Be prepared to stop and assist broken down trucks. (Note: This is an instruction for bobtail drivers.)</englishPhrase>
+<romanized>teyh shaa shtey hoka no toraak-ku wo shee yen sooroo jyoonbee wo shtey koodaasaay</romanized>
+<unicode>停車して他の故障したトラックを支援する準備をしてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>127</phraseID>
+<catID>5</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Report any problems with other drivers to the convoy commander.</englishPhrase>
+<romanized>hoka no doraaybaah to no aaeedaa no mondaay waa eekaanaaroo monomo gosoh sheekee kan nee hoh koku shtey koodaasaay</romanized>
+<unicode>他のドライバーとの間の問題はいかなるものも護送指揮官に報告してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>128</phraseID>
+<catID>5</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>No drug or alcohol use while driving.</englishPhrase>
+<romanized>oonten choo waa yakuzaai aarooee waa aarookohroo no sheeyoh keenshee</romanized>
+<unicode>運転中は薬剤あるいはアルコールの使用禁止。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>129</phraseID>
+<catID>5</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Know how to change tires and have proper tools.</englishPhrase>
+<romanized>taayyaa koh kan nee tsooeeteh waa jeereekee deh okonaau koto</romanized>
+<unicode>タイヤ交換については自力で行うこと。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>130</phraseID>
+<catID>5</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Loads, straps, chains, and tires are the drivers' responsibility.</englishPhrase>
+<romanized>sekee saay bootsoo baaku chaaku cheyn tow taayyaa nee kan shtey waa doraaybaah no sekeeneen des</romanized>
+<unicode>積載物、縛着、チェーンとタイヤに関してはドライバーの責任です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>131</phraseID>
+<catID>5</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Check every time the convoy stops.</englishPhrase>
+<romanized>shaa rehtsoo gaa tey shaa soorootaabee nee tenken sooroo koto</romanized>
+<unicode>車列が停止する度に点検すること。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>132</phraseID>
+<catID>6</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>How many people live in this area?</englishPhrase>
+<romanized>kono cheekee nee naan neen soondeh eemaaskaa?</romanized>
+<unicode>この地域には何人住んでいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>133</phraseID>
+<catID>6</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>How many water wells do you have in this area?</englishPhrase>
+<romanized>kono chee eekee nee eedo waa eekootsoo aareemaaskaa?</romanized>
+<unicode>この地域に井戸はいくつありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>134</phraseID>
+<catID>6</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Do you have a sewage system in this area?</englishPhrase>
+<romanized>kono chee eekee nee waa gehsooee doh gaa aareemaaskaa?</romanized>
+<unicode>この地域には下水道がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>135</phraseID>
+<catID>6</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>How far are the latrines from the water wells?</englishPhrase>
+<romanized>eedo kaaraa benjyo maadeh dono gooraaee haanaarehtey eemaaskaa?</romanized>
+<unicode>井戸から便所までどのぐらい離れていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>136</phraseID>
+<catID>6</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>What type of herds graze in this area?</englishPhrase>
+<romanized>kono chee eekee nee waa don-naa kaacheekoo gaa hohboku saareh-tey eemaaskaa?</romanized>
+<unicode>この地域にはどんな家畜が放牧されていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>137</phraseID>
+<catID>6</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Is there a veterinarian?</englishPhrase>
+<romanized>jyoo ee gaa eemaaskaa?</romanized>
+<unicode>獣医がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>138</phraseID>
+<catID>6</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Are there any factories in the area? </englishPhrase>
+<romanized>sono cheekee nee waa koh jyoh gaa aareemaaskaa?</romanized>
+<unicode>その地域には工場がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>139</phraseID>
+<catID>6</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Is there a river nearby?</englishPhrase>
+<romanized>cheekaakoo nee kaasen gaa aareemaaskaa?</romanized>
+<unicode>近くに河川がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>140</phraseID>
+<catID>6</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Where do you get electricity from?</englishPhrase>
+<romanized>dengkee waa doko kaaraa keetey eemaaskaa?</romanized>
+<unicode>電気はどこから来ていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>141</phraseID>
+<catID>6</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Is there a power plant nearby?</englishPhrase>
+<romanized>cheekaakoo nee haatsudengsho gaa aareemaaska?</romanized>
+<unicode>近くに発電所がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>142</phraseID>
+<catID>6</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>What kind of electrical appliances do people use?</englishPhrase>
+<romanized>don-naa kaaden wo tsukat-tey eemaaskaa?</romanized>
+<unicode>どんな家電を使っていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>143</phraseID>
+<catID>6</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Do you use electric stoves?</englishPhrase>
+<romanized>dengkee sutohboo wo tsukaay maskaa?</romanized>
+<unicode>電気ストーブを使いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>144</phraseID>
+<catID>6</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Have there been forest fires in the area?</englishPhrase>
+<romanized>sono chee eekee deh yaamaakaajee gaa okot-taa koto gaa aareemaaskaa?</romanized>
+<unicode>その地域で山火事が起こったことがありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>145</phraseID>
+<catID>6</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Are there any gas pipes around here?</englishPhrase>
+<romanized>kono hen nee gaas paaypu gaa aareemaaskaa?</romanized>
+<unicode>この辺にガスパイプがありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>146</phraseID>
+<catID>6</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Do you use gas to heat homes around here?</englishPhrase>
+<romanized>kono hen deh waa ee eh wo damboh sooroo no nee gaas wo tsukaay maskaa?</romanized>
+<unicode>この辺では家を暖房するのにガスを使いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>147</phraseID>
+<catID>6</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Is gas used for cooking?</englishPhrase>
+<romanized>ryohree nee waa gaas wo tsukaay maskaa?</romanized>
+<unicode>料理にはガスを使いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>148</phraseID>
+<catID>6</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Do you use propane gas tanks?</englishPhrase>
+<romanized>puropaan no gaas bombeh wo tsukat-tey eemaaskaa?</romanized>
+<unicode>プロパンのガスボンベを使っていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>149</phraseID>
+<catID>6</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Where do you get propane gas tanks supplied from?</englishPhrase>
+<romanized>puropaan g gaas bombeh waa doko deh nyuu shu dehkee maaskaa?</romanized>
+<unicode>プロパンガスボンベはどこで入手できますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>150</phraseID>
+<catID>6</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Is there anyone to inspect home gas appliances?</englishPhrase>
+<romanized>gaas keegoo wo kensaa dehkeeroo heeto gaa eemaasen kaa?</romanized>
+<unicode>ガス器具を検査できる人がいませんか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>151</phraseID>
+<catID>6</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>Is there an electrician here?</englishPhrase>
+<romanized>dengkee koh gaa eemaaskaa?</romanized>
+<unicode>電気工がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>152</phraseID>
+<catID>6</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>Is there a water supply system to households?</englishPhrase>
+<romanized>jyoh sooee doh ga aareemaaskaa?</romanized>
+<unicode>上水道がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>153</phraseID>
+<catID>6</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Where is the facility located?</englishPhrase>
+<romanized>jyoh suee jyoh wa docheeraa deskaa?</romanized>
+<unicode>浄水場はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>154</phraseID>
+<catID>6</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>How many people operate the system?</englishPhrase>
+<romanized>naan neen deh juu jee shtey eemaaskaa?</romanized>
+<unicode>何人で従事していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>155</phraseID>
+<catID>6</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Is it connected to other water supply systems?</englishPhrase>
+<romanized>hoka no suee doh tow tsoonaa gaat-tey eemaaskaa?</romanized>
+<unicode>他の水道とつながっていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>156</phraseID>
+<catID>6</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Is it functional?</englishPhrase>
+<romanized>saadoh shtey eemaaskaa?</romanized>
+<unicode>作動していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>157</phraseID>
+<catID>6</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Where are the sources of raw water?</englishPhrase>
+<romanized>suee geng waa docheeraa deskaa?</romanized>
+<unicode>水源はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>158</phraseID>
+<catID>6</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Is it polluted?</englishPhrase>
+<romanized>osen saareetey eemaaskaa?</romanized>
+<unicode>汚染されていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>159</phraseID>
+<catID>6</catID>
+<phraseOrder>28</phraseOrder>
+<englishPhrase>Is there a water treatment used?</englishPhrase>
+<romanized>jyoh suee shoree gaa naasaarehtey eemaaskaa?</romanized>
+<unicode>上水処理がなされていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>160</phraseID>
+<catID>6</catID>
+<phraseOrder>29</phraseOrder>
+<englishPhrase>Is it chemical?</englishPhrase>
+<romanized>yakuzaay deskaa?</romanized>
+<unicode>薬剤ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>161</phraseID>
+<catID>6</catID>
+<phraseOrder>30</phraseOrder>
+<englishPhrase>Is it through filtration?</englishPhrase>
+<romanized>rokaashoree saareh-tey eemaaska?</romanized>
+<unicode>ろ過処理されていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>162</phraseID>
+<catID>6</catID>
+<phraseOrder>31</phraseOrder>
+<englishPhrase>Is it by sedimentation?</englishPhrase>
+<romanized>chinden shoree waa okonaa waarehtey eemaaskaa?</romanized>
+<unicode>沈殿処理は行われていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>163</phraseID>
+<catID>6</catID>
+<phraseOrder>32</phraseOrder>
+<englishPhrase>Where is the pumping station?</englishPhrase>
+<romanized>pompu jyoh waa docheeraa deskaa?</romanized>
+<unicode>ポンプ場はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>164</phraseID>
+<catID>6</catID>
+<phraseOrder>33</phraseOrder>
+<englishPhrase>How many people are needed to keep the system functional?</englishPhrase>
+<romanized>sheesutehmoo oonyoh neewaa naan neen heetsooyoh deskaa?</romanized>
+<unicode>システム運用には何人必要ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>165</phraseID>
+<catID>6</catID>
+<phraseOrder>34</phraseOrder>
+<englishPhrase>We've heard that there have been some problems with sewage in this neighborhood.</englishPhrase>
+<romanized>go keenjyo nee gehsuee no mon daay gaa aaroo tow keekee maasheetaa</romanized>
+<unicode>ご近所に下水の問題があると聞きました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>166</phraseID>
+<catID>6</catID>
+<phraseOrder>35</phraseOrder>
+<englishPhrase>Do you have indoor plumbing?</englishPhrase>
+<romanized>otaku waa gehsuee haaykan gaa naasaarehtey eemaaskaa?</romanized>
+<unicode>お宅は下水配管がなされていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>167</phraseID>
+<catID>6</catID>
+<phraseOrder>36</phraseOrder>
+<englishPhrase>Do you have any problems with your plumbing? </englishPhrase>
+<romanized>haaykan nee mondaay gaa aareemaaskaa?</romanized>
+<unicode>配管に問題がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>168</phraseID>
+<catID>6</catID>
+<phraseOrder>37</phraseOrder>
+<englishPhrase>Does your toilet work?</englishPhrase>
+<romanized>toyreh waa meezoo gaa naagaareh maaskaa?</romanized>
+<unicode>トイレは水が流れますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>169</phraseID>
+<catID>6</catID>
+<phraseOrder>38</phraseOrder>
+<englishPhrase>How many toilets do you have in the house?</englishPhrase>
+<romanized>otaakoo nee toyreh gaa eekootsu aareemaaskaa?</romanized>
+<unicode>お宅にトイレがいくつありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>170</phraseID>
+<catID>6</catID>
+<phraseOrder>39</phraseOrder>
+<englishPhrase>Do you have a septic tank?</englishPhrase>
+<romanized>jyoh kaasoh gaa aareemaaskaa?</romanized>
+<unicode>浄化槽がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>171</phraseID>
+<catID>6</catID>
+<phraseOrder>40</phraseOrder>
+<englishPhrase>Is there anyone who can fix your sewer?</englishPhrase>
+<romanized>gehsuee kan wo shuree dehkeeroo heeto gaa eemaaskaa?</romanized>
+<unicode>下水管を修理できる人がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>172</phraseID>
+<catID>6</catID>
+<phraseOrder>41</phraseOrder>
+<englishPhrase>Have you contacted anyone regarding this problem? If so who?</englishPhrase>
+<romanized>kono koto deh daarehkaa nee rengraku sheemaashtaakaa? soreh wa daareh deskaa?</romanized>
+<unicode>このことで誰かに連絡しましたか。それは誰ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>173</phraseID>
+<catID>6</catID>
+<phraseOrder>42</phraseOrder>
+<englishPhrase>When did you contact them?</englishPhrase>
+<romanized>eetsoo rengraku sheemaashtaakaa?</romanized>
+<unicode>いつ連絡しましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>174</phraseID>
+<catID>6</catID>
+<phraseOrder>43</phraseOrder>
+<englishPhrase>I will report this higher up and see if there is something we can do to fix the sewage problem.</englishPhrase>
+<romanized>ooeh nee hoh koku shtey gehsuee no mondaay gaa kaay kehtsoo dehkeeroo kaa doh kaa taashkaamehtey meemaas</romanized>
+<unicode>上に報告して、下水の問題が解決できるかどうか確かめてみます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>175</phraseID>
+<catID>6</catID>
+<phraseOrder>44</phraseOrder>
+<englishPhrase>We will contact the sewage company and find out what is being done to correct the problem.</englishPhrase>
+<romanized>haaykan koh nee rengraku shtey mondaay kaay kehtsoo saaku wo meetsukeh daasheemas</romanized>
+<unicode>配管工に連絡して、問題解決策を見つけ出します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>176</phraseID>
+<catID>7</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>How many radios and TVs are in this area?</englishPhrase>
+<romanized>kono chee eekee nee waa raajeeo tow tehrehbee gaa naan daay aareemaaskaa?</romanized>
+<unicode>この地域にはラジオとテレビが何台ありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>177</phraseID>
+<catID>7</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Do you have a radio station in this area?</englishPhrase>
+<romanized>kono chee eekee nee waa raajeeo kyoku gaa aareemaaskaa?</romanized>
+<unicode>この地域にはラジオ局がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>178</phraseID>
+<catID>7</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Do you have a TV station in the area?</englishPhrase>
+<romanized>kono chee eekee nee waa tehrehbee kyoku gaa aareemaaskaa?</romanized>
+<unicode>この地域にはテレビ局がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>179</phraseID>
+<catID>7</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Do you have a public announcement system?</englishPhrase>
+<romanized>cho naay hoh soh gaa aareemaaskaa?</romanized>
+<unicode>町内放送がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>180</phraseID>
+<catID>7</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Where do you post announcements?</englishPhrase>
+<romanized>doko nee koh koku sheemaaskaa?</romanized>
+<unicode>どこに公告しますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>181</phraseID>
+<catID>7</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Is there a local newspaper?</englishPhrase>
+<romanized>chee hoh shee gaa aareemaaskaa?</romanized>
+<unicode>地方紙がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>182</phraseID>
+<catID>7</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Is there a news agency representative nearby? </englishPhrase>
+<romanized>cheekaakoo nee tsoo sheeng sha no heeto ga eemaaskaa?</romanized>
+<unicode>近くに通信社の人がいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>183</phraseID>
+<catID>7</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Is there an information center?</englishPhrase>
+<romanized>eenfomehshong sentaa gaa aareemaaskaa?</romanized>
+<unicode>インフォメーションセンターがありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>184</phraseID>
+<catID>7</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do you receive fliers? </englishPhrase>
+<romanized>cheeraashee wo ookeh toree maaskaa?</romanized>
+<unicode>チラシを受け取りますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>185</phraseID>
+<catID>7</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Who distributes the fliers?</englishPhrase>
+<romanized>daareh gaa cheeraashee wo kubaat-tey eemaaskaa?</romanized>
+<unicode>誰がチラシを配っていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>186</phraseID>
+<catID>7</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Where do you buy a newspaper?</englishPhrase>
+<romanized>doko deh shimboon wo kaay maaskaa?</romanized>
+<unicode>どこで新聞を買いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>187</phraseID>
+<catID>8</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>May I see your ID?</englishPhrase>
+<romanized>meeboon shohmeysho wo meesehtey koodaasaay</romanized>
+<unicode>身分証明書を見せてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>188</phraseID>
+<catID>8</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Where do you live?</englishPhrase>
+<romanized>doko nee soondeh eemaaskaa?</romanized>
+<unicode>どこに住んでいますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>189</phraseID>
+<catID>8</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Where is the farm located?</englishPhrase>
+<romanized>noh jyoh wa doko nee aareemaaskaa?</romanized>
+<unicode>農場はどこにありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>190</phraseID>
+<catID>8</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>What was produced on the farm?</englishPhrase>
+<romanized>noh jyoh deh wa naanee wo seysaan shtey eemaaskaa?</romanized>
+<unicode>農場では何を生産していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>191</phraseID>
+<catID>8</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Who confiscated the land?</englishPhrase>
+<romanized>daareh gaa tochee wo shooyoh sheemaashtaakaa?</romanized>
+<unicode>誰が土地を収用しましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>192</phraseID>
+<catID>8</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Who now occupies your farm?</englishPhrase>
+<romanized>eemaa daareh ga aanaataa no noh jyoh wo sen yoo shtey eemaaskaa?</romanized>
+<unicode>今、誰があなたの農場を占有していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>193</phraseID>
+<catID>8</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>Have you talked with them?</englishPhrase>
+<romanized>kaarehraa tow haanaasheeaay maashtaakaa?</romanized>
+<unicode>彼等と話し合いましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>194</phraseID>
+<catID>8</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>Do you have documentation?</englishPhrase>
+<romanized>boon-sho gaa aareemaaskaa?</romanized>
+<unicode>文書がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>195</phraseID>
+<catID>8</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Do you think it's dangerous?</englishPhrase>
+<romanized>keeken daa tow omoy maaskaa?</romanized>
+<unicode>危険だと思いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>196</phraseID>
+<catID>8</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>I will contact the appropriate authorities to investigate this matter.</englishPhrase>
+<romanized>kono keng wo sheeraabehroo taamey kankeyh towkyoku to rengraku wo toreemaas</romanized>
+<unicode>この件を調べるため関係当局と連絡を取ります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>197</phraseID>
+<catID>8</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Please know we will assist you.</englishPhrase>
+<romanized>waareh waareh no shee yen nee goreekaay koodaasaay</romanized>
+<unicode>我々の支援にご理解ください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>198</phraseID>
+<catID>8</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>You must allow the local authorities to conduct their investigation.</englishPhrase>
+<romanized>genchee towkyoku gaa chohsaa wo okonaaoo koto wo kyokaa shtey koodaasaay</romanized>
+<unicode>現地当局が調査を行うことを許可してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>199</phraseID>
+<catID>8</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>You must go to the base and speak with an interpreter.</englishPhrase>
+<romanized>keechee nee eet-teh tsooyaku tantow sha tow haanaashtey koodaasaay</romanized>
+<unicode>基地に行って通訳担当者と話してください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>200</phraseID>
+<catID>8</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>The name of the owner</englishPhrase>
+<romanized>shoyoo shaamey</romanized>
+<unicode>所有者名</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>201</phraseID>
+<catID>8</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>The name of the property</englishPhrase>
+<romanized>zaaysaan mey</romanized>
+<unicode>財産名</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>202</phraseID>
+<catID>8</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Location of the property</englishPhrase>
+<romanized>fudoh saan no shozaaychee</romanized>
+<unicode>不動産の所在地</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>203</phraseID>
+<catID>8</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Present use of the property</englishPhrase>
+<romanized>fudoh saan no yoh to</romanized>
+<unicode>不動産の用途</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>204</phraseID>
+<catID>8</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>What is the condition of the property?</englishPhrase>
+<romanized>fudoh saan no jyoh taay</romanized>
+<unicode>不動産の状態</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>205</phraseID>
+<catID>8</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Who has the title? </englishPhrase>
+<romanized>daareh gaa fudoh saan wo tohkee shteh eemaaskaa?</romanized>
+<unicode>誰が不動産を登記していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>206</phraseID>
+<catID>9</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Put your hands on the steering wheel and do not move them.</englishPhrase>
+<romanized>ryoh teh wo haandoroo no ooeh nee oyteh oogokaasaanaay deh koodaasaay</romanized>
+<unicode>両手をハンドルの上に置いて動かさないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>207</phraseID>
+<catID>9</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>You are breaking the curfew. </englishPhrase>
+<romanized>yaakan gaay shootsoo keenshee reh nee eehaan shtey eemaas</romanized>
+<unicode>夜間外出禁止令に違反しています。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>208</phraseID>
+<catID>9</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>You were speeding.</englishPhrase>
+<romanized>supeedo eehaan des</romanized>
+<unicode>スピード違反です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>209</phraseID>
+<catID>9</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>The curfew is in effect.</englishPhrase>
+<romanized>yaakan gaay shootsoo keenshee choo des</romanized>
+<unicode>夜間外出禁止中です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>210</phraseID>
+<catID>9</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Did you know there is a curfew?</englishPhrase>
+<romanized>yaakan gaay shootsoo keenshee choo nee naat-tey eeroo no wo sheet-te eemaaskaa?</romanized>
+<unicode>夜間外出禁止になっているのを知っていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>211</phraseID>
+<catID>9</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>The streets are not safe right now.</englishPhrase>
+<romanized>maachee waa eemaa kee ken des</romanized>
+<unicode>街は今危険です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>212</phraseID>
+<catID>9</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>We will escort you to your relatives.</englishPhrase>
+<romanized>aanaataa wo kaazokoo no moto eh tsoorehtey eekeemaas</romanized>
+<unicode>あなたをご家族の元へ連れて行きます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>213</phraseID>
+<catID>9</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>The police station will give you information about curfew.</englishPhrase>
+<romanized>keyh saatsu sho deh yaakan gaay shootsoo keenshee reh nee kaan sooroo jyoh hoh wo owaataashee sheemaas</romanized>
+<unicode>警察署で夜間外出禁止令に関する情報をお渡しします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>214</phraseID>
+<catID>9</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Turn off the engine. </englishPhrase>
+<romanized>enjeen wo tomehtey koodaasaay</romanized>
+<unicode>エンジンを止めてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>215</phraseID>
+<catID>9</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Get out of your vehicle.</englishPhrase>
+<romanized>kuroomaa kaaraa oreeteh koodaasaay</romanized>
+<unicode>車から降りてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>216</phraseID>
+<catID>9</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>May I see your ID, please?</englishPhrase>
+<romanized>meeboon shoh meyh sho wo meesehtey koodaasaay</romanized>
+<unicode>身分証明書を見せてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>217</phraseID>
+<catID>9</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Where are you going?</englishPhrase>
+<romanized>doko eh eekeemaaskaa?</romanized>
+<unicode>どこへ行きますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>218</phraseID>
+<catID>9</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Are you carrying any weapons?</englishPhrase>
+<romanized>bookee wo shojee shteh eemaaskaa?</romanized>
+<unicode>武器を所持していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>219</phraseID>
+<catID>9</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>How much money are you carrying?</englishPhrase>
+<romanized>eekuraa gengkeen wo shojee shteh eemaaskaa?</romanized>
+<unicode>いくら現金を所持していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>220</phraseID>
+<catID>9</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Who gave you the money?</englishPhrase>
+<romanized>sono okaaneh waa daareh kaaraa moraay maashtaakaa?</romanized>
+<unicode>そのお金は誰からもらいましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>221</phraseID>
+<catID>9</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Do you have a gun under the seat?</englishPhrase>
+<romanized>zaasehkee no shtaa nee jyoo gaa aareemaaskaa?</romanized>
+<unicode>座席の下に銃がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>222</phraseID>
+<catID>9</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Are you hiding anything illegal?</englishPhrase>
+<romanized>naanee kaa eehoh naa mono wo kaakoo shteh eemaaskaa?</romanized>
+<unicode>何か違法なものを隠していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>223</phraseID>
+<catID>9</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Since you broke the law, we have to arrest you. </englishPhrase>
+<romanized>anaataa wo taayho sheemaas</romanized>
+<unicode>あなたを逮捕します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>224</phraseID>
+<catID>9</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>We have to take you to the police station.</englishPhrase>
+<romanized>keyh saatsu sho eh rengkoh sheemaas</romanized>
+<unicode>警察署へ連行します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>225</phraseID>
+<catID>9</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>You will ride with us to the police station.</englishPhrase>
+<romanized>keyh saatsu sho maadeh go dohkoh eetaadaakeemaas</romanized>
+<unicode>警察署までご同行いただきます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>227</phraseID>
+<catID>9</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>He broke the curfew.</englishPhrase>
+<romanized>kaaree waa yaakan gaay shootsoo keenshee reh wo yaabooree maasheeta</romanized>
+<unicode>彼は夜間外出禁止令を破りました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>228</phraseID>
+<catID>9</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Can you help verify the man's identity?</englishPhrase>
+<romanized>kono jeembootsoo no meemoto wo kaakuneen shteh eetaadaakeh maaskaa?</romanized>
+<unicode>この人物の身元を確認していただけますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>229</phraseID>
+<catID>9</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>He was hiding a gun. </englishPhrase>
+<romanized>kaareh waa jyuu wo kaaku shteh eemaasheetaa</romanized>
+<unicode>彼は銃を隠していました。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>230</phraseID>
+<catID>10</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Turn off your engine.</englishPhrase>
+<romanized>enjeen wo tomehtey koodaasaay</romanized>
+<unicode>エンジンを止めてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>231</phraseID>
+<catID>10</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Get out of the truck please.</englishPhrase>
+<romanized>toraak-ku kaaraa oreeteh koodaasaay</romanized>
+<unicode>トラックから降りてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>232</phraseID>
+<catID>10</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Where are you coming from?</englishPhrase>
+<romanized>docheeraa kaaraa keemaashtaakaa?</romanized>
+<unicode>どちらから来ましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>233</phraseID>
+<catID>10</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Where are you going to?</englishPhrase>
+<romanized>docheeraa nee mookaat-tey eemaaskaa?</romanized>
+<unicode>どちらに向かっていますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>234</phraseID>
+<catID>10</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>What are you transporting?</englishPhrase>
+<romanized>naanee wo yoosoh shteh eemaaskaa?</romanized>
+<unicode>何を輸送していますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>235</phraseID>
+<catID>10</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Please unlock the back door.</englishPhrase>
+<romanized>oosheero no doaa no kaagee wo aakehteh koodaasaay</romanized>
+<unicode>後ろのドアの鍵を開けてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>236</phraseID>
+<catID>10</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>We need to inspect the cargo.</englishPhrase>
+<romanized>tsoomee nee wo sheeraabehroo heetsooyoh gaa aareemaas</romanized>
+<unicode>積荷を調べる必要があります。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>237</phraseID>
+<catID>10</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>What is this?</englishPhrase>
+<romanized>koreh wa naan deskaa?</romanized>
+<unicode>これは何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>238</phraseID>
+<catID>10</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Where did you get this ammunition?</englishPhrase>
+<romanized>doko deh kono daanyaaku wo tey nee eereh maasheetaaka?</romanized>
+<unicode>どこでこの弾薬を手に入れましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>239</phraseID>
+<catID>10</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Who does this ammunition belong to?</englishPhrase>
+<romanized>koreh wa dareh no daanyaaku deskaa?</romanized>
+<unicode>これは誰の弾薬ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>240</phraseID>
+<catID>10</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>We are going to detain you and confiscate your truck.</englishPhrase>
+<romanized>aanaataa wo koh ryoo shteh toraak-ku wo ohshoo sheemaas</romanized>
+<unicode>あなたを拘留してトラックを押収します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>241</phraseID>
+<catID>10</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>You will get your truck back if you tell us who you are taking this to.</englishPhrase>
+<romanized>kono tsoomeenee wo ookeetoree neen no jyoh hoh tow heekeekaaeh nee aanaataa no toraak-ku wo kaaeh sheemaas</romanized>
+<unicode>この積荷を受取人の情報と引換えにあなたのトラックを返します。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>242</phraseID>
+<catID>11</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>The name of the village </englishPhrase>
+<romanized>mooraa no naamaaeh</romanized>
+<unicode>村の名前。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>243</phraseID>
+<catID>11</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>The location of the village</englishPhrase>
+<romanized>mooraa no eechee</romanized>
+<unicode>村の位置。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>244</phraseID>
+<catID>11</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Is there road access for cars?</englishPhrase>
+<romanized>kuroomaa gaa soh koh dehkeeroo meechee gaa aareemaaskaa?</romanized>
+<unicode>車が走行できる道がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>245</phraseID>
+<catID>11</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Is there a road access for four-wheel drive?</englishPhrase>
+<romanized>yonreeng ku doh shaa gaa soh koh dehkeeroo meechee gaa aareemaaskaa?</romanized>
+<unicode>四輪駆動車が走行できる道がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>246</phraseID>
+<catID>11</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Is there a road access for trucks?</englishPhrase>
+<romanized>toraak-ku gaa soh koh dehkeeroo meechee gaa aareemaaskaa?</romanized>
+<unicode>トラックが走行できる道がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>247</phraseID>
+<catID>11</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Is the road accessible in the winter?</englishPhrase>
+<romanized>fooyoo deh mo soh koh dehkeeroo meechee gaa aareemaaskaa?</romanized>
+<unicode>冬でも走行できる道がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>248</phraseID>
+<catID>11</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>What is the number of the current population?</englishPhrase>
+<romanized>genzaay no jeengkoh waa?</romanized>
+<unicode>現在の人口は。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>249</phraseID>
+<catID>11</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>How many children are there?</englishPhrase>
+<romanized>meeseyh nen waa naan neen eemaaskaa?</romanized>
+<unicode>未成年は何人いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>250</phraseID>
+<catID>11</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>How many men are there?</englishPhrase>
+<romanized>seyh jeen danseyh waa naan neen deskaa?</romanized>
+<unicode>成人男性は何人ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>251</phraseID>
+<catID>11</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>How many women are there?</englishPhrase>
+<romanized>seyh jeen jyoseyh waa naan neen deskaa?</romanized>
+<unicode>成人女性は何人ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>252</phraseID>
+<catID>11</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>How many locals are there?</englishPhrase>
+<romanized>genchee jeen waa naan neen eemaaskaa?</romanized>
+<unicode>現地人は何人いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>253</phraseID>
+<catID>11</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>How many refugees are there?</englishPhrase>
+<romanized>naan meeng waa naan neen deskaa?</romanized>
+<unicode>難民は何人ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>254</phraseID>
+<catID>11</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>How many returnees are there?</englishPhrase>
+<romanized>sen chee kaaraa no kee kang shtaa hito waa naan neen eemaasuka?</romanized>
+<unicode>戦地からの帰還した人は何名いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>255</phraseID>
+<catID>11</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>Who is the community leader?</englishPhrase>
+<romanized>kono chee eekee no sheedoh shaa waa daareh deskaa?</romanized>
+<unicode>この地域の指導者は誰ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>256</phraseID>
+<catID>11</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>Who is responsible for food distribution?</englishPhrase>
+<romanized>shok ryoh haaee kyoo no sekee neen shaa waa dareh deskaa?</romanized>
+<unicode>食料配給の責任者は誰ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>257</phraseID>
+<catID>11</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Where is the local warehouse?</englishPhrase>
+<romanized>soh ko waa docheeraa deskaa?</romanized>
+<unicode>倉庫はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>258</phraseID>
+<catID>11</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Is there a storage facility?</englishPhrase>
+<romanized>cho zoh sheesehtsoo gaa aareemaaskaa?</romanized>
+<unicode>貯蔵施設がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>259</phraseID>
+<catID>11</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>Is this village used for secondary distribution?</englishPhrase>
+<romanized>kono mooraa wo neejee boom paaee nee tsookaa-ee maaskaa?</romanized>
+<unicode>この村を二次分配に使いますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>260</phraseID>
+<catID>11</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>Which villages receive assistance from this village?</englishPhrase>
+<romanized>dono mooraa gaa kono mooraakaaraa shee eng wo ookeemaaskaa?</romanized>
+<unicode>どの村がこの村から支援を受けますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>261</phraseID>
+<catID>11</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>How many damaged houses in this village?</englishPhrase>
+<romanized>kono mooraa no heegaay kaa oku no kensoo waa?</romanized>
+<unicode>この村の被害家屋の軒数は。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>262</phraseID>
+<catID>11</catID>
+<phraseOrder>21</phraseOrder>
+<englishPhrase>How many unfinished houses in this village?</englishPhrase>
+<romanized>meekan sey no kaa oku waa naan ken aareemaaskaa?</romanized>
+<unicode>未完成の家屋は何軒ありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>263</phraseID>
+<catID>11</catID>
+<phraseOrder>22</phraseOrder>
+<englishPhrase>Was there any new war damage to buildings since before the conflict?</englishPhrase>
+<romanized>foong soh maaeh kaaraa aaraataa nee heesaay shteh eetaa taateh mono gaa aareemaashtaakaa?</romanized>
+<unicode>紛争前から新たに被災していた建物がありましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>264</phraseID>
+<catID>11</catID>
+<phraseOrder>23</phraseOrder>
+<englishPhrase>Is there a school in the village?</englishPhrase>
+<romanized>kono mooraa nee gaak-koh gaa aareemaaskaa?</romanized>
+<unicode>この村に学校がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>265</phraseID>
+<catID>11</catID>
+<phraseOrder>24</phraseOrder>
+<englishPhrase>Is there a mosque / church in the village?</englishPhrase>
+<romanized>kono mooraa nee kyoh kaay gaa aareemaaskaa?</romanized>
+<unicode>この村に教会がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>266</phraseID>
+<catID>11</catID>
+<phraseOrder>25</phraseOrder>
+<englishPhrase>Is there a bakery?</englishPhrase>
+<romanized>paanyaa gaa aareemaaskaa?</romanized>
+<unicode>パン屋がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>267</phraseID>
+<catID>11</catID>
+<phraseOrder>26</phraseOrder>
+<englishPhrase>Is there a health facility?</englishPhrase>
+<romanized>eeryoh sheeshetsoo gaa aareemaaskaa?</romanized>
+<unicode>医療施設がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>268</phraseID>
+<catID>11</catID>
+<phraseOrder>27</phraseOrder>
+<englishPhrase>Is there any source of food available in the village?</englishPhrase>
+<romanized>mooraa nee shoku ryoh gaa teh nee eerehraarehroo tokoro gaa aareemaaskaa?</romanized>
+<unicode>村に食料が手に入れられる所がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>269</phraseID>
+<catID>12</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Let me put you in contact with someone who can help you.</englishPhrase>
+<romanized>aanaataa wo taasookeh raarehroo heeto tow rengraku gaa torehroo yoh nee sheemaas</romanized>
+<unicode>あなたを助けられる人と連絡が取れるようにします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>270</phraseID>
+<catID>12</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>I will take you to him.</englishPhrase>
+<romanized>kaareh no tokoro nee aanaataa wo tsoorehtey eekeemaas</romanized>
+<unicode>彼のところにあなたを連れて行きます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>271</phraseID>
+<catID>12</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>The person in charge is ___.</englishPhrase>
+<romanized>sekeeneen shaa waa ___ des</romanized>
+<unicode>責任者は ＿_ です。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>272</phraseID>
+<catID>12</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>In order to be compensated for damages, you must talk to ___.</englishPhrase>
+<romanized>hoshoh wo okonaaoo taameh aanaataa waa ___ tow haanaasaanaa kehrehbaa naareemaasen</romanized>
+<unicode>補償を行うため、あなたは ＿_ と話さなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>273</phraseID>
+<catID>12</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>What is your name?</englishPhrase>
+<romanized>o naamaaeh waa naan deskaa?</romanized>
+<unicode>お名前は何ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>274</phraseID>
+<catID>12</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>Where do you live? / What is your address?</englishPhrase>
+<romanized>docheeraa nee soon deh eemaaskaa? / jyoo sho waa docheeraa deskaa?</romanized>
+<unicode>どちらに住んでいますか。/ 住所はどちらですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>275</phraseID>
+<catID>12</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>What happened to your car?</englishPhrase>
+<romanized>kooroomaa nee naanee gaa okoree maashtaakaa?</romanized>
+<unicode>車に何が起こりましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>276</phraseID>
+<catID>12</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>What kind of car is it? (year, make, model)</englishPhrase>
+<romanized>don-naa kooroomaa deskaa? (nen doh, meyhkaa, modehroo)</romanized>
+<unicode>どんな車ですか。（年度、メーカー、モデル）</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>277</phraseID>
+<catID>12</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>Show me your car registration.</englishPhrase>
+<romanized>shaaken shoh wo meesehtey koodaasaay</romanized>
+<unicode>車検証を見せてください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>278</phraseID>
+<catID>12</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>Where is your car right now?</englishPhrase>
+<romanized>kooroomaa waa eema doko nee aareemaaskaa?</romanized>
+<unicode>車は今どこにありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>279</phraseID>
+<catID>12</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>Is your car drivable?</englishPhrase>
+<romanized>aanaataa no kooroomaa waa oogokee maaskaa?</romanized>
+<unicode>あなたの車は動きますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>280</phraseID>
+<catID>12</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>Can you bring your car here?</englishPhrase>
+<romanized>kooroomaa wo koko nee mot-tey korehmaaskaa?</romanized>
+<unicode>車をここに持って来れますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>281</phraseID>
+<catID>12</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Where did the accident happen?</englishPhrase>
+<romanized>doko deh jeeko gaa okee maashtaakaa?</romanized>
+<unicode>どこで事故が起きましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>282</phraseID>
+<catID>12</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>When did the accident happen?</englishPhrase>
+<romanized>eetsoo jeeko gaa okoree maashtaakaa?</romanized>
+<unicode>いつ事故が起こりましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>283</phraseID>
+<catID>12</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>What Civilian Forces' vehicle damaged your car?</englishPhrase>
+<romanized>dono shaaryoh gaa aanaataa no kuroomaa nee songaay wo aataaeh maashtaakaa?</romanized>
+<unicode>どの車両があなたの車に損害を与えましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>284</phraseID>
+<catID>12</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>What soldiers were involved in the accident?</englishPhrase>
+<romanized>dono heyh shee gaa jeeko nee maakee komaareh maashtaakaa?</romanized>
+<unicode>どの兵士が事故に巻き込まれましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>285</phraseID>
+<catID>12</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Thank you for your time.</englishPhrase>
+<romanized>go kyoh ryoku aareegaatoh gozaaeemaas</romanized>
+<unicode>ご協力ありがとうございます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>286</phraseID>
+<catID>12</catID>
+<phraseOrder>18</phraseOrder>
+<englishPhrase>I appreciate your patience.</englishPhrase>
+<romanized>go kyoh ryoku kanshaa eetaasheemaas</romanized>
+<unicode>ご協力感謝いたします。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>287</phraseID>
+<catID>12</catID>
+<phraseOrder>19</phraseOrder>
+<englishPhrase>In order to be compensated for damages, you must fill out this document.</englishPhrase>
+<romanized>hoshoh wo okonaaoo-taameh nee kono shorooee nee gokee nyoo koodaasaay</romanized>
+<unicode>補償を行うために、この書類にご記入ください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>288</phraseID>
+<catID>12</catID>
+<phraseOrder>20</phraseOrder>
+<englishPhrase>In order to be compensated for damages, you must see ___.</englishPhrase>
+<romanized>hoshoh wo okonaaoo taameh nee aanaataa waa ___ to aat-tey eetaadaakaa naakehrehbaa naareemaasen</romanized>
+<unicode>補償を行うためにはあなたは _＿ と会っていただかなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>289</phraseID>
+<catID>13</catID>
+<phraseOrder>1</phraseOrder>
+<englishPhrase>Where can we purchase meat?</englishPhrase>
+<romanized>neekoo waa doko deh kaaeh maaskaa?</romanized>
+<unicode>肉はどこで買えますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>290</phraseID>
+<catID>13</catID>
+<phraseOrder>2</phraseOrder>
+<englishPhrase>Where can we purchase vegetables and fruit?</englishPhrase>
+<romanized>yaasaay tow koodaa mono waa doko deh kaaeh maaskaa?</romanized>
+<unicode>野菜と果物はどこで買えますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>291</phraseID>
+<catID>13</catID>
+<phraseOrder>3</phraseOrder>
+<englishPhrase>Where can we purchase bread and grains?</englishPhrase>
+<romanized>paan tow kokumotsoo rooee waa doko deh kaaeh maaskaa?</romanized>
+<unicode>パンと穀物類はどこで買えますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>292</phraseID>
+<catID>13</catID>
+<phraseOrder>4</phraseOrder>
+<englishPhrase>Where can we purchase dairy products?</englishPhrase>
+<romanized>nyoo seyh heeng waa doko deh kaaeh maaskaa?</romanized>
+<unicode>乳製品はどこで買えますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>293</phraseID>
+<catID>13</catID>
+<phraseOrder>5</phraseOrder>
+<englishPhrase>Where can we purchase water?</englishPhrase>
+<romanized>meezoo waa doko deh kaaeh maaskaa?</romanized>
+<unicode>水はどこで買えますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>294</phraseID>
+<catID>13</catID>
+<phraseOrder>6</phraseOrder>
+<englishPhrase>We need to examine the herd.</englishPhrase>
+<romanized>hohboku saarehtey eeroo kaacheeku wo kensaa sheenaakeerehbaa naareemaasen</romanized>
+<unicode>放牧されている家畜を検査しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>295</phraseID>
+<catID>13</catID>
+<phraseOrder>7</phraseOrder>
+<englishPhrase>We need to examine the animals on the farm.</englishPhrase>
+<romanized>noh jyoh no kaacheeku wo kensaa sheenaakehrehbaa naareemaasen</romanized>
+<unicode>農場の家畜を検査しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>296</phraseID>
+<catID>13</catID>
+<phraseOrder>8</phraseOrder>
+<englishPhrase>We need to inspect the slaughterhouse for sanitation.</englishPhrase>
+<romanized>koh shoo eyh seyh no taamee nee shoku neekoo kaaytaay jyoh wo kensaa sheenaakehrehbaa naareemaasen</romanized>
+<unicode>公衆衛生のために食肉解体場を検査しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>297</phraseID>
+<catID>13</catID>
+<phraseOrder>9</phraseOrder>
+<englishPhrase>We need to inspect the bakery for sanitation.</englishPhrase>
+<romanized>kohshoo eyh seyh no taamee nee paan koh jyoh wo kensaa sheenaakehrehbaa naareemaasen</romanized>
+<unicode>公衆衛生のためにパン工場を検査しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>298</phraseID>
+<catID>13</catID>
+<phraseOrder>10</phraseOrder>
+<englishPhrase>We need to inspect the dairy plant.</englishPhrase>
+<romanized>nyoo seyh heen koh jyoh wo kensaa sheenaakehrehbaa naareemaasen</romanized>
+<unicode>乳製品工場を検査しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>299</phraseID>
+<catID>13</catID>
+<phraseOrder>11</phraseOrder>
+<englishPhrase>We need to inspect the poultry plant.</englishPhrase>
+<romanized>yoh keyh jyoh wo kensaa sheenaakehrehbaa naareemaasen</romanized>
+<unicode>養鶏場を検査しなければなりません。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>300</phraseID>
+<catID>13</catID>
+<phraseOrder>12</phraseOrder>
+<englishPhrase>When was the last time these animals were inoculated?</englishPhrase>
+<romanized>saaee keen waa eetsoo kacheeku nee yoboh ses-shoo wo okonaay maashtaakaa?</romanized>
+<unicode>最近はいつ家畜に予防接種を行いましたか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>301</phraseID>
+<catID>13</catID>
+<phraseOrder>13</phraseOrder>
+<englishPhrase>Do they need to be vaccinated?</englishPhrase>
+<romanized>yoboh ses-shoo gaa heetsooyoh deskaa?</romanized>
+<unicode>予防接種が必要ですか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>302</phraseID>
+<catID>13</catID>
+<phraseOrder>14</phraseOrder>
+<englishPhrase>We can provide vaccinations.</englishPhrase>
+<romanized>yoboh ses-shoo wo kyoh kyoo dehkee maas</romanized>
+<unicode>予防接種を供給できます。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>303</phraseID>
+<catID>13</catID>
+<phraseOrder>15</phraseOrder>
+<englishPhrase>This food is spoiled; please do not eat it.</englishPhrase>
+<romanized>kono taabehmono waa koosat-tey eemaas. taabehnaay deh koodaasaay</romanized>
+<unicode>この食べ物は腐っています。食べないでください。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>304</phraseID>
+<catID>13</catID>
+<phraseOrder>16</phraseOrder>
+<englishPhrase>Are the crops infested with insects?</englishPhrase>
+<romanized>gaaychoo nee okaasaareh teyeeroo noh saaku bootsoo gaa aareemaaskaa?</romanized>
+<unicode>害虫に侵されている農作物がありますか。</unicode>
+</dbo_langKit>
+<dbo_langKit>
+<phraseID>305</phraseID>
+<catID>13</catID>
+<phraseOrder>17</phraseOrder>
+<englishPhrase>Are the animals infected with parasites?</englishPhrase>
+<romanized>keeseyh choo nee okaasaareh teyeeroo doh bootsoo gaa eemaaskaa?</romanized>
+<unicode>寄生虫に侵されている動物がいますか。</unicode>
+</dbo_langKit>
+</dataroot>
